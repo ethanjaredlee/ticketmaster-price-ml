@@ -12,7 +12,17 @@ par={u'name':'value1'}
 resp=requests.get('https://app.ticketmaster.com/discovery/v2/events.json?size=20&keyword=post_malone&sort=relevance,desc&apikey=sPYngrqc3a29GkMAd2SOBDuPm7VdHT9o',params=par)
 response=resp.text
 jsonresp = resp.json()
+events = []
 for i in range(0,len(jsonresp.get(u'_embedded').get(u'events'))):
+    event = []
+    name = jsonresp.get(u'_embedded').get(u'events')[i].get(u'name')
+    genre = jsonresp.get('_embedded').get('events')[i].get('classifications')[0].get('genre').get('name')
+    #city = jsonresp.get('_embedded').get('venues')[0].get('city').get('name')
+    #state = jsonresp.get('_embedded').get('venues')[0].get('state').get('name')
+    event.append(name)
+    event.append(genre)
+    #event.append([city, state])
+    events.append(event)
     year=[]
     month=[]
     day=[]
@@ -30,8 +40,7 @@ for i in range(0,len(jsonresp.get(u'_embedded').get(u'events'))):
     d=datetime.date(int(yyear),int(mmonth),int(dday))
     print d.weekday()
         #print jsonresp.get(u'_embedded').get(u'events')[i].get(u'dates').get(u'start').get(u'localDate')[j]
-
-
+print events
 with open('data.txt', 'w') as outfile:
     json.dump(jsonresp, outfile)
 if resp.status_code != 200:
