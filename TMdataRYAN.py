@@ -13,6 +13,7 @@ par={u'name':'value1'}
 resp=requests.get('https://app.ticketmaster.com/discovery/v2/events.json?size=20&keyword=post_malone&sort=relevance,desc&apikey=sPYngrqc3a29GkMAd2SOBDuPm7VdHT9o',params=par)
 response=resp.text
 jsonresp = resp.json()
+events = []
 for i in range(0,len(jsonresp.get(u'_embedded').get(u'events'))):
     show=Event()
     year=[]
