@@ -22,14 +22,17 @@ artists=['Post Malone', #'Drake',  'Childish Gambino', 'Imagine Dragons', 'Cardi
 #'SZA',
 #'Marshmello',
 #'P!nk', 'Travis Scott',
-'Justin Timberlake', 'Bebe Rexha', 'Rich The Kid', 'Demi Lovato', 'BlocBoy JB',
-'Brett Young', 'Luke Bryan', 'Dan + Shay', 'Royce da' , 'Ella Mai', 'Rae Sremmurd',
-'Metallica', 'Blake Shelton', #'Rihanna',
-'Eminem', 'Maren Morris'
+'Justin Timberlake', 'Bebe Rexha', 'Rich The Kid', #'Demi Lovato',
+'BlocBoy JB',
+'Brett Young', #'Luke Bryan',
+'Dan + Shay', 'Royce da' , 'Ella Mai', 'Rae Sremmurd',
+'Metallica', #'Blake Shelton', #'Rihanna',
+#'Eminem',
+'Maren Morris'
 ]
 
 masterlist={}
-for i in range(0,10):
+for i in range(0,len(artists)):
     dict=TMdataRYAN.eventer(artists[i])
     masterlist.update(dict)
 
@@ -38,24 +41,17 @@ with open('dang.csv', 'w') as f:
     i=0
     for key, value in masterlist.iteritems():
         i=i+1
-        ln = [key]
-        va=[value]
+        ln=[]
         for ik, iv in value.iteritems():
             ln.append(ik)
+    print ln
+    writer.writerow(ln)
     for j in range(0,len(masterlist.items())):
         lan=[]
-        for i in range(0,len(ln)-1):
+        for i in range(0,len(ln)):
             lalaa= masterlist.items()[j][1].items()[i][1]
             btr=str(lalaa)
             lan.append(btr)
         writer.writerow(lan)
 
     #writer.writerow(masterlist.get(ln).get(ln))
-
-with open('result.json', 'w') as fp:
-    json.dump(masterlist, fp)
-
-with open('mycsvfile.csv', 'wb') as f:  # Just use 'w' mode in 3.x
-    w = csv.DictWriter(f, masterlist.keys())
-    w.writeheader()
-    w.writerow(masterlist)
