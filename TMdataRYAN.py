@@ -36,7 +36,7 @@ def eventer(artist):
             weekend=1
         eventcity=jsonresp.get(u'_embedded').get(u'events')[i].get(u'_embedded').get(u'venues')[0].get(u'city').get(u'name')
         eventvenue= jsonresp.get(u'_embedded').get(u'events')[i].get(u'_embedded').get(u'venues')[0].get(u'name')
-        #pricemax=jsonresp.get(u'_embedded').get(u'events')[i].get(u'priceRanges')[0].get(u'max')
+        pricemax=jsonresp.get(u'_embedded').get(u'events')[i].get(u'priceRanges')[0].get(u'max')
         Showname=jsonresp.get(u'_embedded').get(u'events')[i].get(u'name')
         #print jsonresp.get(u'_embedded').get(u'events')[0].get(u'_embedded').get(u'dmas')#get(u'attractions')[0].get(u'id')
         eventgenre= jsonresp.get(u'_embedded').get(u'events')[i].get(u'classifications')[0].get(u'genre').get(u'name')
@@ -61,6 +61,7 @@ def eventer(artist):
         showw.update({'genre':eventgenre})
         showw.update({'weekend':weekend})
         showw.update({'month':mmonth})
+        showw.update({'maxprice':pricemax})
         events.update({eventid:showw})
     return events
     #print 'NEW EVENT!!''weekend:', show.weekend, 'artist:', show.artist, 'genre:', show.genre,'venue:',show.venue,'city:',show.city,'month:',show.month
