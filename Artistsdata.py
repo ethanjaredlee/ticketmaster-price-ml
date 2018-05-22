@@ -20,7 +20,7 @@ artists=['Post Malone', 'Drake',  'Childish Gambino', 'Imagine Dragons', 'Cardi 
 ]
 
 masterlist={}
-for i in range(0,1):
+for i in range(0,len(artists)):
     dict=TMdataRYAN.eventer(artists[i])
     masterlist.update(dict)
 
@@ -37,7 +37,6 @@ with open('dang.csv', 'w') as f:
             lan=[]
             for i in range(0,len(ln)-1):
                 lalaa= masterlist.items()[j][1].items()[i][1]
-                print lalaa
                 lan.append(lalaa)
             writer.writerow(lan)
 
