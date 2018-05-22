@@ -23,4 +23,4 @@ for i in range(0,len(artists)):
     masterlist.update(dict)
 
 with open('result.json', 'w') as fp:
-    json.dump(masterlist.items(), fp)
+    json.dump(masterlist, fp)

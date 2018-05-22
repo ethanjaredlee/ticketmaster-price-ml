@@ -13,6 +13,7 @@ def eventer(artist):
     events = {}
     for i in range(0,len(jsonresp.get(u'_embedded').get(u'events'))):
         show=Event()
+        showw=[]
         year=[]
         month=[]
         day=[]
@@ -34,22 +35,29 @@ def eventer(artist):
             weekend=1
         eventcity=jsonresp.get(u'_embedded').get(u'events')[i].get(u'_embedded').get(u'venues')[0].get(u'city').get(u'name')
         eventvenue= jsonresp.get(u'_embedded').get(u'events')[i].get(u'_embedded').get(u'venues')[0].get(u'name')
-        #pricerange=jsonresp.get(u'_embedded').get(u'events')[i].get(u'priceRanges')
+        #pricemax=jsonresp.get(u'_embedded').get(u'events')[i].get(u'priceRanges')[0].get(u'max')
         Showname=jsonresp.get(u'_embedded').get(u'events')[i].get(u'name')
         #print jsonresp.get(u'_embedded').get(u'events')[0].get(u'_embedded').get(u'dmas')#get(u'attractions')[0].get(u'id')
         eventgenre= jsonresp.get(u'_embedded').get(u'events')[i].get(u'classifications')[0].get(u'genre').get(u'name')
         #print eventdaynum,eventid,eventgenre
-        show.weekend=weekend
-        show.artist=Showname
-        show.month=mmonth
-        show.genre=eventgenre
-        show.venue=eventvenue
-        show.city=eventcity
+        #show.weekend=weekend
+        #show.artist=Showname
+        #show.month=mmonth
+        #show.genre=eventgenre
+        #show.venue=eventvenue
+        #show.city=eventcity
         eventid= artist + str(i)
-        events.update({eventid:show})
+        showw.append(eventcity)
+        showw.append(eventvenue)
+        showw.append(Showname)
+        #showw.append(pricemax)
+        showw.append(eventgenre)
+        showw.append(eventdaynum)
+        showw.append(mmonth)
+        events.update({eventid:showw})
     print events.items()
     return events
-    print 'NEW EVENT!!''weekend:', show.weekend, 'artist:', show.artist, 'genre:', show.genre,'venue:',show.venue,'city:',show.city,'month:',show.month
+    #print 'NEW EVENT!!''weekend:', show.weekend, 'artist:', show.artist, 'genre:', show.genre,'venue:',show.venue,'city:',show.city,'month:',show.month
 
 
     with open('data.txt', 'w') as outfile:
