@@ -14,6 +14,7 @@ def eventer(artist):
     for i in range(0,len(jsonresp.get(u'_embedded').get(u'events'))):
         show=Event()
         showw={}
+        showwa=[]
         year=[]
         month=[]
         day=[]
@@ -47,6 +48,12 @@ def eventer(artist):
         #show.venue=eventvenue
         #show.city=eventcity
         eventid= artist + str(i)
+        showwa.append(eventcity)
+        showwa.append(eventvenue)
+        showwa.append(Showname)
+        showwa.append(eventgenre)
+        showwa.append(weekend)
+        showwa.append(mmonth)
         showw.update({'city':eventcity})
         showw.update({'venue':eventvenue})
         showw.update({'showName':Showname})
@@ -55,6 +62,5 @@ def eventer(artist):
         showw.update({'weekend':weekend})
         showw.update({'month':mmonth})
         events.update({eventid:showw})
-    print events.items()
     return events
     #print 'NEW EVENT!!''weekend:', show.weekend, 'artist:', show.artist, 'genre:', show.genre,'venue:',show.venue,'city:',show.city,'month:',show.month

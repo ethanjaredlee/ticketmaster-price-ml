@@ -2,6 +2,7 @@ import TMdataRYAN
 import json
 import csv
 
+
 artists=['Post Malone', 'Drake',  'Childish Gambino', 'Imagine Dragons', 'Cardi B',
 'Shinedown', 'Leon Bridges','Ed Sheeran', 'Shawn Mendes', #'Luke Combs'
 'Camila Cabello', 'Kendrick Lamar', #'The Weeknd', #'Jason Aldean'
@@ -19,9 +20,28 @@ artists=['Post Malone', 'Drake',  'Childish Gambino', 'Imagine Dragons', 'Cardi 
 ]
 
 masterlist={}
-for i in range(0,len(artists)):
+for i in range(0,1):
     dict=TMdataRYAN.eventer(artists[i])
     masterlist.update(dict)
+
+with open('dang.csv', 'w') as f:
+    writer = csv.writer(f)
+    i=0
+    for key, value in masterlist.iteritems():
+        i=i+1
+        ln = [key]
+        va=[value]
+        for ik, iv in value.iteritems():
+            ln.append(ik)
+        for j in range(0,len(masterlist.items())):
+            lan=[]
+            for i in range(0,len(ln)-1):
+                lalaa= masterlist.items()[j][1].items()[i][1]
+                print lalaa
+                lan.append(lalaa)
+            writer.writerow(lan)
+
+    #writer.writerow(masterlist.get(ln).get(ln))
 
 with open('result.json', 'w') as fp:
     json.dump(masterlist, fp)
