@@ -5,6 +5,7 @@ from event import Event
 
 def eventer(artist):
     #example https://app.ticketmaster.com/discovery/v2/events.json?size=20&keyword=post_malone&sort=relevance,desc&apikey=sPYngrqc3a29GkMAd2SOBDuPm7VdHT9o
+    print artist
     link='https://app.ticketmaster.com/discovery/v2/events.json?size=20&keyword=' + artist + '&sort=relevance,desc&apikey=sPYngrqc3a29GkMAd2SOBDuPm7VdHT9o'
     resp=requests.get(link)
     response=resp.text
@@ -34,20 +35,21 @@ def eventer(artist):
         eventcity=jsonresp.get(u'_embedded').get(u'events')[i].get(u'_embedded').get(u'venues')[0].get(u'city').get(u'name')
         eventvenue= jsonresp.get(u'_embedded').get(u'events')[i].get(u'_embedded').get(u'venues')[0].get(u'name')
         #pricerange=jsonresp.get(u'_embedded').get(u'events')[i].get(u'priceRanges')
-        artistname=jsonresp.get(u'_embedded').get(u'events')[i].get(u'name')
-        eventid= jsonresp.get(u'_embedded').get(u'events')[i].get(u'_embedded').get(u'attractions')[0].get(u'id')
+        Showname=jsonresp.get(u'_embedded').get(u'events')[i].get(u'name')
+        #print jsonresp.get(u'_embedded').get(u'events')[0].get(u'_embedded').get(u'dmas')#get(u'attractions')[0].get(u'id')
         eventgenre= jsonresp.get(u'_embedded').get(u'events')[i].get(u'classifications')[0].get(u'genre').get(u'name')
         #print eventdaynum,eventid,eventgenre
         show.weekend=weekend
-        show.artist=artistname
+        show.artist=Showname
         show.month=mmonth
         show.genre=eventgenre
         show.venue=eventvenue
         show.city=eventcity
-        events[eventid]=show
-        print events.items()
-        return events
-        print 'NEW EVENT!!''weekend:', show.weekend, 'artist:', show.artist, 'genre:', show.genre,'venue:',show.venue,'city:',show.city,'month:',show.month
+        eventid= artist + str(i)
+        events.update({eventid:show})
+    print events.items()
+    return events
+    print 'NEW EVENT!!''weekend:', show.weekend, 'artist:', show.artist, 'genre:', show.genre,'venue:',show.venue,'city:',show.city,'month:',show.month
 
 
     with open('data.txt', 'w') as outfile:
