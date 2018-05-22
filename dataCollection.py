@@ -5,29 +5,45 @@ from settings import ticketmaster_key, spotify_client_id, spotify_client_secret
 
 def GetData():
   url = "https://app.ticketmaster.com/discovery/v2/events.json?countryCode=US&apikey={}".format(ticketmaster_key)
-
-  r = requests.get(url)
-  json = r.json()
-  page = json['_embedded']['events']
-
   data = []
-  for event in page:
-    info = {}
-    info['name'] = event['name']
 
-    
-    maxMinPrice = priceParser(event['priceRanges'][0]) # probably don't want to index
-    info['max'] = maxMinPrice[0]
-    info['min'] = maxMinPrice[1]
-    info['promotorCount'] = len([p['name'] for p in event['promoters']]) # we just want to know how many promoters
-    info['imageCount'] = len(event['images'])
+  while (len(data) < 200):
+    r = requests.get(url)
+    json = r.json()
+    page = json['_embedded']['events']
+    print json['page']['totalPages']
+    print json['page']['number']
 
-    _embedded = event['_embedded']
-    info['artist'] = _embedded['attractions'][0]['name'] # prob shouldnt do this either
-    info['popularity'] = getArtistPopularity(info['artist'])
+    for event in page:
+      info = {}
+      info['name'] = event['name']
 
-    data.append(info)
-    print info
+      # check if the event is a music event or not
+      try:
+        attractions = event['_embedded']['attractions'][0]
+      except KeyError:
+        continue
+
+      if attractions['classifications'][0]['segment']['name'] != "Music":
+        continue
+      
+      maxMinPrice = priceParser(event['priceRanges'][0]) # probably don't want to index
+      if maxMinPrice == None: # we don't want to0 deal with non-us currency
+        continue
+      info['max'] = maxMinPrice[0]
+      info['min'] = maxMinPrice[1]
+
+      info['promotorCount'] = len([p['name'] for p in event['promoters']]) # we just want to know how many promoters
+
+      info['artist'] = attractions['name']
+      # info['popularity'] = getArtistPopularity(info['artist'])
+
+      data.append(info)
+      print info
+
+    # after we go through a page, we want the next one
+    next = json['_links']['next']['href']
+    url = "https://app.ticketmaster.com{}&apikey={}".format(next, ticketmaster_key)
 
 def priceParser(priceRangeObject):
   if priceRangeObject['currency'] != 'USD':
@@ -58,4 +74,5 @@ def getArtistPopularity(artist):
 
 
 if __name__ == "__main__":
-  print getArtistPopularity("Drake")
+  # print getArtistPopularity("Imagine Dragons")
+  GetData()
