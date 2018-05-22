@@ -34,6 +34,7 @@ def eventer(artist):
         weekend=0
         if eventdaynum==0 or eventdaynum>=5:
             weekend=1
+        #print jsonresp.get(u'_embedded').get(u'events')[i].keys()
         eventcity=jsonresp.get(u'_embedded').get(u'events')[i].get(u'_embedded').get(u'venues')[0].get(u'city').get(u'name')
         eventvenue= jsonresp.get(u'_embedded').get(u'events')[i].get(u'_embedded').get(u'venues')[0].get(u'name')
         pricemax=jsonresp.get(u'_embedded').get(u'events')[i].get(u'priceRanges')[0].get(u'max')
@@ -54,6 +55,7 @@ def eventer(artist):
         showwa.append(eventgenre)
         showwa.append(weekend)
         showwa.append(mmonth)
+        showw.update({'artist':artist})
         showw.update({'city':eventcity})
         showw.update({'venue':eventvenue})
         showw.update({'showName':Showname})
