@@ -1,5 +1,6 @@
 import TMdataRYAN
 import json
+import csv
 
 artists=['Post Malone', 'Drake',  'Childish Gambino', 'Imagine Dragons', 'Cardi B',
 'Shinedown', 'Leon Bridges','Ed Sheeran', 'Shawn Mendes', #'Luke Combs'
@@ -24,3 +25,8 @@ for i in range(0,len(artists)):
 
 with open('result.json', 'w') as fp:
     json.dump(masterlist, fp)
+
+with open('mycsvfile.csv', 'wb') as f:  # Just use 'w' mode in 3.x
+    w = csv.DictWriter(f, masterlist.keys())
+    w.writeheader()
+    w.writerow(masterlist)

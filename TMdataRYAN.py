@@ -13,7 +13,7 @@ def eventer(artist):
     events = {}
     for i in range(0,len(jsonresp.get(u'_embedded').get(u'events'))):
         show=Event()
-        showw=[]
+        showw={}
         year=[]
         month=[]
         day=[]
@@ -47,20 +47,14 @@ def eventer(artist):
         #show.venue=eventvenue
         #show.city=eventcity
         eventid= artist + str(i)
-        showw.append(eventcity)
-        showw.append(eventvenue)
-        showw.append(Showname)
+        showw.update({'city':eventcity})
+        showw.update({'venue':eventvenue})
+        showw.update({'showName':Showname})
         #showw.append(pricemax)
-        showw.append(eventgenre)
-        showw.append(eventdaynum)
-        showw.append(mmonth)
+        showw.update({'genre':eventgenre})
+        showw.update({'weekend':weekend})
+        showw.update({'month':mmonth})
         events.update({eventid:showw})
     print events.items()
     return events
     #print 'NEW EVENT!!''weekend:', show.weekend, 'artist:', show.artist, 'genre:', show.genre,'venue:',show.venue,'city:',show.city,'month:',show.month
-
-
-    with open('data.txt', 'w') as outfile:
-        json.dump(jsonresp, outfile)
-    if resp.status_code != 200:
-        print"error"
