@@ -4,12 +4,16 @@ import csv
 
 
 artists=['Post Malone', #'Drake',  'Childish Gambino', 'Imagine Dragons', 'Cardi B',
-'Shinedown', 'Leon Bridges','Ed Sheeran', 'Shawn Mendes', #'Luke Combs'
+#'Shinedown', 'Leon Bridges',
+'Ed Sheeran', 'Shawn Mendes', #'Luke Combs'
 'Camila Cabello', 'Kendrick Lamar', #'The Weeknd', #'Jason Aldean'
-'Lake Street Dive', 'Bruno Mars', 'Dua Lipa', 'Taylor Swift', 'Maroon',
-'Migos', 'Keith Urban', 'Kane Brown', #'Ariana Grande','Nicki Minaj',
+'Lake Street Dive', 'Bruno Mars', #'Dua Lipa',
+'Taylor Swift', #'Maroon',
+#'Migos',
+#'Keith Urban', 'Kane Brown', #'Ariana Grande','Nicki Minaj',
 'Chris Stapleton',
-'Charlie Puth', 'Florida Georgia Line', 'Khalid', #'XXXTENTACION',
+'Charlie Puth', #'Florida Georgia Line',
+'Khalid', #'XXXTENTACION',
 'Kenny Chesney',
 #'YoungBoy Never Broke Again',
 'Thomas Rhett', 'Halsey', 'Bazzi', 'SZA', 'Marshmello', 'P!nk', 'Travis Scott',
@@ -20,7 +24,7 @@ artists=['Post Malone', #'Drake',  'Childish Gambino', 'Imagine Dragons', 'Cardi
 ]
 
 masterlist={}
-for i in range(0,1):
+for i in range(0,10):
     dict=TMdataRYAN.eventer(artists[i])
     masterlist.update(dict)
 
@@ -39,7 +43,6 @@ with open('dang.csv', 'w') as f:
             lalaa= masterlist.items()[j][1].items()[i][1]
             btr=str(lalaa)
             lan.append(btr)
-        print lan
         writer.writerow(lan)
 
     #writer.writerow(masterlist.get(ln).get(ln))
