@@ -1,5 +1,4 @@
 import requests
-import ipdb
 
 from settings import ticketmaster_key, spotify_client_id, spotify_client_secret
 
@@ -26,7 +25,7 @@ def GetData():
 
       if attractions['classifications'][0]['segment']['name'] != "Music":
         continue
-      
+
       maxMinPrice = priceParser(event['priceRanges'][0]) # probably don't want to index
       if maxMinPrice == None: # we don't want to0 deal with non-us currency
         continue

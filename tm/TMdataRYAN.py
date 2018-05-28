@@ -37,8 +37,8 @@ def eventer(artist):
             weekend=1
         #print jsonresp.get(u'_embedded').get(u'events')[i].keys()
         eventids=jsonresp.get(u'_embedded').get(u'events')[i].get('id')
-        tprices=TMsales.prices(eventids)
-        print tprices
+        #tprices=TMsales.prices(eventids)
+        #print tprices
         eventcity=jsonresp.get(u'_embedded').get(u'events')[i].get(u'_embedded').get(u'venues')[0].get(u'city').get(u'name')
         eventvenue= jsonresp.get(u'_embedded').get(u'events')[i].get(u'_embedded').get(u'venues')[0].get(u'name')
         pricemax=jsonresp.get(u'_embedded').get(u'events')[i].get(u'priceRanges')[0].get(u'max')

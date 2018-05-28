@@ -32,7 +32,7 @@ artists=['Post Malone', #'Drake',  'Childish Gambino', 'Imagine Dragons', 'Cardi
 ]
 
 masterlist={}
-for i in range(0,1):#len(artists)):
+for i in range(0,len(artists)):
     dict=TMdataRYAN.eventer(artists[i])
     masterlist.update(dict)
 
