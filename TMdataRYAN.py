@@ -53,7 +53,7 @@ def eventer(artist):
         showw.update({'weekend':weekend})
         showw.update({'month':mmonth})
         showw.update({'maxprice':pricemax})
-        showw.update(('minprice':pricemin))
+        showw.update({'minprice':pricemin})
         showw.update({'id':eventids})
         showw.update({'score':artistscore})
         events.update({eventid:showw})
