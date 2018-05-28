@@ -14,7 +14,6 @@ def eventer(artist):
     events = {}
     for i in range(0,len(jsonresp.get(u'_embedded').get(u'events'))):
         showw={}
-        showwa=[]
         year=[]
         month=[]
         day=[]
@@ -34,7 +33,6 @@ def eventer(artist):
         weekend=0
         if eventdaynum==0 or eventdaynum>=5:
             weekend=1
-        #print jsonresp.get(u'_embedded').get(u'events')[i].keys()
         eventids=jsonresp.get(u'_embedded').get(u'events')[i].get('id')
         #tprices=TMsales.prices(eventids)
         #print tprices
@@ -42,23 +40,9 @@ def eventer(artist):
         eventvenue= jsonresp.get(u'_embedded').get(u'events')[i].get(u'_embedded').get(u'venues')[0].get(u'name')
         pricemax=jsonresp.get(u'_embedded').get(u'events')[i].get(u'priceRanges')[0].get(u'max')
         Showname=jsonresp.get(u'_embedded').get(u'events')[i].get(u'name')
-        #print jsonresp.get(u'_embedded').get(u'events')[0].get(u'_embedded').get(u'dmas')#get(u'attractions')[0].get(u'id')
         eventgenre= jsonresp.get(u'_embedded').get(u'events')[i].get(u'classifications')[0].get(u'genre').get(u'name')
         artistscore=dataCollection.getArtistPopularity(artist)
-        #print eventdaynum,eventid,eventgenre
-        #show.weekend=weekend
-        #show.artist=Showname
-        #show.month=mmonth
-        #show.genre=eventgenre
-        #show.venue=eventvenue
-        #show.city=eventcity
         eventid= artist + str(i)
-        showwa.append(eventcity)
-        showwa.append(eventvenue)
-        showwa.append(Showname)
-        showwa.append(eventgenre)
-        showwa.append(weekend)
-        showwa.append(mmonth)
         showw.update({'artist':artist})
         showw.update({'city':eventcity})
         showw.update({'venue':eventvenue})
@@ -72,4 +56,3 @@ def eventer(artist):
         showw.update({'score':artistscore})
         events.update({eventid:showw})
     return events
-    #print 'NEW EVENT!!''weekend:', show.weekend, 'artist:', show.artist, 'genre:', show.genre,'venue:',show.venue,'city:',show.city,'month:',show.month
