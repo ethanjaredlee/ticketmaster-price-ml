@@ -1,0 +1,285 @@
+city,score,artist,genre,weekend,id,venue,maxprice,showName,month
+Chula Vista,75,Dan + Shay,Country,1,vvG1IZ4d2uWSOR,Mattress Firm Amphitheatre (Formerly Sleep Train Amphitheatre),695.0,2018 KSON Country Megaticket Presented By Pennzoil,12
+Brooklyn,85,Rich The Kid,R&B,1,k7vGF46LCfhdl,Barclays Center,316.0,Chris Brown Presents: Heartbreak On A Full Moon Tour,07
+Toronto,100,Post Malone,Hip-Hop/Rap,1,1k7Zvf4MGACDv0q,RBC Echo Beach,279.0,Post Malone,05
+Toronto,100,Post Malone,Hip-Hop/Rap,1,1AvZZ47GkTFaF6E,RBC Echo Beach,279.0,Post Malone,05
+Cincinnati,100,Post Malone,Undefined,0,17AOv3G626acNsd,Sawyer Point/Yeatmen's Cove,169.0,Bunbury Music Festival 3 Day General Admission Tickets,06
+Cincinnati,100,Post Malone,Undefined,1,1kAOvfbbGAG7Jlh,Sawyer Point/Yeatmen's Cove,79.0,Bunbury Music Festival Single Day: Sunday,06
+Las Vegas,100,Post Malone,Hip-Hop/Rap,0,G5ezZ47Ta-Kyq,Park Theater,145.0,Post Malone,06
+Mansfield,100,Post Malone,Hip-Hop/Rap,0,vvG17Z41nWf5dC,Xfinity Center,109.5,JAM'N 94.5 Presents SUMMER JAM 2018,08
+Cleveland,100,Post Malone,Hip-Hop/Rap,1,vv11v8vffZ180Av5,Jacobs Pavilion at Nautica (formerly Nautica Pavilion),230.0,Post Malone,06
+San Diego,100,Post Malone,Hip-Hop/Rap,0,vvG1IZ47MhGd6r,Cal Coast Credit Union Open Air Theatre at SDSU,250.0,Post Malone,06
+Austin,100,Post Malone,Hip-Hop/Rap,1,G5dIZ4Ade7UFm,Austin360 Amphitheater,202.0,Post Malone,06
+Indianapolis,100,Post Malone,Hip-Hop/Rap,0,vv17fZ47GkTybpMO,Farm Bureau Insurance Lawn at White River State Park,194.0,Post Malone,06
+Darien Center,80,Chris Stapleton,Country,0,k7vGF4dlVA9T9,Darien Lake Amphitheater,89.75,Chris Stapleton,06
+Cincinnati,80,Chris Stapleton,Country,0,1ApZA8UGkdkQJ1Z,Riverbend Music Center,239.0,Chris Stapleton,10
+Bristow,80,Chris Stapleton,Country,1,1AvfZ4dGkl2hfTr,Jiffy Lube Live,89.75,Chris Stapleton,10
+Saratoga Springs,80,Chris Stapleton,Country,0,k7vGF4dMPWgbx,Saratoga Performing Arts Center,239.0,Chris Stapleton,08
+Camden,80,Chris Stapleton,Country,0,vv17FZ4dGkgXzxdS,BB&T Pavilion  ,79.75,Chris Stapleton,06
+Mansfield,80,Chris Stapleton,Country,1,vv177Z4dGkUEgepm,Xfinity Center,89.75,Chris Stapleton,06
+Chula Vista,80,Chris Stapleton,Country,0,vvG1IZ4dgEDs6O,Mattress Firm Amphitheatre (Formerly Sleep Train Amphitheatre),79.75,Chris Stapleton,08
+Maryland Heights,80,Chris Stapleton,Country,0,vv17bZ4dGkUfN0Fy,"Hollywood Casino Amphitheatre - St. Louis, MO",89.75,Chris Stapleton,07
+Stateline,80,Chris Stapleton,Country,0,1AvjZ4dGkYklzSg,Lake Tahoe Outdoor Arena at Harveys,149.5,Chris Stapleton,07
+Pittsburgh,93,Ed Sheeran,Pop,1,1ApZAoeGkdrkakP,PNC Park,119.5,Ed Sheeran: 2018 North American Stadium Tour,09
+Bristow,85,Rich The Kid,R&B,0,1A4ZAoMGkeEBfch,Jiffy Lube Live,199.99,Chris Brown Presents: Heartbreak On A Full Moon Tour,07
+Hartford,85,Rich The Kid,R&B,1,G5vVZ46QLwdjy,XFINITY Theatre,170.99,Chris Brown Presents: Heartbreak On A Full Moon Tour,07
+Virginia Beach,75,Dan + Shay,Country,0,vv177Z47GkwOLVZj,Veterans United Home Loans Amphitheater at Virginia Beach,90.25,Rascal Flatts: Back To Us Tour 2018,06
+East Rutherford,93,Ed Sheeran,Pop,1,k7vGFfS3MUbdx,MetLife Stadium,125.0,Ed Sheeran: 2018 North American Stadium Tour,09
+Salt Lake City,71,Brett Young,Country,1,G5vzZ46ULnwKn,Vivint Smart Home Arena,84.75,Thomas Rhett: Life Changes Tour 2018,10
+Syracuse,71,Brett Young,Country,0,k7vGF46m_gEtF,The Oncenter War Memorial Arena,206.5,Thomas Rhett: Life Changes Tour 2018,09
+East Rutherford,85,Rich The Kid,Hip-Hop/Rap,1,k7vGF4FlEYFrY,MetLife Stadium,250.0,Hot 97 Summer Jam,06
+Atlanta,85,Rich The Kid,R&B,0,vvG1zZ46h4fGlN,Cellairis Amphitheatre at Lakewood,159.99,Chris Brown Presents: Heartbreak On A Full Moon Tour,07
+Concord,85,Rich The Kid,R&B,0,G5vYZ46hfTtFC,Concord Pavilion,199.99,Chris Brown Presents: Heartbreak On A Full Moon Tour,06
+Charlotte,85,Rich The Kid,R&B,1,vvG1zZ46lcrjNq,PNC Music Pavilion,159.99,Chris Brown Presents: Heartbreak On A Full Moon Tour,07
+Phoenix,85,Rich The Kid,R&B,1,1av0Z46Qf8KZd55F,Ak-Chin Pavilion,169.99,Chris Brown Presents: Heartbreak On A Full Moon Tour,06
+Tampa,85,Rich The Kid,R&B,0,vvG1VZ46L8zTom,MIDFLORIDA Credit Union Amphitheatre at the FL State Fairgrounds,160.99,Chris Brown Presents: Heartbreak On A Full Moon Tour,07
+Noblesville,85,Rich The Kid,R&B,0,vv1Fv8vfq-jwZ7GvG5,Ruoff Home Mortgage Music Center,158.99,Chris Brown Presents: Heartbreak On A Full Moon Tour,07
+Raleigh,85,Rich The Kid,R&B,0,vvG1zZ46nq-4gG,Coastal Credit Union Music Park at Walnut Creek,149.99,Chris Brown Presents: Heartbreak On A Full Moon Tour,07
+Norfolk,83,BlocBoy JB,Hip-Hop/Rap,1,vvG17Z4119XJT7,ORIGAMI,40.0,BlocBoy JB,06
+Bristow,87,Rae Sremmurd,Hip-Hop/Rap,0,17A8vfG61leHAYZ,Jiffy Lube Live,89.5,Wiz Khalifa & Rae Sremmurd: Dazed & Blazed Tour,08
+Noblesville,75,Dan + Shay,Country,0,vv1AAZA3dGkeW_FWJ,Ruoff Home Mortgage Music Center,97.5,Rascal Flatts: Back To Us Tour 2018,08
+Cincinnati,87,Rae Sremmurd,Hip-Hop/Rap,1,1kAOvfJeGAu2jkY,Riverbend Music Center,394.0,Wiz Khalifa & Rae Sremmurd: Dazed & Blazed Tour,07
+Camden,87,Rae Sremmurd,Hip-Hop/Rap,0,vv1AeZA3bGkdICHwb,BB&T Pavilion  ,89.5,Wiz Khalifa & Rae Sremmurd: Dazed & Blazed Tour,08
+Tinley Park,87,Rae Sremmurd,Hip-Hop/Rap,1,vv1A7ZA3_GkdhFpah,"Hollywood Casino Amphitheatre - Chicago, IL",89.5,Wiz Khalifa & Rae Sremmurd: Dazed & Blazed Tour,07
+Raleigh,87,Rae Sremmurd,Hip-Hop/Rap,1,vvG1zZ41BtkJvV,Coastal Credit Union Music Park at Walnut Creek,99.5,Wiz Khalifa & Rae Sremmurd: Dazed & Blazed Tour,08
+Atlanta,87,Rae Sremmurd,Hip-Hop/Rap,0,vvG1zZ41VH6r0p,Cellairis Amphitheatre at Lakewood,89.5,Wiz Khalifa & Rae Sremmurd: Dazed & Blazed Tour,08
+Cuyahoga Falls,87,Rae Sremmurd,Hip-Hop/Rap,1,vv1kv8vf0yGAu0dtr,Blossom Music Center,100.5,Wiz Khalifa & Rae Sremmurd: Dazed & Blazed Tour,07
+Oklahoma City,71,Brett Young,Country,0,vvG1YZ47Cj4vTc,Chesapeake Energy Arena,74.75,Thomas Rhett: Life Changes Tour 2018,10
+Hartford,87,Rae Sremmurd,Hip-Hop/Rap,1,G5vVZ4aEdpKpi,XFINITY Theatre,399.5,Wiz Khalifa & Rae Sremmurd: Dazed & Blazed Tour,08
+Cincinnati,85,Rich The Kid,R&B,0,1ApZAoUGkeYXJBj,Riverbend Music Center,491.5,Chris Brown Presents: Heartbreak On A Full Moon Tour,07
+Chicago,89,Taylor Swift,Rock,1,vv1A7ZAuEGkeODedI,Soldier Field,595.0,Taylor Swift reputation Stadium Tour,06
+Clarkston,75,Dan + Shay,Country,1,vv1AFZA3kGkdxTEsT,DTE Energy Music Theatre,90.25,Rascal Flatts: Back to Us Tour,08
+Fort Wayne,71,Brett Young,Country,0,vv17fZ46GklC6Um0,Allen County War Memorial Coliseum,74.75,Thomas Rhett: Life Changes Tour 2018,10
+Maryland Heights,85,Rich The Kid,R&B,1,vv1AkZAoUGkeTpQIr,"Hollywood Casino Amphitheatre - St. Louis, MO",149.99,Chris Brown Presents: Heartbreak On A Full Moon Tour,07
+Jacksonville,87,Rae Sremmurd,Hip-Hop/Rap,0,17FOvfG61Ujpa8S,Daily's Place,125.95,Wiz Khalifa & Rae Sremmurd: Dazed & Blazed Tour,08
+Cuyahoga Falls,75,Dan + Shay,Country,0,vv1AAZA3eGkdjEtsv,Blossom Music Center,97.25,Rascal Flatts: Back To Us Tour 2018,08
+Portland,82,Metallica,Metal,0,vvG1HZ4Apw4Ei5,Moda Center,133.0,Metallica - WorldWired Tour,12
+Uncasville,71,Brett Young,Country,0,G5vVZ46I9xNkG,Mohegan Sun Arena,99.0,Thomas Rhett: Life Changes Tour 2018,09
+Wantagh,75,Dan + Shay,Country,0,G5vVZ47HeOS8m,Northwell Health at Jones Beach Theater,99.5,Rascal Flatts: Back To Us Tour 2018,07
+Kansas City,89,Taylor Swift,Rock,1,vv17bZfMGkSZ7dTS,Arrowhead Stadium,495.5,Taylor Swift reputation Stadium Tour,09
+Sacramento,90,Shawn Mendes,Rock,0,G5vYZ412_TQ0h,Golden 1 Center,85.91,SHAWN MENDES: THE TOUR,07
+Philadelphia,89,Taylor Swift,Rock,0,vv1AeZAC7GkdlZA_X,Lincoln Financial Field,1496.0,Taylor Swift reputation Stadium Tour,07
+Foxborough,89,Taylor Swift,Rock,0,vv177ZfMGkzsbQf-,Gillette Stadium,499.5,Taylor Swift reputation Stadium Tour,07
+Louisville,89,Taylor Swift,Rock,1,1AvbZfMGkMSkAUn,Papa Johns Cardinal Stadium,1494.0,Taylor Swift reputation Stadium Tour,06
+Washington,90,Shawn Mendes,Rock,0,1AvfZ4aGkRbhU11,Capital One Arena,695.0,SHAWN MENDES: THE TOUR,08
+Chicago,89,Taylor Swift,Rock,0,vv178ZfMGkm3IsS0,Soldier Field,595.0,Taylor Swift reputation Stadium Tour,06
+Arlington,89,Taylor Swift,Rock,0,vvG1YZfz6edK-v,AT&T Stadium,1500.0,Taylor Swift reputation Stadium Tour,10
+Orlando,90,Shawn Mendes,Rock,0,17FOvfG615bbDVI,Amway Center,699.0,SHAWN MENDES: THE TOUR,07
+Newark,90,Shawn Mendes,Rock,1,vvG1FZ413cifgU,Prudential Center,699.0,SHAWN MENDES: THE TOUR,08
+Tacoma,85,Justin Timberlake,Rock,1,vvG1HZ47r0udI9,Tacoma Dome,254.0,Justin Timberlake - The Man Of The Woods Tour,11
+Uncasville,85,Justin Timberlake,Rock,0,G5vVZ4AEnuxO9,Mohegan Sun Arena,399.0,Justin Timberlake - The Man Of The Woods Tour,12
+Indianapolis,85,Justin Timberlake,Rock,0,vv17fZ4eGkzEQPck,Bankers Life Fieldhouse,225.0,Justin Timberlake - The Man Of The Woods Tour,12
+Saint Paul,85,Justin Timberlake,Rock,0,vv1AkZAovGkdICiKA,Xcel Energy Center,1076.0,Justin Timberlake - The Man Of The Woods Tour,09
+North Little Rock,85,Justin Timberlake,Rock,0,G5viZ46lqvMU4,Verizon Arena,228.0,Justin Timberlake - The Man Of The Woods Tour,01
+San Antonio,85,Justin Timberlake,Rock,1,G5dIZ4dTVZp_x,AT&T Center,250.0,Justin Timberlake - The Man Of The Woods Tour,01
+Washington,85,Justin Timberlake,Rock,0,1kA8vf13GA5fVQv,Capital One Arena,275.0,Justin Timberlake - The Man Of The Woods Tour,01
+Portland,85,Justin Timberlake,Rock,0,vvG1HZ4dDvWKc2,Moda Center,225.0,Justin Timberlake - The Man Of The Woods Tour,11
+Omaha,85,Justin Timberlake,Rock,1,vv17bZ4eGkXib3KU,CenturyLink Center Omaha,225.0,Justin Timberlake - The Man Of The Woods Tour,12
+Albany,85,Justin Timberlake,Rock,1,k7vGF4k2-gakq,Times Union Center,250.0,Justin Timberlake - The Man Of The Woods Tour,10
+Phoenix,86,Charlie Puth,Rock,0,1Av0ZfzGkwBg3I6,Ak-Chin Pavilion,79.0,2018 Honda Civic Tour presents Charlie Puth Voicenotes,08
+Nashville,86,Charlie Puth,Rock,0,G5viZfzwUWgYh,Ascend Amphitheater part of the Journeys Concert Series,79.5,2018 Honda Civic Tour presents Charlie Puth Voicenotes,08
+Camden,86,Charlie Puth,Rock,0,vv17FZfzGkDjJFCs,BB&T Pavilion  ,79.5,2018 Honda Civic Tour presents Charlie Puth Voicenotes,07
+Raleigh,86,Charlie Puth,Rock,1,vvG1zZfzMjvFlZ,Coastal Credit Union Music Park at Walnut Creek,79.0,2018 Honda Civic Tour presents Charlie Puth Voicenotes,07
+Woodlands,86,Charlie Puth,Rock,0,G5dIZfzTquUD5,The Cynthia Woods Mitchell Pavilion presented by Huntsman,69.0,2018 Honda Civic Tour presents Charlie Puth Voicenotes,08
+Boston,86,Charlie Puth,Rock,0,vv177ZfzGkSsh9ST,Blue Hills Bank Pavilion,69.0,2018 Honda Civic Tour presents Charlie Puth Voicenotes,07
+Charlotte,86,Charlie Puth,Rock,0,vvG1zZfzBSx4g3,PNC Music Pavilion,79.0,2018 Honda Civic Tour presents Charlie Puth Voicenotes,07
+West Palm Beach,86,Charlie Puth,Rock,1,vvG1VZfzBWVQVY,Coral Sky Amphitheatre at the S. Florida Fairgrounds,79.5,2018 Honda Civic Tour presents Charlie Puth Voicenotes,09
+Philadelphia,85,Rich The Kid,Hip-Hop/Rap,1,vv17FZ47GkSzEBvP,Festival Pier (at Penn's Landing),75.0,Roots Picnic 2018,06
+Clarkston,86,Charlie Puth,Rock,0,vv17OZfzGkH5mUvJ,DTE Energy Music Theatre,65.0,2018 Honda Civic Tour presents Charlie Puth Voicenotes,08
+Saratoga Springs,86,Charlie Puth,Rock,1,k7vGFfzhPgJKJ,Saratoga Performing Arts Center,225.0,2018 Honda Civic Tour presents Charlie Puth Voicenotes,07
+Louisville,87,Camila Cabello,Rock,1,1AvbZfMGkMSkAUn,Papa Johns Cardinal Stadium,1494.0,Taylor Swift reputation Stadium Tour,06
+Tampa,87,Camila Cabello,Rock,0,vvG1VZfMUSg_cT,Raymond James Stadium,275.0,Taylor Swift reputation Stadium Tour,08
+Mountain View,86,Charlie Puth,Rock,0,G5vYZfzUYBdGZ,Shoreline Amphitheatre,80.0,2018 Honda Civic Tour presents Charlie Puth Voicenotes,08
+Uncasville,87,Camila Cabello,Rock,0,G5vVZ41KDjgqp,Mohegan Sun Arena,49.0,Camila Cabello,07
+Arlington,87,Camila Cabello,Rock,0,vvG1YZfz6edK-v,AT&T Stadium,1500.0,Taylor Swift reputation Stadium Tour,10
+Chicago,87,Camila Cabello,Rock,0,vv178ZfMGkm3IsS0,Soldier Field,595.0,Taylor Swift reputation Stadium Tour,06
+Miami,87,Camila Cabello,Rock,1,vvG1VZfM9HhHuG,Hard Rock Stadium,499.5,Taylor Swift reputation Stadium Tour,08
+Chicago,87,Camila Cabello,Rock,1,vv1A7ZAuEGkeODedI,Soldier Field,595.0,Taylor Swift reputation Stadium Tour,06
+Foxborough,87,Camila Cabello,Rock,0,vv177ZfMGkzsbQf-,Gillette Stadium,499.5,Taylor Swift reputation Stadium Tour,07
+Philadelphia,87,Camila Cabello,Rock,0,vv1AeZAC7GkdlZA_X,Lincoln Financial Field,1496.0,Taylor Swift reputation Stadium Tour,07
+Landover,87,Camila Cabello,Rock,0,1A4ZACkGkd2INQo,FedExField,1495.0,Taylor Swift reputation Stadium Tour,07
+Los Angeles,82,Maren Morris,Rock,0,vv170ZfwGkz7_Eea,Greek Theatre,150.0,Niall Horan: Flicker World Tour 2018,08
+Cincinnati,82,Maren Morris,Rock,0,1AvbZfwGkwj9w7o,Riverbend Music Center,646.5,Niall Horan: Flicker World Tour 2018,07
+Raleigh,82,Maren Morris,Rock,1,vvG1zZfwByP9JD,Coastal Credit Union Music Park at Walnut Creek,118.0,Niall Horan: Flicker World Tour 2018,09
+Tampa,82,Maren Morris,Rock,1,vvG1VZfwBhgF_t,MIDFLORIDA Credit Union Amphitheatre at the FL State Fairgrounds,107.0,Niall Horan: Flicker World Tour 2018,09
+Chula Vista,82,Maren Morris,Rock,0,vvG1IZfwB56s5h,Mattress Firm Amphitheatre (Formerly Sleep Train Amphitheatre),107.0,Niall Horan: Flicker World Tour 2018,08
+Charlotte,82,Maren Morris,Rock,0,vvG1zZfwM30fn-,PNC Music Pavilion,107.0,Niall Horan: Flicker World Tour 2018,09
+Allentown,82,Maren Morris,Rock,1,vv17FZfwGkY-naa9,Allentown Fairgrounds,59.0,Niall Horan: Flicker World Tour 2018,09
+Auburn,82,Maren Morris,Rock,0,vvG1HZfwH7y6O2,White River Amphitheatre,107.0,Niall Horan: Flicker World Tour 2018,08
+Mansfield,85,Rich The Kid,R&B,0,vv1AvZAozGkeNHS6_,Xfinity Center,150.0,Chris Brown Presents: Heartbreak On A Full Moon Tour,07
+East Rutherford,93,Ed Sheeran,Pop,0,k7vGFfVRCHfXG,MetLife Stadium,125.0,Ed Sheeran: 2018 North American Stadium Tour,09
+Miami,89,Taylor Swift,Rock,1,vvG1VZfM9HhHuG,Hard Rock Stadium,499.5,Taylor Swift reputation Stadium Tour,08
+Alpharetta,82,Maren Morris,Rock,0,vvG1zZfwMCTfNb,Verizon Amphitheatre,107.0,Niall Horan: Flicker World Tour 2018,09
+West Palm Beach,82,Maren Morris,Rock,1,vvG1VZfwB5wbeq,Coral Sky Amphitheatre at the S. Florida Fairgrounds,107.0,Niall Horan: Flicker World Tour 2018,09
+Wheatland,75,Dan + Shay,Country,0,G5vYZ4kUoYKRo,Toyota Amphitheatre,98.5,Rascal Flatts: Back to Us Tour,09
+Minneapolis,87,Camila Cabello,Rock,0,vv17bZfMGkwOk3xy,U.S. Bank Stadium,1498.0,Taylor Swift reputation Stadium Tour,08
+Pittsburgh,82,Metallica,Metal,0,1kAOvf4tGA5LE8v,PPG Paints Arena,138.0,Metallica - WorldWired Tour,10
+University Park,82,Metallica,Metal,1,vv1AeZAoKGkeW544t,Bryce Jordan Center,135.0,Metallica - WorldWired Tour,10
+Burgettstown,87,Rae Sremmurd,Hip-Hop/Rap,0,17AOvfG61Vf_yp5,KeyBank Pavilion,99.5,Wiz Khalifa & Rae Sremmurd: Dazed & Blazed Tour,07
+New Orleans,72,Ella Mai,R&B,1,G5viZfY64aV-5,Mercedes-Benz Superdome ,1200.0,ESSENCE Festival,07
+Nashville,82,Metallica,Metal,0,G5viZ4AL7lBC4,Bridgestone Arena,140.5,Metallica - WorldWired Tour,01
+Pasadena,93,Ed Sheeran,Pop,1,vvG1iZfS3gjd-I,Rose Bowl,125.0,Ed Sheeran: 2018 North American Stadium Tour,08
+Tampa,93,Ed Sheeran,Pop,0,vvG1VZfS3UctwX,Raymond James Stadium,107.0,Ed Sheeran: 2018 North American Stadium Tour,11
+Houston,93,Ed Sheeran,Pop,1,G5dIZfS9J8JZS,Minute Maid Park,125.0,Ed Sheeran: 2018 North American Stadium Tour,11
+Nashville,93,Ed Sheeran,Pop,1,G5viZ4dJ1JNh9,Nissan Stadium,116.5,Ed Sheeran: 2018 North American Stadium Tour,10
+Houston,87,Camila Cabello,Rock,1,G5dIZfMmNEeMV,NRG Stadium,600.0,Taylor Swift reputation Stadium Tour,09
+St Louis,93,Ed Sheeran,Pop,0,vv1kvOvKubGA2G3ZY,Busch Stadium,119.5,Ed Sheeran: 2018 North American Stadium Tour,09
+Atlanta,93,Ed Sheeran,Pop,1,vvG1zZfS2VNI_u,Mercedes-Benz Stadium,120.0,Ed Sheeran: 2018 North American Stadium Tour,11
+Philadelphia,93,Ed Sheeran,Pop,0,vv1AeZAGSGkeNFd1-,Lincoln Financial Field,115.5,Ed Sheeran: 2018 North American Stadium Tour,09
+San Francisco,93,Ed Sheeran,Pop,0,G5vYZ471apeBM,AT & T Park,125.0,Ed Sheeran: 2018 North American Stadium Tour,08
+Chicago,93,Ed Sheeran,Pop,0,vv1A7ZA8xGkecEvHt,Soldier Field,115.5,Ed Sheeran: 2018 North American Stadium Tour,10
+Birmingham,82,Metallica,Metal,0,1kFZvf4tGA2lbR3,Legacy Arena at The BJCC ,2499.0,Metallica - WorldWired Tour,01
+North Little Rock,82,Metallica,Metal,1,G5viZ4A2p8MNN,Verizon Arena,135.0,Metallica - WorldWired Tour,01
+Lincoln,82,Metallica,Metal,0,vv1AkZAopGkeHpl-Q,Pinnacle Bank Arena,132.0,Metallica - WorldWired Tour,09
+George,71,Brett Young,Country,0,vvG1HZ47UUi0HT,Gorge Amphitheatre,215.0,Watershed Festival,08
+Indianapolis,82,Metallica,Metal,1,vv1AAZAooGkdDY9TA,Bankers Life Fieldhouse,135.0,Metallica - WorldWired Tour,03
+Milwaukee,82,Metallica,Metal,0,vv1a6ZAoKP4ONZe8u,Wisconsin Entertainment and Sports Center ,135.0,Metallica - WorldWired Tour,10
+Atlanta,87,Camila Cabello,Rock,1,vvG1zZfMBOcfz6,Mercedes-Benz Stadium,1495.0,Taylor Swift reputation Stadium Tour,08
+Bangor,71,Brett Young,Country,0,vv177Z46Gkn2MNoX,Cross Insurance Center,74.75,Thomas Rhett: Life Changes Tour 2018,09
+Irvine,75,Dan + Shay,Country,1,vv170Z4kGkB44fja,FivePoint Amphitheatre,99.75,Rascal Flatts: Back To Us Tour 2018,09
+Noblesville,86,Charlie Puth,Rock,1,vv17fZfzGkUBZ7Eb,Ruoff Home Mortgage Music Center,78.0,2018 Honda Civic Tour presents Charlie Puth Voicenotes,08
+Charlottesville,71,Brett Young,Country,1,vv177Z46GkUxpMDr,John Paul Jones Arena,74.75,Thomas Rhett: Life Changes Tour 2018,09
+Los Angeles,86,Charlie Puth,Rock,0,vv170ZfzGkS7bxaB,Greek Theatre,99.5,2018 Honda Civic Tour presents Charlie Puth Voicenotes,08
+Providence,71,Brett Young,Country,0,vv177Z46GkULHMwX,Dunkin' Donuts Center,74.75,Thomas Rhett: Life Changes Tour 2018,09
+New York,86,Charlie Puth,Rock,1,G5dYZfzDjVSOW,Radio City Music Hall,115.5,2018 Honda Civic Tour presents Charlie Puth Voicenotes,07
+Las Vegas,71,Brett Young,Folk,0,G5ezZ41EHispw,Mandalay Bay Beach at Mandalay Bay Resort,87.16,Brett Young,08
+Washington,5,Royce da,Hip-Hop/Rap,1,1AvfZ4FGklE_g-S,Howard Theatre,20.0,PRhyme,06
+Tampa,90,Shawn Mendes,Rock,1,vvG1VZ413IbQWR,Amalie Arena,699.0,SHAWN MENDES: THE TOUR,07
+North Little Rock,71,Brett Young,Country,0,G5viZ46mVd1Eq,Verizon Arena,74.75,Thomas Rhett: Life Changes Tour 2018,10
+Irving,86,Charlie Puth,Rock,0,vvG1YZfzDij40p,The Pavilion at Toyota Music Factory,79.5,Charlie Puth Voicenotes,08
+Raleigh,82,Metallica,Metal,1,vvG1zZ4AdBHhyR,PNC Arena,131.0,Metallica - WorldWired Tour,01
+Salt Lake City,82,Metallica,Metal,0,G5vzZ4A97S3l4,Vivint Smart Home Arena,132.0,Metallica - WorldWired Tour,11
+Albany,82,Metallica,Metal,1,k7vGF4AKjp6DC,Times Union Center,131.0,Q103 Presents Metallica - WorldWired Tour,10
+Charlotte,82,Metallica,Metal,1,vvG1zZ4AZZei6W,Spectrum Center ,145.0,Metallica - WorldWired Tour,10
+Auburn,80,Chris Stapleton,Country,1,vvG1HZ4dE0pJzT,White River Amphitheatre,89.75,Chris Stapleton's All American Road Show,07
+Charlotte,80,Chris Stapleton,Country,0,vvG1zZ4dUr30Zy,PNC Music Pavilion,89.75,Chris Stapleton's All American Road Show,10
+Sacramento,82,Metallica,Metal,0,G5vYZ4Apy3phR,Golden 1 Center,131.44,Metallica - WorldWired Tour,12
+Raleigh,75,Dan + Shay,Country,1,vvG1zZ47RblJpa,Coastal Credit Union Music Park at Walnut Creek,98.5,Rascal Flatts: Back to Us Tour,06
+Mountain View,80,Chris Stapleton,Country,1,G5vYZ4dgVIeF_,Shoreline Amphitheatre,89.75,Chris Stapleton's All American Road Show,07
+Houston,80,Chris Stapleton,Rock,0,G5dIZfz_qwv-6,Minute Maid Park,349.5,Eagles,06
+Ridgefield,80,Chris Stapleton,Country,0,vvG1HZ4dUtmevL,Sunlight Supply Amphitheater,79.75,Chris Stapleton's All American Road Show,07
+Raleigh,80,Chris Stapleton,Country,0,vvG1zZ4dMldtJ_,Coastal Credit Union Music Park at Walnut Creek,89.75,Chris Stapleton's All American Road Show,10
+Inglewood,80,Chris Stapleton,Country,1,vv170Z4dGkibw9sc,The Forum,89.75,Chris Stapleton,08
+Anaheim,80,Chris Stapleton,Country,0,vv170Z4dGkgsDsfX,Honda Center,89.75,Chris Stapleton,08
+Wheatland,80,Chris Stapleton,Country,0,G5vYZ4dgVq3FA,Toyota Amphitheatre,89.75,Chris Stapleton's All American Road Show,07
+Baltimore,80,Chris Stapleton,Country,1,1A4ZAovGkdQM0xg,Royal Farms Arena (formerly Baltimore Arena),86.75,Chris Stapleton,11
+Charlotte,75,Dan + Shay,Country,0,vvG1zZ47xNuMyQ,PNC Music Pavilion,98.5,Rascal Flatts: Back To Us Tour 2018,06
+San Antonio,90,Shawn Mendes,Rock,0,G5dIZ41CjMMU8,AT&T Center,89.5,SHAWN MENDES: THE TOUR,07
+Detroit,90,Shawn Mendes,Rock,1,vvG1OZ412Qn9Ze,Little Caesars Arena,699.0,SHAWN MENDES: THE TOUR,08
+Saratoga Springs,75,Dan + Shay,Country,1,k7vGF47huigGU,Saratoga Performing Arts Center,103.0,"107.7 GNA Countryfest 2018 Feat. Rascal Flatts, Dan + Shay & More",07
+Bristow,75,Dan + Shay,Country,1,1AvfZ4AGkmPFNQq,Jiffy Lube Live,99.5,WMZQ Fest featuring Rascal Flatts: Back To Us Tour 2018,06
+Holmdel,75,Dan + Shay,Country,0,vv17FZ47GkMVsQTi,PNC Bank Arts Center,99.5,Rascal Flatts: Back To Us Tour 2018,06
+Tinley Park,75,Dan + Shay,Country,0,vv178Z46GkUrf06x,"Hollywood Casino Amphitheatre - Chicago, IL",99.5,Rascal Flatts: Back To Us Tour 2018,08
+Hartford,75,Dan + Shay,Country,0,G5vVZ47BQGeMP,XFINITY Theatre,350.0,Back to US Tour,06
+Miami,90,Shawn Mendes,Rock,1,vvG1VZ4156PIex,AmericanAirlines Arena,695.0,SHAWN MENDES: THE TOUR,07
+Nashville,71,Brett Young,Folk,0,G5viZ4axT21Bd,Ryman Auditorium,39.5,Brett Young,10
+Tampa,75,Dan + Shay,Country,0,vvG1VZ4ArmGjYn,MIDFLORIDA Credit Union Amphitheatre at the FL State Fairgrounds,99.5,Rascal Flatts: Back To Us Tour 2018,07
+Landover,89,Taylor Swift,Rock,0,1A4ZACkGkd2INQo,FedExField,1495.0,Taylor Swift reputation Stadium Tour,07
+Kansas City,93,Ed Sheeran,Pop,1,vv1AkZAGSGkdnyg_p,Arrowhead Stadium,115.5,Ed Sheeran: 2018 North American Stadium Tour,10
+Sacramento,71,Brett Young,Country,1,G5vYZ46mqUM49,Golden 1 Center,84.75,Thomas Rhett: Life Changes Tour 2018,10
+Boston,90,Shawn Mendes,Rock,0,vvG17Z41xkC39P,TD Garden,694.5,SHAWN MENDES: THE TOUR,08
+West Palm Beach,75,Dan + Shay,Country,1,vvG1VZ4kN1xCIA,Coral Sky Amphitheatre at the S. Florida Fairgrounds,99.5,Rascal Flatts: Back To Us Tour 2018,07
+Oakland,90,Shawn Mendes,Rock,1,G5vYZ412HWGCN,Oracle Arena,89.5,SHAWN MENDES: THE TOUR,07
+Foxborough,93,Ed Sheeran,Pop,0,vv177ZfVGkToowNT,Gillette Stadium,119.5,Ed Sheeran: 2018 North American Stadium Tour,09
+Minneapolis,93,Ed Sheeran,Pop,1,vv1AkZAGSGkdqEVHN,U.S. Bank Stadium,117.5,Ed Sheeran: 2018 North American Stadium Tour,10
+Foxborough,93,Ed Sheeran,Pop,1,vv1A8vKuaGA5Qd1H,Gillette Stadium,119.5,Ed Sheeran: 2018 North American Stadium Tour,09
+Detroit,93,Ed Sheeran,Pop,1,vv1AFZAoeGkdjM9x4,Ford Field,116.0,Ed Sheeran: 2018 North American Stadium Tour,09
+Irving,100,Post Malone,Hip-Hop/Rap,0,vvG1YZ47T8eNwH,The Pavilion at Toyota Music Factory,149.5,Post Malone,06
+Sterling Heights,100,Post Malone,Hip-Hop/Rap,0,vv1AFZAo8GkdcA11b,Michigan Lottery Amphitheatre at Freedom Hill,195.0,Post Malone,05
+New Orleans,93,Ed Sheeran,Pop,0,G5viZfS2nJfPI,Mercedes-Benz Superdome ,116.5,Ed Sheeran: 2018 North American Stadium Tour,10
+Milwaukee,93,Ed Sheeran,Pop,0,vv17jZ4dGkTqy6Ev,Miller Park,119.5,Ed Sheeran: 2018 North American Stadium Tour,10
+Woodlands,100,Post Malone,Hip-Hop/Rap,0,G5dIZ4Adb3kUe,The Cynthia Woods Mitchell Pavilion presented by Huntsman,154.0,Post Malone,06
+Atlanta,100,Post Malone,Hip-Hop/Rap,1,vvG1zZ4AZc8cwr,Cellairis Amphitheatre at Lakewood,175.0,Post Malone,06
+Maryland Heights,100,Post Malone,Hip-Hop/Rap,0,vv1AkZAoYGketNtfH,"Hollywood Casino Amphitheatre - St. Louis, MO",119.0,"HOT 104.1 Presents Super Jam 10 Feat. Post Malone, 21 Savage & More",06
+Chicago,100,Post Malone,Hip-Hop/Rap,0,vv1A7ZAo8Gkdq24Y_,Huntington Bank Pavilion at Northerly Island,230.0,Post Malone,06
+Mountain View,100,Post Malone,Hip-Hop/Rap,1,G5vYZ47BOqAZM,Shoreline Amphitheatre,129.5,Post Malone,06
+Hollywood,100,Post Malone,Hip-Hop/Rap,0,vvG1iZ41rSgeY9,Hollywood Bowl,129.5,Post Malone,06
+Darien Center,100,Post Malone,Hip-Hop/Rap,1,k7vGF47DobIxT,Darien Lake Amphitheater,144.5,Post Malone,05
+Hollywood,100,Post Malone,Hip-Hop/Rap,0,vvG1iZ4a8Q6phR,Hollywood Bowl,129.5,Post Malone,06
+Dallas,87,Rae Sremmurd,Hip-Hop/Rap,1,vvG1YZ41lK9BCb,Dos Equis Pavilion,135.0,Wiz Khalifa & Rae Sremmurd: Dazed & Blazed Tour,08
+Phoenix,87,Rae Sremmurd,Hip-Hop/Rap,0,1A_ZA3bGkdZYKsf,Ak-Chin Pavilion,99.5,Wiz Khalifa & Rae Sremmurd: Dazed & Blazed Tour,08
+Virginia Beach,87,Rae Sremmurd,Hip-Hop/Rap,1,vvG17Z41nkeVMB,Veterans United Home Loans Amphitheater at Virginia Beach,379.5,Wiz Khalifa & Rae Sremmurd: Dazed & Blazed Tour,08
+Tampa,87,Rae Sremmurd,Hip-Hop/Rap,0,vvG1VZ41IwvGTr,MIDFLORIDA Credit Union Amphitheatre at the FL State Fairgrounds,125.95,Wiz Khalifa & Rae Sremmurd: Dazed & Blazed Tour,08
+Holmdel,87,Rae Sremmurd,Hip-Hop/Rap,1,vv1AeZA3_GkeMRAMC,PNC Bank Arts Center,119.5,Wiz Khalifa & Rae Sremmurd: Dazed & Blazed Tour,08
+Charleston,71,Brett Young,Country,0,1AvbZ46GkMmdbOV,Charleston Civic Center,74.75,Thomas Rhett: Life Changes Tour 2018,09
+West Palm Beach,87,Rae Sremmurd,Hip-Hop/Rap,0,vvG1VZ41BmRDkB,Coral Sky Amphitheatre at the S. Florida Fairgrounds,125.95,Wiz Khalifa & Rae Sremmurd: Dazed & Blazed Tour,08
+Woodlands,87,Rae Sremmurd,Hip-Hop/Rap,0,G5dIZ41E6ZbeU,The Cynthia Woods Mitchell Pavilion presented by Huntsman,99.5,Wiz Khalifa & Rae Sremmurd: Dazed & Blazed Tour,08
+Arlington,93,Ed Sheeran,Pop,1,vvG1YZfSCPEx9L,AT&T Stadium,125.0,Ed Sheeran: 2018 North American Stadium Tour,10
+Clarkston,87,Rae Sremmurd,Hip-Hop/Rap,1,vvG1OZ41l7bAVj,DTE Energy Music Theatre,121.0,Wiz Khalifa & Rae Sremmurd: Dazed & Blazed Tour,07
+Dallas,75,Dan + Shay,Country,1,vvG1YZ47UsNfKz,Dos Equis Pavilion,101.25,Rascal Flatts: Back To Us Tour 2018,08
+Alpharetta,75,Dan + Shay,Country,0,vvG1zZ47w4HUfE,Verizon Amphitheatre,99.5,Rascal Flatts: Back to the US Tour,06
+Milwaukee,85,Justin Timberlake,Rock,0,vv1A6ZA8MGkeWG6Cm,Wisconsin Entertainment and Sports Center ,229.0,Justin Timberlake - The Man Of The Woods Tour,09
+Raleigh,85,Justin Timberlake,Rock,1,vvG1zZ4AR91WB5,PNC Arena,225.0,Justin Timberlake - The Man Of The Woods Tour,01
+Mansfield,75,Dan + Shay,Country,1,vv1AvZAo4GkdsUjab,Xfinity Center,100.25,Rascal Flatts: Back To Us Tour 2018,06
+Atlanta,85,Justin Timberlake,Rock,0,vvG1zZ4dB9GfZv,Philips Arena,254.0,Justin Timberlake - The Man Of The Woods Tour,01
+Pittsburgh,85,Justin Timberlake,Rock,0,1ApZACaGkeHEwrW,PPG Paints Arena,225.0,Justin Timberlake - The Man Of The Woods Tour,06
+New York,85,Justin Timberlake,Rock,1,G5diZ4e9Oge6k,Madison Square Garden,281.0,Justin Timberlake - The Man Of The Woods Tour,10
+Dallas,85,Justin Timberlake,Rock,1,vvG1YZfyKj_PMv,American Airlines Center,250.0,Justin Timberlake - The Man Of The Woods Tour,05
+Charlotte,85,Justin Timberlake,Rock,0,vvG1zZ4752I186,Spectrum Center ,228.5,Justin Timberlake - The Man Of The Woods Tour,01
+Memphis,85,Justin Timberlake,Rock,0,G5viZ4efQiHGM,FedExForum,225.0,Justin Timberlake - The Man Of The Woods Tour,05
+Oakland,85,Justin Timberlake,Rock,0,G5vYZ4kL1BB3h,Oracle Arena,250.0,Justin Timberlake - The Man Of The Woods Tour,12
+Dallas,85,Justin Timberlake,Rock,1,vvG1YZfyKjQPM7,American Airlines Center,250.0,Justin Timberlake - The Man Of The Woods Tour,05
+Irvine,86,Charlie Puth,Rock,0,vv170ZfzGkUACvpO,FivePoint Amphitheatre,79.5,2018 Honda Civic Tour presents Charlie Puth Voicenotes,08
+Indianapolis,87,Camila Cabello,Rock,1,vv17fZfMGkBN1Nxg,Lucas Oil Stadium,1497.0,Taylor Swift reputation Stadium Tour,09
+Kansas City,87,Camila Cabello,Rock,1,vv17bZfMGkSZ7dTS,Arrowhead Stadium,495.5,Taylor Swift reputation Stadium Tour,09
+Atlanta,87,Camila Cabello,Rock,0,vvG1zZfMBOnVMT,Mercedes-Benz Stadium,1495.0,Taylor Swift reputation Stadium Tour,08
+East Rutherford,87,Camila Cabello,Rock,1,k7vGF4eJsNdKn,MetLife Stadium,1500.0,Taylor Swift reputation Stadium Tour,07
+Cleveland,87,Camila Cabello,Rock,0,vv1AAZAuUGkexHN46,"FirstEnergy Stadium, Home of the Cleveland Browns",495.5,Taylor Swift reputation Stadium Tour,07
+Chicago,86,Charlie Puth,Rock,0,vv178ZfzGkYvL0aV,Huntington Bank Pavilion at Northerly Island,79.5,2018 Honda Civic Tour presents Charlie Puth Voicenotes,07
+Cincinnati,86,Charlie Puth,Rock,0,1AvbZfzGkS4jAcL,Riverbend Music Center,221.5,2018 Honda Civic Tour presents Charlie Puth Voicenotes,08
+Grand Rapids,71,Brett Young,Country,1,vv17OZ46GklfHAKc,Van Andel Arena,87.25,Thomas Rhett: Life Changes Tour 2018,10
+Lincoln,71,Brett Young,Country,1,vv17bZ46GkMgj5sn,Pinnacle Bank Arena,84.75,Thomas Rhett: Life Changes Tour 2018,10
+East Rutherford,87,Camila Cabello,Rock,1,k7vGFfMMKO76m,MetLife Stadium,1500.0,Taylor Swift reputation Stadium Tour,07
+Pittsburgh,87,Camila Cabello,Rock,0,1apZAut0Z0OZeGd,Heinz Field,492.25,Taylor Swift reputation Stadium Tour,08
+Alpharetta,86,Charlie Puth,Rock,0,vvG1zZfzrXgUc4,Verizon Amphitheatre,69.0,2018 Honda Civic Tour presents Charlie Puth Voicenotes,08
+Tampa,86,Charlie Puth,Rock,0,vvG1VZfzS2onlW,MIDFLORIDA Credit Union Amphitheatre at the FL State Fairgrounds,69.5,2018 Honda Civic Tour presents Charlie Puth Voicenotes,08
+Lexington,71,Brett Young,Country,0,1AvbZ46GkMua6MF,Rupp Arena,85.25,Thomas Rhett: Life Changes Tour 2018,10
+Eugene,71,Brett Young,Country,0,vvG1HZ46RufUYz,Matthew Knight Arena,206.0,Thomas Rhett: Life Changes Tour 2018,10
+New York,80,Chris Stapleton,Country,0,G5diZ4dlVAKD2,Madison Square Garden,94.75,Chris Stapleton,11
+Uncasville,71,Brett Young,Country,1,G5vVZ46I9NNkC,Mohegan Sun Arena,99.0,Thomas Rhett: Life Changes Tour 2018,09
+Tampa,89,Taylor Swift,Rock,0,vvG1VZfMUSg_cT,Raymond James Stadium,275.0,Taylor Swift reputation Stadium Tour,08
+Los Angeles,82,Maren Morris,Rock,0,vv170ZfwGkMVa9O7,Greek Theatre,165.0,Niall Horan: Flicker World Tour 2018,08
+Irvine,82,Maren Morris,Rock,1,vv170ZfwGkMxlJBT,FivePoint Amphitheatre,107.0,Niall Horan: Flicker World Tour 2018,08
+Mountain View,82,Maren Morris,Rock,1,G5vYZfwMNIJxX,Shoreline Amphitheatre,107.0,Niall Horan: Flicker World Tour 2018,08
+Dallas,82,Maren Morris,Rock,0,vvG1YZfwVe17-V,Dos Equis Pavilion,155.0,Niall Horan: Flicker World Tour 2018,07
+Noblesville,87,Rae Sremmurd,Hip-Hop/Rap,0,vv1AAZA3_Gkd5C0Rq,Ruoff Home Mortgage Music Center,98.5,Wiz Khalifa & Rae Sremmurd: Dazed & Blazed Tour,07
+Nashville,82,Maren Morris,Rock,1,G5viZfwBWtpaz,Ascend Amphitheater part of the Journeys Concert Series,107.0,Niall Horan: Flicker World Tour 2018,07
+Woodlands,82,Maren Morris,Rock,0,G5dIZfwBPY31J,The Cynthia Woods Mitchell Pavilion presented by Huntsman,145.0,Niall Horan: Flicker World Tour 2018,07
+Manchester,71,Brett Young,Country,1,vv177Z46Gkmqz6Ma,SNHU Arena,74.75,Thomas Rhett: Life Changes Tour 2018,09
+Cuyahoga Falls,82,Maren Morris,Rock,0,vv17fZfwGkUPHNuK,Blossom Music Center,107.0,Niall Horan: Flicker World Tour 2018,08
+Bristow,82,Maren Morris,Rock,0,1AvfZfwGkUURxI1,Jiffy Lube Live,107.0,Niall Horan: Flicker World Tour 2018,08
+Sioux Falls,82,Metallica,Metal,0,vv1AkZAo8GkdNF1f4,Denny Sanford PREMIER Center,133.0,Metallica - WorldWired Tour,09
+Tulsa,90,Shawn Mendes,Rock,1,17FZvfG61CjYzl8,BOK Center,86.5,SHAWN MENDES: THE TOUR,07
+Pittsburgh,90,Shawn Mendes,Rock,0,17AOvfG61CQ_Umn,PPG Paints Arena,694.25,SHAWN MENDES: THE TOUR,08
+St Louis,90,Shawn Mendes,Rock,1,vvG1bZ4129X2kW,Enterprise Center,86.5,SHAWN MENDES: THE TOUR,06
+Salt Lake City,90,Shawn Mendes,Rock,0,G5vzZ413ZFs4G,Vivint Smart Home Arena,86.5,SHAWN MENDES: THE TOUR,07
+Nashville,90,Shawn Mendes,Rock,0,G5viZ413aLNTZ,Bridgestone Arena,85.0,SHAWN MENDES: THE TOUR,08
+Saint Paul,90,Shawn Mendes,Rock,0,vvG1bZ41G8B0wW,Xcel Energy Center,699.0,SHAWN MENDES: THE TOUR,06
+Atlanta,90,Shawn Mendes,Rock,0,vvG1zZ41GFyQgS,Philips Arena,85.5,SHAWN MENDES: THE TOUR,07
+Milwaukee,90,Shawn Mendes,Rock,0,vv17jZ47GkSyIJj4,American Family Insurance Amphitheater-Summerfest,99.14,Shawn Mendes,07
+Brooklyn,90,Shawn Mendes,Rock,1,k7vGF413EE7TS,Barclays Center,89.5,SHAWN MENDES: THE TOUR,08
+Portland,90,Shawn Mendes,Rock,0,vvG1HZ41x6oxd6,Moda Center,92.5,SHAWN MENDES: THE TOUR,06
+Noblesville,82,Maren Morris,Rock,1,vv17fZfwGkMGbVNA,Ruoff Home Mortgage Music Center,148.0,Niall Horan: Flicker World Tour 2018,08
+Cincinnati,82,Metallica,Metal,0,1kAOvf48GAGCt0g,U.S. Bank Arena,135.0,Metallica - WorldWired Tour,01
+Boise,82,Metallica,Metal,0,G5vzZ4AQr1oTZ,Taco Bell Arena,2499.0,Metallica - WorldWired Tour,11
+Mansfield,87,Rae Sremmurd,Hip-Hop/Rap,0,vvG17Z41mEdad8,Xfinity Center,102.0,Wiz Khalifa & Rae Sremmurd: Dazed & Blazed Tour,08
+Louisville,82,Metallica,Metal,1,1ApZAo8GkdLEy8a,KFC Yum! Center,130.0,Metallica - WorldWired Tour,03
+Detroit,5,Royce da,Hip-Hop/Rap,0,vv1AFZA3aGkdCzAfP,Saint Andrews Hall,25.0,PRhyme,06
+Tinley Park,85,Rich The Kid,R&B,1,vv1A7ZAoUGkeMUAtn,"Hollywood Casino Amphitheatre - Chicago, IL",210.99,Chris Brown Presents: Heartbreak On A Full Moon Tour,07
+Tinley Park,82,Maren Morris,Rock,0,vv178ZfwGkMBKV94,"Hollywood Casino Amphitheatre - Chicago, IL",138.0,Niall Horan: Flicker World Tour 2018,07
+Auburn,85,Rich The Kid,R&B,0,vvG1HZ46QtK0_L,White River Amphitheatre,169.99,Chris Brown Presents: Heartbreak On A Full Moon Tour,06
+Tulsa,82,Metallica,Metal,0,1AOZAo8Gkdrz1_y,BOK Center,132.0,Metallica - WorldWired Tour,01
+West Palm Beach,85,Rich The Kid,R&B,0,vvG1VZ46nbfFDV,Coral Sky Amphitheatre at the S. Florida Fairgrounds,170.99,Chris Brown Presents: Heartbreak On A Full Moon Tour,07
+Woodlands,85,Rich The Kid,R&B,0,G5dIZ46l7CAfq,The Cynthia Woods Mitchell Pavilion presented by Huntsman,164.99,Chris Brown Presents: Heartbreak On A Full Moon Tour,06
+El Paso,82,Metallica,Metal,0,vvG1YZ4AdUW6vz,Don Haskins Center,128.25,Metallica - WorldWired Tour,02
+Dallas,85,Rich The Kid,R&B,1,vvG1YZ46nEE4TF,Dos Equis Pavilion,187.0,Chris Brown Presents: Heartbreak On A Full Moon Tour,07
+St Louis,89,Taylor Swift,Rock,0,vv17bZfMGkR5m9Rx,The Dome at America's Center,496.5,Taylor Swift reputation Stadium Tour,09
+Pittsburgh,89,Taylor Swift,Rock,0,1apZAut0Z0OZeGd,Heinz Field,492.25,Taylor Swift reputation Stadium Tour,08
+East Rutherford,89,Taylor Swift,Rock,1,k7vGF4eJsNdKn,MetLife Stadium,1500.0,Taylor Swift reputation Stadium Tour,07
+Houston,89,Taylor Swift,Rock,1,G5dIZfMmNEeMV,NRG Stadium,600.0,Taylor Swift reputation Stadium Tour,09
+East Rutherford,89,Taylor Swift,Rock,1,k7vGFfMMKO76m,MetLife Stadium,1500.0,Taylor Swift reputation Stadium Tour,07
+Cleveland,89,Taylor Swift,Rock,0,vv1AAZAuUGkexHN46,"FirstEnergy Stadium, Home of the Cleveland Browns",495.5,Taylor Swift reputation Stadium Tour,07
+Atlanta,89,Taylor Swift,Rock,1,vvG1zZfMBOcfz6,Mercedes-Benz Stadium,1495.0,Taylor Swift reputation Stadium Tour,08
+Atlanta,89,Taylor Swift,Rock,0,vvG1zZfMBOnVMT,Mercedes-Benz Stadium,1495.0,Taylor Swift reputation Stadium Tour,08
+Minneapolis,89,Taylor Swift,Rock,0,vv17bZfMGkwOk3xy,U.S. Bank Stadium,1498.0,Taylor Swift reputation Stadium Tour,08
+Indianapolis,89,Taylor Swift,Rock,1,vv17fZfMGkBN1Nxg,Lucas Oil Stadium,1497.0,Taylor Swift reputation Stadium Tour,09

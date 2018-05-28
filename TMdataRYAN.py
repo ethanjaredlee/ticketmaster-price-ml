@@ -1,8 +1,8 @@
 import requests
 import json
 import datetime
-from event import Event
 import TMsales
+import dataCollection
 
 def eventer(artist):
     #example https://app.ticketmaster.com/discovery/v2/events.json?size=20&keyword=post_malone&sort=relevance,desc&apikey=sPYngrqc3a29GkMAd2SOBDuPm7VdHT9o
@@ -13,7 +13,6 @@ def eventer(artist):
     jsonresp = resp.json()
     events = {}
     for i in range(0,len(jsonresp.get(u'_embedded').get(u'events'))):
-        show=Event()
         showw={}
         showwa=[]
         year=[]
@@ -45,6 +44,7 @@ def eventer(artist):
         Showname=jsonresp.get(u'_embedded').get(u'events')[i].get(u'name')
         #print jsonresp.get(u'_embedded').get(u'events')[0].get(u'_embedded').get(u'dmas')#get(u'attractions')[0].get(u'id')
         eventgenre= jsonresp.get(u'_embedded').get(u'events')[i].get(u'classifications')[0].get(u'genre').get(u'name')
+        artistscore=dataCollection.getArtistPopularity(artist)
         #print eventdaynum,eventid,eventgenre
         #show.weekend=weekend
         #show.artist=Showname
@@ -69,6 +69,7 @@ def eventer(artist):
         showw.update({'month':mmonth})
         showw.update({'maxprice':pricemax})
         showw.update({'id':eventids})
+        showw.update({'score':artistscore})
         events.update({eventid:showw})
     return events
     #print 'NEW EVENT!!''weekend:', show.weekend, 'artist:', show.artist, 'genre:', show.genre,'venue:',show.venue,'city:',show.city,'month:',show.month
