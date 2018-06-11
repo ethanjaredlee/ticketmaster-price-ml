@@ -1,0 +1,1199 @@
+city,artist,venue,weekend,pop,month,score,genre,minprice
+Detroit,Sam Hunt,Ford Field,0,688701,10,76,Country,39.75
+Minneapolis,Sam Hunt,Target Field,1,400070,7,76,Country,24.75
+Denver,Sam Hunt,Sports Authority Field At Mile High,1,649495,8,76,Country,29.75
+Alpharetta,Niall Horan,Verizon Amphitheatre,0,62298,9,78,Rock,47
+Hartford,Sam Hunt,XFINITY Theatre,0,125017,6,76,Country,20
+Foxborough,Ed Sheeran,Gillette Stadium,1,???,9,94,Pop,39.5
+Raleigh,G-Eazy,Coastal Credit Union Music Park at Walnut Creek,0,431746,9,88,Hip-Hop/Rap,29.5
+Maryland Heights,G-Eazy,"Hollywood Casino Amphitheatre - St. Louis, MO",1,???,8,88,Hip-Hop/Rap,29.5
+Bristow,G-Eazy,Jiffy Lube Live,0,???,8,88,Hip-Hop/Rap,29.5
+Mountain View,G-Eazy,Shoreline Amphitheatre,1,77846,7,88,Hip-Hop/Rap,29.5
+Hartford,G-Eazy,XFINITY Theatre,1,125017,8,88,Hip-Hop/Rap,20
+Arlington,Ed Sheeran,AT&T Stadium,1,75994,10,94,Pop,39.5
+Phoenix,G-Eazy,Ak-Chin Pavilion,0,1513367,8,88,Hip-Hop/Rap,29.5
+Chula Vista,G-Eazy,Mattress Firm Amphitheatre (Formerly Sleep Train Amphitheatre),0,256780,8,88,Hip-Hop/Rap,25
+Chicago,Florida Georgia Line,Huntington Bank Pavilion at Northerly Island,1,2718782,6,85,Country,18.88
+Chicago,Florida Georgia Line,Huntington Bank Pavilion at Northerly Island,0,2718782,6,85,Country,24.88
+Mountain View,Keith Urban,Shoreline Amphitheatre,0,77846,7,77,Country,40.25
+Clarkston,Keith Urban,DTE Energy Music Theatre,0,???,6,77,Country,30
+Noblesville,Keith Urban,Ruoff Home Mortgage Music Center,1,56540,6,77,Country,37.25
+Maryland Heights,Keith Urban,"Hollywood Casino Amphitheatre - St. Louis, MO",0,???,6,77,Country,38.25
+Tinley Park,Keith Urban,"Hollywood Casino Amphitheatre - Chicago, IL",1,57282,8,77,Country,39.25
+Canandaigua,Keith Urban,Constellation Brands‰ÛÒMarvin Sands Performing Arts Center: CMAC,1,???,7,77,Country,35
+Saratoga Springs,Keith Urban,Saratoga Performing Arts Center,0,???,6,77,Country,20
+Charlotte,Keith Urban,PNC Music Pavilion,1,44349,7,77,Country,39.25
+Boston,Bad Bunny,Agganis Arena,0,645966,8,95,Hip-Hop/Rap,60.5
+Sugar Land,Bad Bunny,Smart Financial Centre at Sugar Land,0,83860,8,95,Hip-Hop/Rap,55.5
+Orange Beach,Keith Urban,The Wharf Amphitheater,1,???,8,77,Country,20
+Burgettstown,Keith Urban,KeyBank Pavilion,1,???,6,77,Country,39
+Atlanta,Bad Bunny,Philips Arena,0,447841,11,95,Hip-Hop/Rap,54.5
+Milwaukee,Ed Sheeran,Miller Park,0,599164,10,94,Pop,39.5
+Ontario,Bad Bunny,Citizens Business Bank Arena,1,167500,9,95,Hip-Hop/Rap,52.5
+Fairfax,Bad Bunny,EagleBank Arena,0,???,8,95,Hip-Hop/Rap,59
+San Francisco,Ed Sheeran,AT & T Park,0,66174,8,94,Pop,39.5
+Pittsburgh,Sam Hunt,Heinz Field,1,305841,6,76,Country,42.5
+Wheatland,Lil Uzi Vert,Toyota Amphitheatre,1,???,7,89,Hip-Hop/Rap,29.5
+Burgettstown,Rae Sremmurd,KeyBank Pavilion,0,???,7,87,Hip-Hop/Rap,29.5
+Tampa,Sam Hunt,Raymond James Stadium,1,352957,6,76,Country,29.75
+Montreal,Halsey,MTELUS,1,???,7,85,Rock,49.5
+Amsterdam,Halsey,None,0,???,9,85,Family,18
+Berlin,Halsey,None,0,39834,9,85,Rock,42.9
+Philadelphia,BlocBoy JB,Made in America Venue,1,1553165,9,83,Undefined,125
+MÌ©xico,Halsey,Pepsi Center WTC,0,91956,6,85,Rock,490
+Tampa,G-Eazy,MIDFLORIDA Credit Union Amphitheatre at the FL State Fairgrounds,0,352957,9,88,Hip-Hop/Rap,29.5
+Holmdel,Rae Sremmurd,PNC Bank Arts Center,1,???,8,87,Hip-Hop/Rap,29
+Portland,Logic,Moda Center,1,609456,7,88,Hip-Hop/Rap,57.5
+Atlantic City,Sam Hunt,Atlantic City Beach,1,39551,7,76,Other,75
+St Louis,Janelle Monae,The Pageant,0,318416,7,76,R&B,46
+Birmingham,Lynyrd Skynyrd,Oak Mountain Amphitheatre,0,212113,8,74,Rock,35
+Baltimore,Panic! At The Disco,Royal Farms Arena (formerly Baltimore Arena),1,622104,7,84,Rock,27.75
+Albuquerque,G-Eazy,Isleta Amphitheater,1,556495,8,88,Hip-Hop/Rap,29.5
+Mansfield,G-Eazy,Xfinity Center,1,60872,8,88,Hip-Hop/Rap,29.5
+Newark,Bad Bunny,Prudential Center,1,44096,8,95,Hip-Hop/Rap,65.5
+Charlotte,Janelle Monae,The Fillmore Charlotte presented by Cricket Wireless,0,44349,7,76,R&B,39.5
+Auburn,Bad Wolves,White River Amphitheatre,1,74860,7,68,Metal,30
+San Antonio,Bad Bunny,Freeman Coliseum,0,1409019,9,95,Hip-Hop/Rap,39
+Rosemont,Bazzi,Allstate Arena,1,???,6,83,Dance/Electronic,55
+Indianapolis,Bazzi,Indiana Farmers Coliseum,0,843393,6,83,Rock,55
+Mansfield,Bazzi,Xfinity Center,1,60872,6,83,Rock,23.5
+Las Vegas,Bazzi,Las Vegas Festival Grounds,1,226877,9,83,Undefined,49
+Tulsa,Panic! At The Disco,BOK Center,1,398121,8,84,Rock,27.75
+Toronto,Bazzi,The Danforth Music Hall,1,???,8,83,Pop,30
+Huber Heights,Grey,The Rose Music Center at The Heights,0,38142,8,82,Rock,20
+Cincinnati,Savage,Bogart's presented by Cricket Wireless,0,297517,9,89,Dance/Electronic,25
+Cuyahoga Falls,Maren Morris,Blossom Music Center,0,49267,8,82,Rock,37
+Farmingville,Dustin Lynch,The Amphitheater at Bald Hill,0,???,7,73,Country,35
+Kansas City,Taylor Swift,Arrowhead Stadium,1,148483,9,89,Rock,45.5
+Nashville,Taylor Swift,Nissan Stadium,1,634464,8,89,Rock,46.5
+Mansfield,Maren Morris,Xfinity Center,1,60872,9,82,Rock,29.5
+Arlington,Taylor Swift,AT&T Stadium,0,75994,10,89,Rock,49.5
+Miami,Taylor Swift,Hard Rock Stadium,1,417650,8,89,Rock,49.5
+Foxborough,Taylor Swift,Gillette Stadium,0,???,7,89,Rock,49.5
+East Rutherford,Taylor Swift,MetLife Stadium,1,???,7,89,Rock,49.5
+Philadelphia,Taylor Swift,Lincoln Financial Field,0,1553165,7,89,Rock,45.5
+Indianapolis,Taylor Swift,Lucas Oil Stadium,1,843393,9,89,Rock,46.5
+Landover,Taylor Swift,FedExField,0,???,7,89,Rock,44
+Louisville,Taylor Swift,Papa Johns Cardinal Stadium,1,609893,6,89,Rock,43.5
+Albuquerque,Ty Dolla $ign,Isleta Amphitheater,1,556495,8,92,Hip-Hop/Rap,29.5
+Ridgefield,Ty Dolla $ign,Sunlight Supply Amphitheater,1,???,7,92,Hip-Hop/Rap,29.5
+Las Vegas,Savage,Park Theater,0,226877,6,89,Hip-Hop/Rap,90
+Columbus,Savage,Newport Music Hall,1,202824,9,89,Dance/Electronic,23
+Mansfield,Lynyrd Skynyrd,Xfinity Center,0,60872,7,74,Rock,29.5
+Seattle,Savage,Neptune Theatre,0,652405,10,89,Dance/Electronic,30
+New York,Savage,Irving Plaza presented by Cricket Wireless,1,52122,9,89,Dance/Electronic,30
+Wilmington,Savage,The Queen,1,112067,9,89,Dance/Electronic,29.5
+Atlanta,Ty Dolla $ign,Cellairis Amphitheatre at Lakewood,0,447841,9,92,Hip-Hop/Rap,29.5
+Philadelphia,Ty Dolla $ign,Made in America Venue,1,1553165,9,92,Undefined,125
+Wheatland,Ty Dolla $ign,Toyota Amphitheatre,1,???,7,92,Hip-Hop/Rap,29.5
+Auburn,Ty Dolla $ign,White River Amphitheatre,0,74860,7,92,Hip-Hop/Rap,29.5
+Irvine,Ty Dolla $ign,FivePoint Amphitheatre,0,236716,7,92,Hip-Hop/Rap,39.5
+Bristow,Keith Urban,Jiffy Lube Live,1,???,8,77,Country,39.25
+Noblesville,Ty Dolla $ign,Ruoff Home Mortgage Music Center,0,56540,8,92,Hip-Hop/Rap,28.5
+Holmdel,Ty Dolla $ign,PNC Bank Arts Center,0,???,8,92,Hip-Hop/Rap,29.5
+Amsterdam,Demi Lovato,None,1,???,6,88,Family,18
+Amsterdam,Demi Lovato,None,1,???,6,88,Family,13.2
+Amsterdam,Demi Lovato,None,0,???,6,88,Family,18
+Amsterdam,Demi Lovato,None,0,???,6,88,Family,13.2
+Las Vegas,Florida Georgia Line,Zappos Theater at Planet Hollywood,0,226877,12,85,Country,49
+Las Vegas,Florida Georgia Line,Zappos Theater at Planet Hollywood,0,226877,12,85,Country,49
+Amsterdam,Demi Lovato,None,0,???,6,88,Rock,40.7
+Atlantic City,Demi Lovato,Atlantic City Beach,1,39551,7,88,Other,75
+Las Vegas,Florida Georgia Line,Zappos Theater at Planet Hollywood,0,226877,12,85,Country,49
+Atlantic City,Florida Georgia Line,Mark G Etess Arena at Hard Rock Hotel & Casino,0,39551,7,85,Country,89
+Thackerville,Florida Georgia Line,The Colosseum at WinStar,0,???,8,85,Country,75
+Atlantic City,Florida Georgia Line,Mark G Etess Arena at Hard Rock Hotel & Casino,1,39551,7,85,Country,89
+Milwaukee,Florida Georgia Line,American Family Insurance Amphitheater-Summerfest,1,599164,6,85,Country,60.07
+Las Vegas,Florida Georgia Line,Zappos Theater at Planet Hollywood,1,226877,12,85,Country,49
+Las Vegas,Florida Georgia Line,Zappos Theater at Planet Hollywood,1,226877,12,85,Country,49
+Youngstown,Florida Georgia Line,Stambaugh Stadium,1,65184,8,85,Country,45
+Foxborough,Camila Cabello,Gillette Stadium,0,???,7,88,Rock,49.5
+Nashville,Camila Cabello,Nissan Stadium,1,634464,8,88,Rock,46.5
+MÌ©xico,The Weeknd,Palacio de los Deportes,1,91956,10,93,Hip-Hop/Rap,480
+MÌ©xico,The Weeknd,Palacio de los Deportes,1,91956,10,93,Hip-Hop/Rap,1790
+MÌ©xico,The Weeknd,Palacio de los Deportes,0,91956,10,93,Hip-Hop/Rap,988
+MÌ©xico,The Weeknd,Palacio de los Deportes,0,91956,10,93,Hip-Hop/Rap,1988
+Bangor,NF,Darling's Waterfront Pavilion,1,???,6,81,Hip-Hop/Rap,25
+Monterrey,The Weeknd,Parque Fundidora,1,???,10,93,Undefined,780
+Uncasville,Camila Cabello,Mohegan Sun Arena,0,???,7,88,Rock,29
+Indianapolis,Camila Cabello,Lucas Oil Stadium,1,843393,9,88,Rock,46.5
+Philadelphia,Camila Cabello,Lincoln Financial Field,0,1553165,7,88,Rock,45.5
+Louisville,Camila Cabello,Papa Johns Cardinal Stadium,1,609893,6,88,Rock,43.5
+Landover,Camila Cabello,FedExField,0,???,7,88,Rock,44
+Miami,Camila Cabello,Hard Rock Stadium,1,417650,8,88,Rock,49.5
+Arlington,Camila Cabello,AT&T Stadium,0,75994,10,88,Rock,49.5
+East Rutherford,Camila Cabello,MetLife Stadium,1,???,7,88,Rock,49.5
+Tuscaloosa,Jason Aldean,Tuscaloosa Amphitheater,0,95334,7,79,Country,39.5
+Chula Vista,Jason Aldean,Mattress Firm Amphitheatre (Formerly Sleep Train Amphitheatre),0,256780,9,79,Country,39.5
+Cuyahoga Falls,Darius Rucker,Blossom Music Center,0,49267,7,71,Country,32
+Mountain View,Darius Rucker,Shoreline Amphitheatre,0,77846,8,71,Country,35.25
+Auburn,Darius Rucker,White River Amphitheatre,1,74860,8,71,Country,35
+West Palm Beach,Darius Rucker,Coral Sky Amphitheatre at the S. Florida Fairgrounds,1,102436,9,71,Country,35.25
+Milwaukee,Darius Rucker,American Family Insurance Amphitheater-Summerfest,1,599164,9,71,Country,45.26
+Chula Vista,Darius Rucker,Mattress Firm Amphitheatre (Formerly Sleep Train Amphitheatre),1,256780,8,71,Country,34.75
+Irvine,Jason Aldean,FivePoint Amphitheatre,1,236716,9,79,Country,55.5
+Charlotte,Jason Aldean,PNC Music Pavilion,0,44349,8,79,Country,39
+Bristow,Jason Aldean,Jiffy Lube Live,1,???,7,79,Country,40
+Dallas,Jason Aldean,Dos Equis Pavilion,1,1257676,7,79,Country,41.75
+Raleigh,Jason Aldean,Coastal Credit Union Music Park at Walnut Creek,1,431746,8,79,Country,39
+Atlanta,Jason Aldean,SunTrust Park,1,447841,7,79,Country,35.5
+Clarkston,Jason Aldean,DTE Energy Music Theatre,0,???,9,79,Country,30.75
+Bethel,Jason Aldean,Bethel Woods Center for the Arts,0,???,7,79,Country,46.75
+Silver Spring,Lil Pump,The Fillmore Silver Spring presented by Cricket Wireless,0,???,6,84,Hip-Hop/Rap,49.5
+Allentown,Maren Morris,Allentown Fairgrounds,1,118577,9,82,Rock,39
+Indianapolis,Panic! At The Disco,Bankers Life Fieldhouse,0,843393,7,84,Rock,30.75
+West Palm Beach,Maren Morris,Coral Sky Amphitheatre at the S. Florida Fairgrounds,1,102436,9,82,Rock,47
+Virginia Beach,Lynyrd Skynyrd,Veterans United Home Loans Amphitheater at Virginia Beach,0,448479,7,74,Rock,20.5
+Cleveland,Savage,House of Blues Cleveland presented by Cricket Wireless,1,42774,9,89,Dance/Electronic,25
+Raleigh,Lynyrd Skynyrd,Coastal Credit Union Music Park at Walnut Creek,0,431746,6,74,Rock,29.5
+Nijmegen,Eminem,"Goffertpark, Nijmegen",0,???,7,91,Rock,456
+Brooklyn,Bad Bunny,Barclays Center,0,78373,6,95,Other,76
+Chicago,Sam Smith,United Center,0,2718782,8,86,Rock,35
+Orlando,Sam Smith,Amway Center,0,255483,7,86,Rock,36.5
+North Little Rock,MercyMe,Verizon Arena,1,66075,10,65,Rock,23
+Oakland,Sam Smith,Oracle Arena,0,406253,9,86,Rock,37
+Glendale,Sam Smith,Gila River Arena,0,196021,8,86,Rock,30.75
+Sacramento,Sam Smith,Golden 1 Center,0,49891,8,86,Rock,35
+Detroit,Sam Smith,Little Caesars Arena,0,688701,6,86,Rock,35
+Alpharetta,Keith Urban,Verizon Amphitheatre,1,62298,7,77,Country,58.75
+New Orleans,Sam Smith,Smoothie King Center,0,378715,7,86,Rock,32
+Portland,Sam Smith,Moda Center,0,609456,9,86,Rock,35
+Woodlands,Foster The People,The Cynthia Woods Mitchell Pavilion presented by Huntsman,0,???,7,77,Rock,35.5
+San Antonio,MercyMe,Freeman Coliseum,1,1409019,10,65,Rock,20
+Cincinnati,Grey,PNC PAVILION,1,297517,8,82,Rock,20
+Wantagh,Lynyrd Skynyrd,Northwell Health at Jones Beach Theater,1,???,6,74,Rock,20
+San Jose,Panic! At The Disco,SAP Center at San Jose,0,998537,8,84,Rock,27.75
+Lexington,Brett Young,Rupp Arena,0,308428,10,71,Country,30.25
+San Diego,Savage,Cal Coast Credit Union Open Air Theatre at SDSU,0,1355896,6,89,Hip-Hop/Rap,108
+Boston,Leon Bridges,Agganis Arena,0,645966,10,76,R&B,37
+Las Vegas,Leon Bridges,Pearl Concert Theater at Palms Casino Resort,1,226877,9,76,R&B,35.78
+Hartford,Logic,XFINITY Theatre,1,125017,6,88,Hip-Hop/Rap,18.75
+Philadelphia,Leon Bridges,The Fillmore Philadelphia presented by Cricket Wireless,1,1553165,10,76,R&B,55
+Phoenix,Leon Bridges,Comerica Theatre ,0,1513367,9,76,R&B,36.5
+Raleigh,Leon Bridges,Red Hat Amphitheater,1,431746,8,76,R&B,35
+Milwaukee ,Leon Bridges,BMO Harris Pavilion,1,599164,9,76,R&B,54.47
+Philadelphia,Leon Bridges,The Fillmore Philadelphia presented by Cricket Wireless,1,1553165,9,76,R&B,55
+Valencia,Maluma,Plaza de Toros de Valencia,0,???,9,89,Other,66
+Boston,Drake,TD Garden,0,645966,9,99,Hip-Hop/Rap,55
+Rochester,Luke Bryan,Blue Cross Arena,0,210358,10,79,Country,39.75
+Del Mar,MercyMe,Del Mar Fairgrounds,0,???,6,65,Rock,22
+Greensboro,Godsmack,Greensboro Coliseum Complex,1,279639,9,71,Rock,39.5
+Tampa,Meghan Trainor,Amalie Arena,0,352957,6,79,Rock,25
+North Little Rock,Godsmack,Verizon Arena,0,66075,8,71,Rock,39.5
+Rosemont,Meghan Trainor,Allstate Arena,1,???,6,79,Dance/Electronic,55
+Wantagh,Meghan Trainor,Northwell Health at Jones Beach Theater,0,???,6,79,Rock,39
+Las Vegas,Godsmack,Downtown Las Vegas Events Center,0,226877,8,71,Rock,42.45
+Bonner Springs,Godsmack,Providence Medical Center Amphitheater,0,???,8,71,Rock,29.5
+New Orleans,Ella Mai,Mercedes-Benz Superdome ,1,378715,7,73,R&B,90
+Bristow,Godsmack,Jiffy Lube Live,1,???,8,71,Rock,19
+Peoria,Godsmack,Peoria Civic Center,1,162592,9,71,Rock,36.5
+Brookings,Godsmack,Swiftel Center,0,???,10,71,Rock,36.5
+Virginia Beach,Godsmack,Veterans United Home Loans Amphitheater at Virginia Beach,1,448479,8,71,Rock,12
+Burgettstown,Godsmack,KeyBank Pavilion,0,???,8,71,Rock,25
+Syracuse,Imagine Dragons,St. Joseph‰Ûªs Health Amphitheater at Lakeview,1,144669,6,89,Rock,26.25
+Raleigh,Imagine Dragons,Coastal Credit Union Music Park at Walnut Creek,0,431746,7,89,Rock,35
+Portland,Godsmack,Veterans Memorial Coliseum,0,609456,10,71,Rock,23
+Bangor,Imagine Dragons,Darling's Waterfront Pavilion,0,???,6,89,Rock,32.5
+Holmdel,Imagine Dragons,PNC Bank Arts Center,1,???,6,89,Rock,39.5
+Saratoga Springs,Imagine Dragons,Saratoga Performing Arts Center,0,???,6,89,Rock,35
+New York,Imagine Dragons,Madison Square Garden,0,52122,6,89,Rock,49.5
+Cuyahoga Falls,Imagine Dragons,Blossom Music Center,1,49267,6,89,Rock,40
+Inglewood,Imagine Dragons,The Forum,1,111542,7,89,Rock,29.5
+Tampa,Imagine Dragons,MIDFLORIDA Credit Union Amphitheatre at the FL State Fairgrounds,0,352957,8,89,Rock,35
+Boston,Charlie Puth,Blue Hills Bank Pavilion,0,645966,7,87,Rock,50
+St Louis,Ed Sheeran,Busch Stadium,0,318416,9,94,Pop,39.5
+East Rutherford,Kenny Chesney,MetLife Stadium,1,???,8,76,Country,70
+Philadelphia,Ed Sheeran,Lincoln Financial Field,0,1553165,9,94,Pop,35.5
+Atlanta,Ed Sheeran,Mercedes-Benz Stadium,1,447841,11,94,Pop,34.5
+Southaven,Kenny Chesney,BankPlus Amphitheater at Snowden Grove,0,50997,7,76,Country,35.5
+Bangor,Kenny Chesney,Darling's Waterfront Pavilion,0,???,8,76,Country,29.75
+Detroit,Kenny Chesney,Ford Field,1,688701,8,76,Country,44.5
+Nashville,Kenny Chesney,Nissan Stadium,1,634464,8,76,Country,35
+Brooklyn,Foster The People,Barclays Center,0,78373,6,77,Rock,35
+Philadelphia,Foster The People,Festival Pier (at Penn's Landing),1,1553165,6,77,Rock,65
+Foxborough,Kenny Chesney,Gillette Stadium,1,???,8,76,Country,66
+Stateline,Kenny Chesney,Lake Tahoe Outdoor Arena at Harveys,0,???,7,76,Country,69.5
+Noblesville,Foster The People,Ruoff Home Mortgage Music Center,0,56540,6,77,Rock,28.5
+Inglewood,Foster The People,The Forum,0,111542,7,77,Rock,39.5
+Chula Vista,Foster The People,Mattress Firm Amphitheatre (Formerly Sleep Train Amphitheatre),0,256780,7,77,Rock,29.5
+Chicago,Foster The People,Huntington Bank Pavilion at Northerly Island,1,2718782,7,77,Rock,39.5
+New York,NF,Madison Square Garden,1,52122,6,81,Hip-Hop/Rap,49.5
+Auburn,NF,White River Amphitheatre,0,74860,7,81,Hip-Hop/Rap,25
+Irvine,Niall Horan,FivePoint Amphitheatre,1,236716,8,78,Rock,37.5
+Cuyahoga Falls,NF,Blossom Music Center,0,49267,7,81,Hip-Hop/Rap,35
+Jacksonville,NF,Daily's Place,1,69079,6,81,Hip-Hop/Rap,39.5
+Phoenix,NF,Ak-Chin Pavilion,0,1513367,7,81,Hip-Hop/Rap,25
+Holmdel,NF,PNC Bank Arts Center,1,???,6,81,Hip-Hop/Rap,22
+Portland,NF,Moda Center,1,609456,7,81,Hip-Hop/Rap,57.5
+Woodlands,NF,The Cynthia Woods Mitchell Pavilion presented by Huntsman,1,???,7,81,Hip-Hop/Rap,25
+Inglewood,NF,The Forum,0,111542,7,81,Hip-Hop/Rap,39.5
+Mountain View,NF,Shoreline Amphitheatre,0,77846,7,81,Hip-Hop/Rap,25
+Toronto,Childish Gambino,Air Canada Centre,1,???,9,87,Hip-Hop/Rap,59.5
+Vancouver,Childish Gambino,Rogers Arena,1,167405,9,87,Hip-Hop/Rap,59.5
+Boston,Childish Gambino,TD Garden,0,645966,9,87,Hip-Hop/Rap,45
+New York,Childish Gambino,Madison Square Garden,1,52122,9,87,Hip-Hop/Rap,49.5
+Oakland,Childish Gambino,Oracle Arena,0,406253,9,87,Hip-Hop/Rap,49.5
+Milwaukee,Foster The People,Henry Maier Festival Park (Summerfest Grounds),0,599164,7,77,Rock,50
+Barcelona,Portugal. The Man,Sala Apolo,1,???,7,78,Rock,31.5
+Noblesville,Charlie Puth,Ruoff Home Mortgage Music Center,1,56540,8,87,Rock,24
+Los Angeles,Charlie Puth,Greek Theatre,0,3884307,8,87,Rock,39.5
+Wantagh,Charlie Puth,Northwell Health at Jones Beach Theater,1,???,6,87,Dance/Electronic,25
+Chula Vista,Charlie Puth,Mattress Firm Amphitheatre (Formerly Sleep Train Amphitheatre),1,256780,8,87,Rock,25
+Irving,Charlie Puth,The Pavilion at Toyota Music Factory,0,228653,8,87,Rock,29.5
+Chicago,Charlie Puth,Huntington Bank Pavilion at Northerly Island,0,2718782,7,87,Rock,39.5
+Mountain View,Charlie Puth,Shoreline Amphitheatre,0,77846,8,87,Rock,25
+Charlotte,Charlie Puth,PNC Music Pavilion,0,44349,7,87,Rock,25
+Inglewood,Brett Young,The Forum,0,111542,10,71,Country,34.75
+Anaheim,Brett Young,Honda Center,0,345012,10,71,Country,33.75
+Las Vegas,Brett Young,Mandalay Bay Beach at Mandalay Bay Resort,0,226877,8,71,Folk,87.16
+Nashville,Brett Young,Ryman Auditorium,0,634464,10,71,Folk,29.5
+West Palm Beach,Charlie Puth,Coral Sky Amphitheatre at the S. Florida Fairgrounds,1,102436,9,87,Rock,25
+Tinley Park,Rae Sremmurd,"Hollywood Casino Amphitheatre - Chicago, IL",1,57282,7,87,Hip-Hop/Rap,29
+Syracuse,Brett Young,The Oncenter War Memorial Arena,0,144669,9,71,Country,29.75
+Wantagh,Dua Lipa,Northwell Health at Jones Beach Theater,0,???,6,92,Rock,39
+Raleigh,Rae Sremmurd,Coastal Credit Union Music Park at Walnut Creek,1,431746,8,87,Hip-Hop/Rap,39
+Camden,Rae Sremmurd,BB&T Pavilion  ,0,76903,8,87,Hip-Hop/Rap,29.5
+Warsaw,Portugal. The Man,Palladium,1,???,6,78,Alternative,105
+Bristow,Rae Sremmurd,Jiffy Lube Live,0,???,8,87,Hip-Hop/Rap,30.75
+Mountain View,Niall Horan,Shoreline Amphitheatre,1,77846,8,78,Rock,29.5
+Cuyahoga Falls,Rae Sremmurd,Blossom Music Center,1,49267,7,87,Hip-Hop/Rap,35
+Milwaukee,Luke Combs,American Family Insurance Amphitheater-Summerfest,0,599164,7,79,Country,65.23
+Darien Center,Luke Combs,Darien Lake Amphitheater,0,???,8,79,Country,39.25
+Raleigh,Luke Combs,Coastal Credit Union Music Park at Walnut Creek,1,431746,8,79,Country,39
+Brandon,Luke Combs,Brandon Amphitheater,0,???,7,79,Country,34.5
+Dallas,Luke Combs,Dos Equis Pavilion,1,1257676,7,79,Country,41.75
+Noblesville,Rae Sremmurd,Ruoff Home Mortgage Music Center,0,56540,7,87,Hip-Hop/Rap,24
+Charlotte,Luke Combs,PNC Music Pavilion,0,44349,8,79,Country,39
+Bristow,Luke Combs,Jiffy Lube Live,1,???,7,79,Country,40
+Springfield,Luke Combs,Illinois State Fairgrounds Il State Fair,0,153703,8,79,Country,12
+Sioux Falls,Luke Combs,Sanford Pentagon,0,164676,10,79,Country,23
+Camden,Bad Wolves,BB&T Pavilion  ,0,76903,8,68,Rock,30
+Indianapolis,Metallica,Bankers Life Fieldhouse,1,843393,3,82,Metal,65
+Dallas,Luke Bryan,Dos Equis Pavilion,1,1257676,9,79,Country,40
+Irving,Leon Bridges,The Pavilion at Toyota Music Factory,1,228653,6,76,R&B,25
+Tampa,Lil Uzi Vert,MIDFLORIDA Credit Union Amphitheatre at the FL State Fairgrounds,0,352957,9,89,Hip-Hop/Rap,29.5
+Nashville,Bad Bunny,Bridgestone Arena,1,634464,9,95,Hip-Hop/Rap,65.96
+Chula Vista,Lil Uzi Vert,Mattress Firm Amphitheatre (Formerly Sleep Train Amphitheatre),0,256780,8,89,Hip-Hop/Rap,25
+Corpus Christi,Foster The People,Concrete Street Amphitheater,0,316381,7,77,Rock,44.5
+Maryland Heights,Lil Uzi Vert,"Hollywood Casino Amphitheatre - St. Louis, MO",1,???,8,89,Hip-Hop/Rap,29.5
+Raleigh,Lil Uzi Vert,Coastal Credit Union Music Park at Walnut Creek,0,431746,9,89,Hip-Hop/Rap,29.5
+Milwaukee,MercyMe,Miller High Life Theatre,0,599164,10,65,Rock,22
+Bristow,Lil Uzi Vert,Jiffy Lube Live,0,???,8,89,Hip-Hop/Rap,29.5
+Clarkston,SZA,DTE Energy Music Theatre,0,???,6,86,Hip-Hop/Rap,44.5
+Bonner Springs,Lil Uzi Vert,Providence Medical Center Amphitheater,0,???,8,89,Hip-Hop/Rap,29.5
+Toronto,SZA,Budweiser Stage,0,???,6,86,Hip-Hop/Rap,43.75
+Saratoga Springs,SZA,Saratoga Performing Arts Center,1,???,6,86,Hip-Hop/Rap,20
+Camden,SZA,BB&T Pavilion  ,0,76903,6,86,Hip-Hop/Rap,29.5
+Tinley Park,SZA,"Hollywood Casino Amphitheatre - Chicago, IL",0,57282,6,86,Hip-Hop/Rap,39.5
+Burgettstown,SZA,KeyBank Pavilion,1,???,6,86,Hip-Hop/Rap,35
+Woodlands,Bad Wolves,The Cynthia Woods Mitchell Pavilion presented by Huntsman,0,???,8,68,Metal,30
+Chula Vista,Bad Wolves,Mattress Firm Amphitheatre (Formerly Sleep Train Amphitheatre),0,256780,7,68,Metal,30
+Albuquerque,Bad Wolves,Isleta Amphitheater,1,556495,7,68,Metal,30
+Mountain View,Ty Dolla $ign,Shoreline Amphitheatre,1,77846,7,92,Hip-Hop/Rap,29.5
+Syracuse,Luke Bryan,St. Joseph‰Ûªs Health Amphitheater at Lakeview,0,144669,8,79,Country,38
+Irvine,Bad Wolves,FivePoint Amphitheatre,0,236716,7,68,Metal,40
+Atlanta,Godsmack,Cellairis Amphitheatre at Lakewood,0,447841,8,71,Rock,34
+Darien Center,Bad Wolves,Darien Lake Amphitheater,1,???,9,68,Rock,30
+Edmonton,Grey,Commonwealth Stadium / Stade du Commonwealth,1,???,11,82,Football,103.95
+Tulsa,Metallica,BOK Center,0,398121,1,82,Metal,62
+Fresno,Metallica,Save Mart Center,1,509924,12,82,Metal,62
+Noblesville,Bad Wolves,Ruoff Home Mortgage Music Center,0,56540,8,68,Rock,29
+Boston,Janelle Monae,Blue Hills Bank Pavilion,1,645966,7,76,R&B,44.5
+Austin,Bad Wolves,Austin360 Amphitheater,0,885400,8,68,Metal,30
+Mansfield,Chris Brown,Xfinity Center,0,60872,7,90,R&B,25
+Noblesville,Chris Brown,Ruoff Home Mortgage Music Center,0,56540,7,90,R&B,24
+Brooklyn,Chris Brown,Barclays Center,1,78373,7,90,R&B,61
+Irvine,Luke Combs,FivePoint Amphitheatre,1,236716,9,79,Country,55.5
+Cincinnati,Chris Brown,Riverbend Music Center,0,297517,7,90,R&B,16
+Charlotte,Chris Brown,PNC Music Pavilion,1,44349,7,90,R&B,25
+Austin,Chris Brown,Austin360 Amphitheater,0,885400,6,90,R&B,25
+Dallas,Chris Brown,Dos Equis Pavilion,1,1257676,7,90,R&B,25
+San Diego,Janelle Monae,Cal Coast Credit Union Open Air Theatre at SDSU,0,1355896,6,76,R&B,25
+Indianapolis,Janelle Monae,Murat Theatre at Old National Centre,1,843393,7,76,R&B,34.5
+Atlanta,Janelle Monae,Tabernacle,1,447841,8,76,R&B,49.5
+Raleigh,Janelle Monae,The Ritz,1,431746,7,76,R&B,49.5
+Chicago,Janelle Monae,The Chicago Theatre,0,2718782,7,76,R&B,59.5
+San Francisco,Janelle Monae,The Masonic,1,66174,6,76,R&B,50
+Newark,Chris Brown,Prudential Center,1,44096,7,90,R&B,59.99
+Nashville,Maren Morris,Ascend Amphitheater part of the Journeys Concert Series,1,634464,7,82,Rock,35
+Noblesville,Darius Rucker,Ruoff Home Mortgage Music Center,0,56540,9,71,Country,33.25
+Bethel,Darius Rucker,Bethel Woods Center for the Arts,0,???,7,71,Country,20
+Los Angeles,Janelle Monae,Greek Theatre,0,3884307,6,76,R&B,50
+Hartford,Darius Rucker,XFINITY Theatre,1,125017,7,71,Country,20
+Tinley Park,Darius Rucker,"Hollywood Casino Amphitheatre - Chicago, IL",1,57282,9,71,Country,35.25
+Tampa,Darius Rucker,MIDFLORIDA Credit Union Amphitheatre at the FL State Fairgrounds,0,352957,9,71,Country,35.25
+Irvine,Darius Rucker,FivePoint Amphitheatre,0,236716,8,71,Country,40.25
+Wantagh,Darius Rucker,Northwell Health at Jones Beach Theater,1,???,8,71,Country,35.25
+Welch,Darius Rucker,Treasure Island Resort & Casino,0,???,8,71,Country,30
+Holmdel,Darius Rucker,PNC Bank Arts Center,0,???,8,71,Country,35.5
+Cincinnati,Famous Dex,Bogart's presented by Cricket Wireless,1,297517,6,80,Hip-Hop/Rap,20
+Camden,Jason Aldean,BB&T Pavilion  ,1,76903,8,79,Country,30.75
+Dallas,Famous Dex,House of Blues Dallas presented by Cricket Wireless,1,1257676,7,80,Hip-Hop/Rap,25
+Indianapolis,Famous Dex,Indiana Farmers Coliseum,1,843393,6,80,Hip-Hop/Rap,43
+Los Angeles,Famous Dex,The Belasco Theater,0,3884307,6,80,Hip-Hop/Rap,27.5
+Detroit,Famous Dex,Saint Andrews Hall,1,688701,6,80,Hip-Hop/Rap,25
+George,Brett Young,Gorge Amphitheatre,0,76817,8,71,Country,215
+Darien Center,Jason Aldean,Darien Lake Amphitheater,0,???,8,79,Country,39.25
+Eugene,Brett Young,Matthew Knight Arena,0,159190,10,71,Country,29.75
+Bangor,Brett Young,Cross Insurance Center,0,???,9,71,Country,29.75
+Manchester,Brett Young,SNHU Arena,1,110378,9,71,Country,29.75
+Uncasville,Brett Young,Mohegan Sun Arena,0,???,9,71,Country,59
+Lincoln,Brett Young,Pinnacle Bank Arena,1,45237,10,71,Country,29.75
+San Bernardino,Jason Aldean,Glen Helen Amphitheater formerly San Manuel Amphitheater,1,213708,9,79,Country,30.75
+Oklahoma City,Brett Young,Chesapeake Energy Arena,0,56756,10,71,Country,29.75
+Uncasville,Brett Young,Mohegan Sun Arena,1,???,9,71,Country,59
+Woodlands,Chris Brown,The Cynthia Woods Mitchell Pavilion presented by Huntsman,0,???,6,90,R&B,25
+Phoenix,Chris Brown,Ak-Chin Pavilion,1,1513367,6,90,R&B,25
+Concord,Chris Brown,Concord Pavilion,0,125880,6,90,R&B,29.99
+Lafayette,Migos,Lafayette Cajundome,0,70373,6,90,Hip-Hop/Rap,50
+Tinley Park,Chris Brown,"Hollywood Casino Amphitheatre - Chicago, IL",1,57282,7,90,R&B,25
+Auburn,Chris Brown,White River Amphitheatre,0,74860,6,90,R&B,27.5
+Tampa,Chris Brown,MIDFLORIDA Credit Union Amphitheatre at the FL State Fairgrounds,0,352957,7,90,R&B,25
+Bristow,Chris Brown,Jiffy Lube Live,0,???,7,90,R&B,25
+Oakland,Migos,Oracle Arena,1,406253,10,90,Hip-Hop/Rap,59.5
+Chula Vista,Chris Brown,Mattress Firm Amphitheatre (Formerly Sleep Train Amphitheatre),0,256780,8,90,R&B,25
+Virginia Beach,Chris Brown,Veterans United Home Loans Amphitheater at Virginia Beach,0,448479,7,90,R&B,10
+New Orleans,Migos,Smoothie King Center,1,378715,9,90,Hip-Hop/Rap,54
+Charlotte,Niall Horan,PNC Music Pavilion,0,44349,9,78,Rock,29.5
+Cincinnati,Niall Horan,Riverbend Music Center,0,297517,7,78,Rock,14
+Burgettstown,Kendrick Lamar,KeyBank Pavilion,1,???,6,92,Hip-Hop/Rap,35
+Las Vegas,Dustin Lynch,Las Vegas Festival Grounds,1,226877,9,73,Undefined,49
+Burgettstown,Jason Aldean,KeyBank Pavilion,0,???,8,79,Country,38.75
+Noblesville,Niall Horan,Ruoff Home Mortgage Music Center,1,56540,8,78,Rock,36
+Woodlands,Niall Horan,The Cynthia Woods Mitchell Pavilion presented by Huntsman,0,???,7,78,Rock,29.5
+St Louis,Parkway Drive,The Pageant,0,318416,9,70,Metal,28.5
+New York,Bazzi,Irving Plaza presented by Cricket Wireless,0,52122,7,83,Pop,25
+Nashville,Niall Horan,Ascend Amphitheater part of the Journeys Concert Series,1,634464,7,78,Rock,35
+Chula Vista,Niall Horan,Mattress Firm Amphitheatre (Formerly Sleep Train Amphitheatre),0,256780,8,78,Rock,31.5
+Dallas,Niall Horan,Dos Equis Pavilion,0,1257676,7,78,Rock,29.5
+Los Angeles,Niall Horan,Greek Theatre,0,3884307,8,78,Rock,37
+East Rutherford,Anne-Marie,MetLife Stadium,0,???,9,88,Pop,39.5
+Seattle,Anne-Marie,CenturyLink Field,1,652405,8,88,Pop,35.5
+Pasadena,Anne-Marie,Rose Bowl,1,152735,8,88,Pop,39.5
+Foxborough,Anne-Marie,Gillette Stadium,0,???,9,88,Pop,39.5
+St Louis,Anne-Marie,Busch Stadium,0,318416,9,88,Pop,39.5
+Detroit,Anne-Marie,Ford Field,1,688701,9,88,Pop,36
+East Rutherford,Anne-Marie,MetLife Stadium,1,???,9,88,Pop,39.5
+Philadelphia,Anne-Marie,Lincoln Financial Field,0,1553165,9,88,Pop,35.5
+Irving,Foster The People,The Pavilion at Toyota Music Factory,1,228653,7,77,Rock,35
+Foxborough,Anne-Marie,Gillette Stadium,1,???,9,88,Pop,39.5
+Pittsburgh,Anne-Marie,PNC Park,1,305841,9,88,Pop,39.5
+West Palm Beach,Niall Horan,Coral Sky Amphitheatre at the S. Florida Fairgrounds,1,102436,9,78,Rock,47
+Darien Center,Lynyrd Skynyrd,Darien Lake Amphitheater,0,???,7,74,Rock,29.5
+Holmdel,Niall Horan,PNC Bank Arts Center,1,???,9,78,Rock,37
+Columbus,Kenny Chesney,MAPFRE Stadium,1,202824,6,76,Country,45
+Philadelphia,Kenny Chesney,Lincoln Financial Field,1,1553165,6,76,Country,47
+Phoenix,Kenny Chesney,Chase Field,1,1513367,6,76,Country,18.5
+Bristow,Kenny Chesney,Jiffy Lube Live,0,???,6,76,Country,34.25
+Chicago,Kenny Chesney,Soldier Field,1,2718782,7,76,Country,47
+Kansas City,Kenny Chesney,Arrowhead Stadium,1,148483,7,76,Country,27
+Seattle,Kenny Chesney,CenturyLink Field,1,652405,7,76,Country,29
+Mountain View,Kenny Chesney,Shoreline Amphitheatre,0,77846,6,76,Country,54.25
+Tulsa,Shawn Mendes,BOK Center,1,398121,7,93,Rock,26.5
+Rosemont,Shawn Mendes,Allstate Arena,0,???,6,93,Rock,29.5
+Oakland,Shawn Mendes,Oracle Arena,1,406253,7,93,Rock,29.5
+Brooklyn,Shawn Mendes,Barclays Center,1,78373,8,93,Rock,29.5
+Milwaukee,Shawn Mendes,American Family Insurance Amphitheater-Summerfest,0,599164,7,93,Rock,65.23
+Glendale,Shawn Mendes,Gila River Arena,0,196021,7,93,Rock,24.75
+Tampa,Shawn Mendes,Amalie Arena,1,352957,7,93,Rock,25.75
+Sacramento,Shawn Mendes,Golden 1 Center,0,49891,7,93,Rock,25.91
+Irvine,G-Eazy,FivePoint Amphitheatre,0,236716,7,88,Hip-Hop/Rap,39.5
+Holmdel,G-Eazy,PNC Bank Arts Center,0,???,8,88,Hip-Hop/Rap,29.5
+Noblesville,G-Eazy,Ruoff Home Mortgage Music Center,0,56540,8,88,Hip-Hop/Rap,28.5
+Dallas,G-Eazy,Dos Equis Pavilion,0,1257676,8,88,Hip-Hop/Rap,29.5
+Atlanta,G-Eazy,Cellairis Amphitheatre at Lakewood,0,447841,9,88,Hip-Hop/Rap,29.5
+Auburn,G-Eazy,White River Amphitheatre,0,74860,7,88,Hip-Hop/Rap,29.5
+Wheatland,G-Eazy,Toyota Amphitheatre,1,???,7,88,Hip-Hop/Rap,29.5
+Orlando,Parkway Drive,House of Blues Orlando,1,255483,9,70,Metal,28
+Nashville,Adele,Bridgestone Arena,0,634464,6,83,Comedy,33.45
+Washington,G-Eazy,Wild Things Park (formerly CONSOL Energy Park),0,54790,8,88,Hip-Hop/Rap,39.5
+Ridgefield,G-Eazy,Sunlight Supply Amphitheater,1,???,7,88,Hip-Hop/Rap,29.5
+Lincoln,Ozuna,Thunder Valley Casino Resort,1,45237,7,95,Rock,25
+Valencia,Ozuna,Escena Gandia,0,???,8,95,Music,16.8
+Saint Paul,Cardi B,Xcel Energy Center,0,???,9,93,Rock,56.5
+Saint Paul,Cardi B,Xcel Energy Center,0,???,9,93,Rock,56.5
+Brooklyn,Cardi B,Barclays Center,0,78373,10,93,Rock,81
+Boston,Cardi B,TD Garden,0,645966,9,93,Rock,55
+Newark,Cardi B,Prudential Center,1,44096,10,93,Rock,79.5
+Brooklyn,Cardi B,Barclays Center,0,78373,10,93,Rock,81
+Nashville,Cardi B,Bridgestone Arena,1,634464,10,93,Rock,55
+Nashville,Cardi B,Bridgestone Arena,1,634464,10,93,Rock,55
+Detroit,Cardi B,Little Caesars Arena,1,688701,9,93,Rock,79.5
+Dallas,Cardi B,American Airlines Center,1,1257676,10,93,Rock,59.5
+New York,Janelle Monae,Hulu Theater at Madison Square Garden,0,52122,7,76,R&B,49.5
+Las Vegas,Janelle Monae,Pearl Concert Theater at Palms Casino Resort,0,226877,6,76,R&B,36.65
+Atlantic City,Carrie Underwood,Mark G Etess Arena at Hard Rock Hotel & Casino,0,39551,6,74,Country,100
+Orlando,Janelle Monae,House of Blues Orlando,1,255483,7,76,R&B,39.5
+Milwaukee ,Janelle Monae,BMO Harris Pavilion,0,599164,7,76,R&B,30.47
+Pittsburgh,Parkway Drive,STAGE AE,0,305841,9,70,Metal,28.5
+Grand Rapids,Janelle Monae,20 Monroe Live,1,192294,7,76,R&B,45
+Cincinnati,Janelle Monae,Taft Theatre,0,297517,7,76,R&B,36.5
+Miami Beach,Janelle Monae,The Fillmore Miami Beach at Jackie Gleason Theater,0,43250,7,76,R&B,45
+Minneapolis,Janelle Monae,State Theatre,0,400070,7,76,R&B,53.5
+Raleigh,Luke Bryan,Coastal Credit Union Music Park at Walnut Creek,0,431746,6,79,Country,37.25
+Jacksonville,Luke Bryan,Jacksonville Veterans Memorial Arena,0,69079,6,79,Country,48.17
+Cincinnati,Maren Morris,Riverbend Music Center,0,297517,7,82,Rock,14
+Raleigh,Maren Morris,Coastal Credit Union Music Park at Walnut Creek,1,431746,9,82,Rock,29.5
+Charlotte,Maren Morris,PNC Music Pavilion,0,44349,9,82,Rock,29.5
+Bristow,Maren Morris,Jiffy Lube Live,0,???,8,82,Rock,20
+Noblesville,Maren Morris,Ruoff Home Mortgage Music Center,1,56540,8,82,Rock,36
+Los Angeles,Maren Morris,Greek Theatre,0,3884307,8,82,Rock,37
+Tampa,Luke Bryan,Raymond James Stadium,1,352957,6,79,Country,29.75
+Pittsburgh,Luke Bryan,Heinz Field,1,305841,6,79,Country,42.5
+West Palm Beach,Luke Bryan,Coral Sky Amphitheatre at the S. Florida Fairgrounds,0,102436,6,79,Country,38.25
+Charlotte,Luke Bryan,PNC Music Pavilion,0,44349,6,79,Country,37.25
+Minneapolis,Luke Bryan,Target Field,1,400070,7,79,Country,24.75
+Saratoga Springs,Luke Bryan,Saratoga Performing Arts Center,1,???,8,79,Country,20
+Los Angeles,Luke Bryan,Dodger Stadium,1,3884307,7,79,Country,59.75
+Detroit,Luke Bryan,Ford Field,0,688701,10,79,Country,39.75
+Charlotte,Sam Smith,Spectrum Center ,0,44349,7,86,Rock,35
+Boston,Sam Smith,TD Garden,0,645966,6,86,Rock,28.5
+New York,Sam Smith,Madison Square Garden,1,52122,6,86,Rock,6
+Washington,Sam Smith,Capital One Arena,0,54790,7,86,Rock,40.25
+New York,Sam Smith,Madison Square Garden,0,52122,6,86,Rock,54.75
+Nashville,Sam Smith,Bridgestone Arena,1,634464,7,86,Rock,31.35
+Columbus,Sam Smith,Nationwide Arena,1,202824,6,86,Rock,35
+Brooklyn,Sam Smith,Barclays Center,0,78373,6,86,Rock,40.25
+Inglewood,Logic,The Forum,0,111542,7,88,Hip-Hop/Rap,39.5
+Miami,Sam Smith,AmericanAirlines Arena,1,417650,7,86,Rock,31
+Dallas,Sam Smith,American Airlines Center,0,1257676,7,86,Rock,35
+Woodlands,Logic,The Cynthia Woods Mitchell Pavilion presented by Huntsman,1,???,7,88,Hip-Hop/Rap,25
+Nashville,Childish Gambino,Bridgestone Arena,0,634464,10,87,Hip-Hop/Rap,45
+Inglewood,Childish Gambino,The Forum,0,111542,9,87,Hip-Hop/Rap,49.5
+Dallas,Childish Gambino,American Airlines Center,1,1257676,9,87,Hip-Hop/Rap,49.5
+Chicago,Childish Gambino,United Center,1,2718782,9,87,Hip-Hop/Rap,49.5
+Washington,Childish Gambino,Capital One Arena,0,54790,9,87,Hip-Hop/Rap,49.5
+Seattle,Childish Gambino,KeyArena,1,652405,9,87,Hip-Hop/Rap,75.5
+New York,Childish Gambino,Madison Square Garden,0,52122,9,87,Hip-Hop/Rap,49.5
+San Jose,Childish Gambino,SAP Center at San Jose,0,998537,10,87,Hip-Hop/Rap,49.5
+Inglewood,Childish Gambino,The Forum,0,111542,10,87,Hip-Hop/Rap,49.5
+Glendale,Childish Gambino,Gila River Arena,0,196021,10,87,Hip-Hop/Rap,44.75
+Chicago,Leon Bridges,Aragon Ballroom,1,2718782,9,76,R&B,69.5
+New York,Leon Bridges,Radio City Music Hall,0,52122,10,76,R&B,56.5
+San Diego,Leon Bridges,Cal Coast Credit Union Open Air Theatre at SDSU,0,1355896,9,76,R&B,32
+Nashville,Leon Bridges,Ascend Amphitheater part of the Journeys Concert Series,0,634464,8,76,R&B,39.5
+Los Angeles,Leon Bridges,Greek Theatre,0,3884307,9,76,R&B,46.5
+Philadelphia,Nicki Minaj,Made in America Venue,1,1553165,9,91,Undefined,125
+Seattle,Leon Bridges,WaMu Theater,0,652405,9,76,R&B,49.5
+Berkeley,Leon Bridges,Greek Theatre-U.C. Berkeley,0,116768,9,76,R&B,59.5
+Cincinnati,Metallica,U.S. Bank Arena,0,297517,1,82,Metal,65
+Milwaukee,Metallica,Wisconsin Entertainment and Sports Center ,0,599164,10,82,Metal,65
+Grand Rapids,Metallica,Van Andel Arena,0,192294,3,82,Metal,65
+Birmingham,Metallica,Legacy Arena at The BJCC ,0,212113,1,82,Metal,93
+Detroit,Leon Bridges,Fox Theatre Detroit,0,688701,9,76,R&B,42
+New York,Leon Bridges,Radio City Music Hall,1,52122,10,76,R&B,56.5
+Salt Lake City,Metallica,Vivint Smart Home Arena,0,191180,11,82,Metal,62
+Lincoln,Metallica,Pinnacle Bank Arena,0,45237,9,82,Metal,62
+Pittsburgh,Panic! At The Disco,PPG Paints Arena,0,305841,7,84,Rock,30.75
+Woodlands,Godsmack,The Cynthia Woods Mitchell Pavilion presented by Huntsman,1,???,8,71,Rock,31
+Auburn,Logic,White River Amphitheatre,0,74860,7,88,Hip-Hop/Rap,25
+New Orleans,Foster The People,Bold Sphere Music at Champions Square,0,378715,7,77,Rock,31
+London,Dustin Lynch,Western Fair District,1,???,6,73,Country,119.5
+Clarkston,Kendrick Lamar,DTE Energy Music Theatre,0,???,6,92,Hip-Hop/Rap,44.5
+Cuyahoga Falls,Jason Aldean,Blossom Music Center,0,49267,8,79,Country,38.75
+Tinley Park,Kendrick Lamar,"Hollywood Casino Amphitheatre - Chicago, IL",0,57282,6,92,Hip-Hop/Rap,39.5
+Camden,Kendrick Lamar,BB&T Pavilion  ,0,76903,6,92,Hip-Hop/Rap,29.5
+East Rutherford,Kendrick Lamar,MetLife Stadium,1,???,6,92,Hip-Hop/Rap,59
+Saratoga Springs,Kendrick Lamar,Saratoga Performing Arts Center,1,???,6,92,Hip-Hop/Rap,20
+Toronto,Bad Bunny,REBEL,1,???,8,95,Hip-Hop/Rap,82
+Bethel,Lynyrd Skynyrd,Bethel Woods Center for the Arts,1,???,7,74,Rock,20
+Phoenix,Logic,Ak-Chin Pavilion,0,1513367,7,88,Hip-Hop/Rap,25
+Jacksonville,Logic,Daily's Place,1,69079,6,88,Hip-Hop/Rap,39.5
+Columbus,Foster The People,EXPRESS LIVE!,0,202824,6,77,Rock,59.5
+Holmdel,Logic,PNC Bank Arts Center,1,???,6,88,Hip-Hop/Rap,22
+Arlington,Chris Stapleton,AT&T Stadium,1,75994,6,80,Rock,99.5
+Noblesville,Chris Stapleton,Ruoff Home Mortgage Music Center,0,56540,10,80,Country,33.75
+Cuyahoga Falls,Logic,Blossom Music Center,0,49267,7,88,Hip-Hop/Rap,35
+Clarkston,Godsmack,DTE Energy Music Theatre,1,???,7,71,Rock,45
+Wheatland,Chris Stapleton,Toyota Amphitheatre,0,???,7,80,Country,34.75
+Brandon,Jason Aldean,Brandon Amphitheater,0,???,7,79,Country,34.5
+Tinley Park,Chris Stapleton,"Hollywood Casino Amphitheatre - Chicago, IL",1,57282,10,80,Country,34.75
+Houston,Chris Stapleton,Minute Maid Park,0,2195914,6,80,Rock,99.5
+New York,Chris Stapleton,Madison Square Garden,0,52122,11,80,Country,44.75
+Stateline,Chris Stapleton,Lake Tahoe Outdoor Arena at Harveys,0,???,7,80,Country,69.5
+Albuquerque,Chris Stapleton,Isleta Amphitheater,0,556495,8,80,Country,34.75
+Baltimore,Chris Stapleton,Royal Farms Arena (formerly Baltimore Arena),1,622104,11,80,Country,36.75
+Lexington,Bad Bunny,Rupp Arena,1,308428,11,95,Hip-Hop/Rap,64
+Alpharetta,Dan + Shay,Verizon Amphitheatre,0,62298,6,76,Country,34.75
+Minneapolis,Bad Bunny,State Theatre,1,400070,9,95,Hip-Hop/Rap,64.5
+Atlantic City,Kane Brown,Atlantic City Beach,1,39551,7,77,Country,59.5
+Clarkston,Kane Brown,DTE Energy Music Theatre,0,???,6,77,Country,25.5
+Las Vegas,Kane Brown,Mandalay Bay Beach at Mandalay Bay Resort,1,226877,7,77,Country,87.16
+Hampton,Kane Brown,Langley Speedway,0,136699,8,77,Country,35
+Raleigh,Kane Brown,Coastal Credit Union Music Park at Walnut Creek,0,431746,8,77,Country,29.5
+Bristow,Kane Brown,Jiffy Lube Live,1,???,8,77,Country,34.25
+Tulsa,Kane Brown,BOK Center,1,398121,9,77,Country,39.5
+Anaheim,Kane Brown,Honda Center,1,345012,7,77,Country,35
+MÌ©xico,Khalid,Autodromo Hnos. Rodriguez,1,91956,11,94,Undefined,1
+Greensboro,Bad Bunny,Greensboro Coliseum Complex,0,279639,11,95,Hip-Hop/Rap,64.5
+Wantagh,Kane Brown,Northwell Health at Jones Beach Theater,0,???,8,77,Country,33.25
+Holmdel,Kane Brown,PNC Bank Arts Center,0,???,8,77,Country,33.5
+Syracuse,Foster The People,St. Joseph‰Ûªs Health Amphitheater at Lakeview,1,144669,6,77,Rock,19.75
+MÌ©xico,Khalid,Autodromo Hnos. Rodriguez,1,91956,11,94,Undefined,1399
+MÌ©xico,Khalid,Autodromo Hnos. Rodriguez,1,91956,11,94,Undefined,2999
+MÌ©xico,Khalid,Autodromo Hnos. Rodriguez,1,91956,11,94,Undefined,1
+Raleigh,Rich The Kid,Coastal Credit Union Music Park at Walnut Creek,0,431746,7,85,R&B,25
+Eugene,Thomas Rhett,Matthew Knight Arena,0,159190,10,80,Country,29.75
+Woodlands,Rich The Kid,The Cynthia Woods Mitchell Pavilion presented by Huntsman,0,???,6,85,R&B,25
+Birmingham,Rich The Kid,Oak Mountain Amphitheatre,1,212113,7,85,R&B,29.99
+Hartford,Rich The Kid,XFINITY Theatre,1,125017,7,85,R&B,25
+Mansfield,Rich The Kid,Xfinity Center,0,60872,7,85,R&B,25
+Bristow,Rich The Kid,Jiffy Lube Live,0,???,7,85,R&B,25
+Brooklyn,Rich The Kid,Barclays Center,1,78373,7,85,R&B,61
+Fresno,Bad Bunny,Selland Arena at Fresno Convention & Entertainment Center,0,509924,9,95,Hip-Hop/Rap,65.5
+Austin,Rich The Kid,Austin360 Amphitheater,0,885400,6,85,R&B,25
+Noblesville,Rich The Kid,Ruoff Home Mortgage Music Center,0,56540,7,85,R&B,24
+Durant,Thomas Rhett,Choctaw Grand Theater,0,???,7,80,Country,100
+Chula Vista,Kenny Chesney,Mattress Firm Amphitheatre (Formerly Sleep Train Amphitheatre),0,256780,6,76,Country,33.75
+Austin,Rae Sremmurd,Austin360 Amphitheater,1,885400,8,87,Hip-Hop/Rap,36.5
+Clarkston,Rae Sremmurd,DTE Energy Music Theatre,1,???,7,87,Hip-Hop/Rap,25
+West Palm Beach,Rae Sremmurd,Coral Sky Amphitheatre at the S. Florida Fairgrounds,0,102436,8,87,Hip-Hop/Rap,29
+Cincinnati,Rae Sremmurd,Riverbend Music Center,1,297517,7,87,Hip-Hop/Rap,25
+Virginia Beach,Rae Sremmurd,Veterans United Home Loans Amphitheater at Virginia Beach,1,448479,8,87,Hip-Hop/Rap,20
+Jacksonville,Rae Sremmurd,Daily's Place,0,69079,8,87,Hip-Hop/Rap,49.95
+Tampa,Rae Sremmurd,MIDFLORIDA Credit Union Amphitheatre at the FL State Fairgrounds,0,352957,8,87,Hip-Hop/Rap,29
+Albuquerque,Rae Sremmurd,Isleta Amphitheater,0,556495,8,87,Hip-Hop/Rap,34
+Woodlands,Rae Sremmurd,The Cynthia Woods Mitchell Pavilion presented by Huntsman,0,???,8,87,Hip-Hop/Rap,39
+Mansfield,Rae Sremmurd,Xfinity Center,0,60872,8,87,Hip-Hop/Rap,41.5
+Manchester,Thomas Rhett,SNHU Arena,1,110378,9,80,Country,29.75
+North Little Rock,Thomas Rhett,Verizon Arena,0,66075,10,80,Country,29.75
+Hartford,Lil Uzi Vert,XFINITY Theatre,1,125017,8,89,Hip-Hop/Rap,20
+Darien Center,Ty Dolla $ign,Darien Lake Amphitheater,0,???,8,92,Hip-Hop/Rap,29.5
+Virginia Beach,Dan + Shay,Veterans United Home Loans Amphitheater at Virginia Beach,0,448479,6,76,Country,25.5
+Bristow,Ty Dolla $ign,Jiffy Lube Live,0,???,8,92,Hip-Hop/Rap,29.5
+Tampa,Ty Dolla $ign,MIDFLORIDA Credit Union Amphitheatre at the FL State Fairgrounds,0,352957,9,92,Hip-Hop/Rap,29.5
+Raleigh,Ty Dolla $ign,Coastal Credit Union Music Park at Walnut Creek,0,431746,9,92,Hip-Hop/Rap,29.5
+Lincoln,Thomas Rhett,Pinnacle Bank Arena,1,45237,10,80,Country,29.75
+Phoenix,Ty Dolla $ign,Ak-Chin Pavilion,0,1513367,8,92,Hip-Hop/Rap,29.5
+Mansfield,Ty Dolla $ign,Xfinity Center,1,60872,8,92,Hip-Hop/Rap,29.5
+Hartford,Ty Dolla $ign,XFINITY Theatre,1,125017,8,92,Hip-Hop/Rap,20
+Chula Vista,Ty Dolla $ign,Mattress Firm Amphitheatre (Formerly Sleep Train Amphitheatre),0,256780,8,92,Hip-Hop/Rap,25
+Columbus,Camila Cabello,Ohio Stadium,1,202824,7,88,Rock,49.5
+Pittsburgh,Camila Cabello,Heinz Field,0,305841,8,88,Rock,42.25
+Kansas City,Camila Cabello,Arrowhead Stadium,1,148483,9,88,Rock,45.5
+Cleveland,Camila Cabello,"FirstEnergy Stadium, Home of the Cleveland Browns",0,42774,7,88,Rock,45.5
+East Rutherford,Camila Cabello,MetLife Stadium,0,???,7,88,Rock,49.5
+Atlanta,Camila Cabello,Mercedes-Benz Stadium,0,447841,8,88,Rock,44.5
+Minneapolis,Camila Cabello,U.S. Bank Stadium,0,400070,8,88,Rock,47.5
+St Louis,Camila Cabello,The Dome at America's Center,0,318416,9,88,Rock,46.5
+Foxborough,Camila Cabello,Gillette Stadium,1,???,7,88,Rock,49.5
+Houston,Camila Cabello,NRG Stadium,1,2195914,9,88,Rock,47.5
+Brooklyn,Drake,Barclays Center,0,78373,8,99,Hip-Hop/Rap,80.5
+Chicago,Drake,United Center,1,2718782,8,99,Hip-Hop/Rap,59.5
+Atlantic City,Demi Lovato,Atlantic City Beach,0,39551,7,88,Rock,49.5
+Atlantic City,Demi Lovato,Atlantic City Beach,0,39551,7,88,Rock,250
+Atlanta,Drake,Philips Arena,0,447841,11,99,Hip-Hop/Rap,59.5
+Silver Spring,Drake,The Fillmore Silver Spring presented by Cricket Wireless,0,???,6,99,Dance/Electronic,5
+Chicago,Drake,United Center,0,2718782,8,99,Hip-Hop/Rap,59.5
+Cleveland,Drake,House of Blues Cleveland presented by Cricket Wireless,1,42774,7,99,Dance/Electronic,10
+San Antonio,J Balvin,Freeman Coliseum,1,1409019,10,95,Hip-Hop/Rap,37.95
+Barcelona,Demi Lovato,Sant Jordi Club,0,???,6,88,Rock,6
+Madrid,Demi Lovato,Palacio Vistalegre,0,???,6,88,Rock,56
+Clarkston,Rich The Kid,DTE Energy Music Theatre,0,???,7,85,R&B,21
+Salt Lake City,Drake,Vivint Smart Home Arena,0,191180,7,99,Hip-Hop/Rap,46.5
+Utrecht,Savage,TivoliVredenburg,1,???,11,89,Other,11.5
+Fort Wayne,Brett Young,Allen County War Memorial Coliseum,0,256496,10,71,Country,29.75
+Grand Rapids,Thomas Rhett,Van Andel Arena,1,192294,10,80,Country,32.25
+Phoenix,Lil Uzi Vert,Ak-Chin Pavilion,0,1513367,8,89,Hip-Hop/Rap,29.5
+Chicago,Ty Dolla $ign,Huntington Bank Pavilion at Northerly Island,0,2718782,8,92,Hip-Hop/Rap,29.5
+Mountain View,Foster The People,Shoreline Amphitheatre,1,77846,7,77,Rock,35
+Simpsonville,Foster The People,Heritage Park Amphitheatre,0,???,6,77,Rock,22
+New York,Jason Aldean,Madison Square Garden,1,52122,8,79,Country,50.75
+Noblesville,Godsmack,Ruoff Home Mortgage Music Center,1,56540,7,71,Rock,21
+ Minneapolis,Foster The People,Armory,0,400070,7,77,Rock,55
+Milwaukee,Logic,American Family Insurance Amphitheater-Summerfest,0,599164,6,88,Rock,60.07
+Mansfield,Logic,Xfinity Center,0,60872,6,88,Hip-Hop/Rap,25
+Scranton,Bad Wolves,The Pavilion at Montage Mountain,0,75806,8,68,Rock,30
+Bangor,Foster The People,Darling's Waterfront Pavilion,0,???,6,77,Rock,30
+Tampa,Logic,MIDFLORIDA Credit Union Amphitheatre at the FL State Fairgrounds,0,352957,6,88,Hip-Hop/Rap,25
+Clarkston,Logic,DTE Energy Music Theatre,1,???,6,88,Hip-Hop/Rap,26
+Charlotte,Logic,PNC Music Pavilion,0,44349,6,88,Hip-Hop/Rap,25
+Gulfport,Adele,Island View Casino,0,71012,6,83,Undefined,15
+Noblesville,Logic,Ruoff Home Mortgage Music Center,1,56540,7,88,Hip-Hop/Rap,24
+Cincinnati,Logic,Riverbend Music Center,0,297517,6,88,Hip-Hop/Rap,15.25
+Greenville,Godsmack,Bon Secours Wellness Arena ,0,89130,9,71,Rock,39.5
+Oakland,Bad Bunny,Oracle Arena,1,406253,8,95,Hip-Hop/Rap,53
+Valencia,Daddy Yankee,Escena Gandia,1,???,8,89,Other,16.8
+Huntsville,Godsmack,Von Braun Center Arena,1,186254,9,71,Rock,36.5
+Memphis,Adele,FedExForum,1,653450,6,83,Comedy,34.5
+Mansfield,Godsmack,Xfinity Center,1,60872,8,71,Rock,25
+Charlottesville,Brett Young,John Paul Jones Arena,1,44349,9,71,Country,29.75
+Amsterdam,Demi Lovato,None,1,???,6,88,Rock,40.7
+Tupelo,Kane Brown,BancorpSouth Arena,0,???,9,77,Country,39.5
+Las Cruces,Kane Brown,NMSU Pan American Center,0,101324,9,77,Country,39.5
+Charleston,Kane Brown,Volvo Car Stadium ,0,50821,9,77,Country,35.5
+Biloxi,Kane Brown,Mississippi Coast Coliseum,0,44820,9,77,Country,39.5
+Greensboro,Kane Brown,Greensboro Coliseum Complex,0,279639,9,77,Country,39.5
+Chula Vista,Kane Brown,Mattress Firm Amphitheatre (Formerly Sleep Train Amphitheatre),0,256780,7,77,Country,33.75
+Syracuse,Kane Brown,St. Joseph‰Ûªs Health Amphitheater at Lakeview,1,144669,6,77,Country,18.75
+East Rutherford,Rich The Kid,MetLife Stadium,1,???,6,85,Hip-Hop/Rap,59
+Chicago,Adele,UIC Pavilion,0,2718782,6,83,Comedy,37.5
+Nashville,Kane Brown,Bridgestone Arena,1,634464,9,77,Country,25
+Niagara Falls,Kane Brown,The Avalon Ballroom Theatre At Niagara Fallsview Casino Resort,0,49468,7,77,Country,50.85
+Raleigh,Keith Urban,Coastal Credit Union Music Park at Walnut Creek,0,431746,7,77,Country,39.25
+Phoenix,Keith Urban,Ak-Chin Pavilion,0,1513367,10,77,Country,37.25
+Arlington,Taylor Swift,AT&T Stadium,1,75994,10,89,Rock,49.5
+Houston,Taylor Swift,NRG Stadium,1,2195914,9,89,Rock,47.5
+Boise,Godsmack,Taco Bell Arena,0,214237,10,71,Rock,37.5
+East Rutherford,Taylor Swift,MetLife Stadium,0,???,7,89,Rock,49.5
+St Louis,Taylor Swift,The Dome at America's Center,0,318416,9,89,Rock,46.5
+Foxborough,Taylor Swift,Gillette Stadium,1,???,7,89,Rock,49.5
+Atlanta,Taylor Swift,Mercedes-Benz Stadium,0,447841,8,89,Rock,44.5
+Columbus,Taylor Swift,Ohio Stadium,1,202824,7,89,Rock,49.5
+Cleveland,Taylor Swift,"FirstEnergy Stadium, Home of the Cleveland Browns",0,42774,7,89,Rock,45.5
+Minneapolis,Taylor Swift,U.S. Bank Stadium,0,400070,8,89,Rock,47.5
+Pittsburgh,Taylor Swift,Heinz Field,0,305841,8,89,Rock,42.25
+Phoenix,Rich The Kid,Ak-Chin Pavilion,1,1513367,6,85,R&B,25
+Mountain View,Lil Uzi Vert,Shoreline Amphitheatre,1,77846,7,89,Hip-Hop/Rap,29.5
+Detroit,Bad Bunny,Masonic Temple,0,688701,9,95,Hip-Hop/Rap,59
+Mansfield,Post Malone,Xfinity Center,0,60872,8,100,Hip-Hop/Rap,33
+Philadelphia,Post Malone,Made in America Venue,1,1553165,9,100,Undefined,125
+Maryland Heights,Bad Wolves,"Hollywood Casino Amphitheatre - St. Louis, MO",0,???,8,68,Metal,30
+Hartford,Chris Brown,XFINITY Theatre,1,125017,7,90,R&B,25
+Tinley Park,Godsmack,"Hollywood Casino Amphitheatre - Chicago, IL",0,57282,7,71,Rock,22
+Atlanta,Janelle Monae,Tabernacle,1,447841,8,76,R&B,49.5
+Nashville,Janelle Monae,Ryman Auditorium,0,634464,7,76,R&B,34.5
+Milwaukee,The Weeknd,American Family Insurance Amphitheater-Summerfest,1,599164,7,93,Hip-Hop/Rap,65.23
+Nijmegen,Eminem,"Goffertpark, Nijmegen",0,???,7,91,Hip-Hop/Rap,446
+Nijmegen,Eminem,"Goffertpark, Nijmegen",0,???,7,91,Rock,566
+Nijmegen,Eminem,"Goffertpark, Nijmegen",0,???,7,91,Rock,226
+MÌ©xico,The Weeknd,Palacio de los Deportes,0,91956,10,93,Hip-Hop/Rap,488
+Charlotte,NF,PNC Music Pavilion,0,44349,6,81,Hip-Hop/Rap,25
+Tinley Park,Shinedown,"Hollywood Casino Amphitheatre - Chicago, IL",0,57282,7,76,Rock,22
+Brookings,Shinedown,Swiftel Center,0,???,10,76,Rock,36.5
+Atlanta,Shinedown,Cellairis Amphitheatre at Lakewood,0,447841,8,76,Rock,34
+Noblesville,Shinedown,Ruoff Home Mortgage Music Center,1,56540,7,76,Rock,21
+Bonner Springs,Shinedown,Providence Medical Center Amphitheater,0,???,8,76,Rock,29.5
+Portland,Shinedown,Veterans Memorial Coliseum,0,609456,10,76,Rock,23
+Woodlands,Shinedown,The Cynthia Woods Mitchell Pavilion presented by Huntsman,1,???,8,76,Rock,31
+Virginia Beach,Shinedown,Veterans United Home Loans Amphitheater at Virginia Beach,1,448479,8,76,Rock,12
+Scranton,Shinedown,The Pavilion at Montage Mountain,0,75806,8,76,Rock,21
+Bristow,Shinedown,Jiffy Lube Live,1,???,8,76,Rock,19
+Darien Center,NF,Darien Lake Amphitheater,0,???,7,81,Hip-Hop/Rap,25
+Nashville,Halsey,Ascend Amphitheater part of the Journeys Concert Series,0,634464,7,85,Rock,29.5
+Indianapolis,Halsey,Farm Bureau Insurance Lawn at White River State Park,0,843393,7,85,Rock,29.5
+Milwaukee,Halsey,American Family Insurance Amphitheater-Summerfest,0,599164,6,85,Rock,60.07
+Mountain View,Halsey,Shoreline Amphitheatre,0,77846,7,85,Rock,27.5
+East Providence,Halsey,Bold Point Park,0,47149,7,85,Rock,42.75
+Saratoga Springs,Halsey,Saratoga Performing Arts Center,0,???,7,85,Rock,20
+Independence,Halsey,Silverstein Eye Centers Arena,1,117240,7,85,Rock,29.5
+Las Vegas,Halsey,Pearl Concert Theater at Palms Casino Resort,1,226877,7,85,Rock,54.13
+Rosemont,Halsey,Allstate Arena,1,???,6,85,Dance/Electronic,55
+Honolulu,Halsey,Neal S Blaisdell Arena,0,347884,8,85,Rock,35
+Phoenix,Rae Sremmurd,Ak-Chin Pavilion,0,1513367,8,87,Hip-Hop/Rap,35
+Dallas,Rae Sremmurd,Dos Equis Pavilion,1,1257676,8,87,Hip-Hop/Rap,39
+Chicago,Zedd,Huntington Bank Pavilion at Northerly Island,1,2718782,6,85,Family,49.5
+Philadelphia,Zedd,Made in America Venue,1,1553165,9,85,Undefined,125
+Chicago,Zedd,Huntington Bank Pavilion at Northerly Island,1,2718782,6,85,Family,49.5
+Wantagh,Zedd,Northwell Health at Jones Beach Theater,0,???,6,85,Rock,39
+Bristow,Bad Wolves,Jiffy Lube Live,0,???,8,68,Rock,30
+Burgettstown,Chris Brown,KeyBank Pavilion,1,???,7,90,R&B,25
+Amsterdam,Maluma,Ziggo Dome,1,???,9,89,Rock,39.6
+Woodlands,Imagine Dragons,The Cynthia Woods Mitchell Pavilion presented by Huntsman,1,???,8,89,Rock,55
+Maryland Heights,Imagine Dragons,"Hollywood Casino Amphitheatre - St. Louis, MO",0,???,7,89,Rock,35
+Las Vegas,Bon Jovi,Suncoast Showroom,1,226877,6,78,Undefined,12
+Amsterdam,Maluma,None,1,???,9,89,Family,12.21
+Noblesville,Imagine Dragons,Ruoff Home Mortgage Music Center,0,56540,6,89,Rock,43.5
+Albuquerque,Imagine Dragons,Isleta Amphitheater,0,556495,7,89,Rock,49.5
+Inglewood,Imagine Dragons,The Forum,1,111542,7,89,Rock,29.5
+West Palm Beach,Imagine Dragons,Coral Sky Amphitheatre at the S. Florida Fairgrounds,0,102436,8,89,Rock,35
+Virginia Beach,Imagine Dragons,Veterans United Home Loans Amphitheater at Virginia Beach,0,448479,7,89,Rock,26
+New Orleans,Imagine Dragons,Smoothie King Center,1,378715,8,89,Rock,26.5
+Columbia,Imagine Dragons,Colonial Life Arena,1,646449,7,89,Rock,29.5
+Tinley Park,Imagine Dragons,"Hollywood Casino Amphitheatre - Chicago, IL",0,57282,7,89,Rock,35
+Dallas,Godsmack,Dos Equis Pavilion,1,1257676,8,71,Rock,19
+Hartford,NF,XFINITY Theatre,1,125017,6,81,Hip-Hop/Rap,18.75
+Cincinnati,NF,Riverbend Music Center,0,297517,6,81,Hip-Hop/Rap,15.25
+Palencia,Maluma,Estadio Nueva Balastera,0,???,9,89,Rock,37.95
+Raleigh,Darius Rucker,Coastal Credit Union Music Park at Walnut Creek,0,431746,10,71,Country,34.25
+Nijmegen,Eminem,"Goffertpark, Nijmegen",0,???,7,91,Rock,82.5
+Nijmegen,Eminem,"Goffertpark, Nijmegen",0,???,7,91,Rock,363
+Darien Center,Lil Uzi Vert,Darien Lake Amphitheater,0,???,8,89,Hip-Hop/Rap,29.5
+Wheatland,Darius Rucker,Toyota Amphitheatre,0,???,8,71,Country,34.25
+Hannover,Eminem,None,0,???,7,91,Rock,305
+Hannover,Eminem,None,0,???,7,91,Hip-Hop/Rap,355
+Hannover,Eminem,None,0,???,7,91,Hip-Hop/Rap,450
+Hannover,Eminem,None,0,???,7,91,Hip-Hop/Rap,589
+Bristow,Lynyrd Skynyrd,Jiffy Lube Live,1,???,7,74,Rock,29.5
+Noblesville,Lynyrd Skynyrd,Ruoff Home Mortgage Music Center,1,56540,8,74,Rock,28.5
+Hannover,Eminem,None,0,???,7,91,Hip-Hop/Rap,91.9
+Stockholm,Eminem,None,1,???,7,91,Hip-Hop/Rap,1995
+New York,Panic! At The Disco,Madison Square Garden,0,52122,7,84,Rock,30.75
+Phoenix,Darius Rucker,Ak-Chin Pavilion,0,1513367,8,71,Country,34
+New Orleans,Justin Timberlake,Smoothie King Center,0,378715,1,85,Rock,49.5
+University Park,Justin Timberlake,Bryce Jordan Center,1,???,10,85,Rock,52.5
+Oakland,Justin Timberlake,Oracle Arena,0,406253,12,85,Rock,49.5
+Chicago,Justin Timberlake,United Center,0,2718782,10,85,Rock,55
+Uncasville,Justin Timberlake,Mohegan Sun Arena,0,???,12,85,Rock,129
+Atlanta,Justin Timberlake,Philips Arena,0,447841,1,85,Rock,53.5
+San Antonio,Justin Timberlake,AT&T Center,1,1409019,1,85,Rock,49.5
+Milwaukee,Justin Timberlake,Wisconsin Entertainment and Sports Center ,0,599164,9,85,Rock,53.5
+Saint Paul,Justin Timberlake,Xcel Energy Center,0,???,9,85,Rock,49.5
+Albany,Justin Timberlake,Times Union Center,1,76185,10,85,Rock,49.5
+Bangor,MercyMe,Cross Insurance Center,1,???,11,65,Rock,25.75
+New Orleans,MercyMe,Smoothie King Center,0,378715,10,65,Rock,25
+Newark,MercyMe,Bob Carpenter Center at University of Delaware,0,44096,11,65,Rock,27
+Mt Claremont,Parkway Drive,HBF Stadium,0,???,11,70,Metal,74.3
+Independence,MercyMe,Silverstein Eye Centers Arena,0,117240,10,65,Rock,25.75
+Charleston,MercyMe,Charleston Municipal Auditorium,1,50821,10,65,Rock,20
+Huntsville,MercyMe,Von Braun Center Arena,0,186254,8,65,Rock,30
+Jackson,MercyMe,Mississippi Coliseum,0,172638,10,65,Rock,25
+Greensboro,MercyMe,Greensboro Coliseum Complex,1,279639,11,65,Rock,28
+Doswell,MercyMe,Kings Dominion - Kingswood Amphitheatre,1,???,6,65,Undefined,18
+Maryland Heights,Ty Dolla $ign,"Hollywood Casino Amphitheatre - St. Louis, MO",1,???,8,92,Hip-Hop/Rap,29.5
+Indianapolis,MercyMe,Bankers Life Fieldhouse,0,843393,10,65,Rock,20
+Houston,Parkway Drive,House of Blues Houston presented by Cricket Wireless,0,2195914,9,70,Metal,27.5
+Portland,Bad Wolves,Aura,0,609456,6,68,Metal,20
+San Francisco,Famous Dex,The Fillmore,1,66174,6,80,Hip-Hop/Rap,25
+Boston,Famous Dex,House of Blues Boston presented by Cricket Wireless,0,645966,6,80,Hip-Hop/Rap,25
+Lexington,Jordan Davis,Lexington Opera House,0,308428,7,69,Country,104.5
+Maryland Heights,Darius Rucker,"Hollywood Casino Amphitheatre - St. Louis, MO",0,???,9,71,Country,34.25
+Atlanta,Lynyrd Skynyrd,Cellairis Amphitheatre at Lakewood,1,447841,9,74,Rock,45
+Charlotte,Darius Rucker,PNC Music Pavilion,0,44349,10,71,Country,34.25
+Washington,Maroon,Capital One Arena,0,54790,10,88,Rock,49.5
+Columbus,Maroon,Nationwide Arena,0,202824,9,88,Rock,49.5
+Boston,Maroon,TD Garden,1,645966,10,88,Rock,45
+New York,Maroon,Madison Square Garden,1,52122,10,88,Rock,59.5
+Saint Paul,Maroon,Xcel Energy Center,0,???,9,88,Rock,20
+Detroit,Maroon,Little Caesars Arena,1,688701,9,88,Rock,49.5
+Cedar Rapids,Maroon,newbo evolve,1,128429,8,88,Rock,70
+Newark,Maroon,Prudential Center,1,44096,10,88,Rock,80
+Milwaukee,Maroon,Wisconsin Entertainment and Sports Center ,1,599164,9,88,Rock,49.5
+Indianapolis,Maroon,Bankers Life Fieldhouse,0,843393,9,88,Rock,49.5
+Tinley Park,Lynyrd Skynyrd,"Hollywood Casino Amphitheatre - Chicago, IL",0,57282,8,74,Rock,29.5
+Pasadena,Ed Sheeran,Rose Bowl,1,152735,8,94,Pop,39.5
+Tampa,Ed Sheeran,Raymond James Stadium,0,352957,11,94,Pop,37
+Omaha,Luke Bryan,CenturyLink Center Omaha,0,434353,8,79,Country,36.75
+Houston,Ed Sheeran,Minute Maid Park,1,2195914,11,94,Pop,39.5
+Kansas City,Ed Sheeran,Arrowhead Stadium,1,148483,10,94,Pop,35.5
+Nashville,Ed Sheeran,Nissan Stadium,1,634464,10,94,Pop,36.5
+East Rutherford,Ed Sheeran,MetLife Stadium,0,???,9,94,Pop,39.5
+Seattle,Ed Sheeran,CenturyLink Field,1,652405,8,94,Pop,35.5
+Chicago,Ed Sheeran,Soldier Field,0,2718782,10,94,Pop,35.5
+East Rutherford,Ed Sheeran,MetLife Stadium,1,???,9,94,Pop,39.5
+Bristow,Luke Bryan,Jiffy Lube Live,1,???,8,79,Country,38.25
+Noblesville,Luke Bryan,Ruoff Home Mortgage Music Center,0,56540,8,79,Country,37.25
+Portland,Luke Bryan,Moda Center,0,609456,10,79,Country,34
+Atlanta,Rich The Kid,Cellairis Amphitheatre at Lakewood,0,447841,7,85,R&B,25
+Denver,Luke Bryan,Sports Authority Field At Mile High,1,649495,8,79,Country,29.75
+Auburn,Luke Bryan,White River Amphitheatre,0,74860,10,79,Country,38
+Noblesville,Dan + Shay,Ruoff Home Mortgage Music Center,0,56540,8,76,Country,32.75
+Uncasville,Thomas Rhett,Mohegan Sun Arena,1,???,9,80,Country,59
+Oklahoma City,Thomas Rhett,Chesapeake Energy Arena,0,56756,10,80,Country,29.75
+Orlando,Dua Lipa,House of Blues Orlando,0,255483,6,92,Rock,32.5
+Wantagh,Dua Lipa,Northwell Health at Jones Beach Theater,1,???,6,92,Dance/Electronic,25
+San Diego,Dua Lipa,Cal Coast Credit Union Open Air Theatre at SDSU,0,1355896,6,92,Rock,25
+ Minneapolis,Dua Lipa,Armory,1,400070,6,92,Rock,32.5
+Las Vegas,Dua Lipa,The Cosmopolitan of Las Vegas,0,226877,9,92,Rock,39
+Denver,Dua Lipa,Fillmore Auditorium (Denver),0,649495,6,92,Rock,35
+Seattle,Dua Lipa,WaMu Theater,1,652405,7,92,Rock,32
+Atlanta,Dua Lipa,Coca-Cola Roxy,1,447841,6,92,Rock,30
+San Francisco,Dua Lipa,Bill Graham Civic Auditorium,1,66174,6,92,Rock,39.5
+Miami,Dua Lipa,Bayfront Park Amphitheater,0,417650,6,92,Rock,30
+Tucson,Bad Bunny,Tucson Arena,0,526116,8,95,Hip-Hop/Rap,39
+Chula Vista,Dan + Shay,Mattress Firm Amphitheatre (Formerly Sleep Train Amphitheatre),0,256780,9,76,Country,34.25
+Syracuse,Lynyrd Skynyrd,St. Joseph‰Ûªs Health Amphitheater at Lakeview,0,144669,8,74,Rock,20
+Tampa,Dan + Shay,MIDFLORIDA Credit Union Amphitheatre at the FL State Fairgrounds,0,352957,7,76,Country,34.75
+Atlantic City,Sam Hunt,Atlantic City Beach,1,39551,7,76,Country,59.5
+Glendale,Migos,Gila River Arena,1,196021,10,90,Hip-Hop/Rap,64.4
+Dallas,Migos,American Airlines Center,0,1257676,9,90,Hip-Hop/Rap,74.5
+Oakland,Migos,Oracle Arena,0,406253,10,90,Hip-Hop/Rap,59.5
+Boston,Migos,TD Garden,0,645966,9,90,Hip-Hop/Rap,55
+Saint Paul,Migos,Xcel Energy Center,0,???,8,90,Hip-Hop/Rap,46.5
+Miami,Migos,AmericanAirlines Arena,0,417650,9,90,Hip-Hop/Rap,55.5
+New York,Migos,Madison Square Garden,0,52122,8,90,Hip-Hop/Rap,99.5
+Detroit,Migos,Little Caesars Arena,0,688701,8,90,Hip-Hop/Rap,59.5
+Chicago,Migos,United Center,1,2718782,8,90,Hip-Hop/Rap,59.5
+Tacoma,Migos,Tacoma Dome,0,203446,11,90,Hip-Hop/Rap,55.5
+Seattle,Bad Bunny,WaMu Theater,0,652405,9,95,Hip-Hop/Rap,60.5
+Glendale,Panic! At The Disco,Gila River Arena,0,196021,8,84,Rock,26
+Seattle,Panic! At The Disco,KeyArena,0,652405,8,84,Rock,26.75
+Atlanta,Chris Brown,Cellairis Amphitheatre at Lakewood,0,447841,7,90,R&B,25
+San Diego,Anne-Marie,Balboa Theatre,1,1355896,6,88,Classical,28
+San Francisco,Anne-Marie,AT & T Park,0,66174,8,88,Pop,39.5
+Raleigh,Panic! At The Disco,PNC Arena,1,431746,7,84,Rock,26.75
+Columbus,Panic! At The Disco,Nationwide Arena,1,202824,7,84,Rock,30.75
+Detroit,Panic! At The Disco,Little Caesars Arena,1,688701,7,84,Rock,30.75
+Dallas,Panic! At The Disco,American Airlines Center,1,1257676,8,84,Rock,30.75
+Brooklyn,J Balvin,Barclays Center,1,78373,10,95,Hip-Hop/Rap,39.95
+Sugar Land,J Balvin,Smart Financial Centre at Sugar Land,0,83860,10,95,Hip-Hop/Rap,39.95
+Detroit,Cardi B,Little Caesars Arena,1,688701,9,93,Rock,79.5
+Tulsa,Cardi B,BOK Center,0,398121,10,93,Rock,66.5
+Dallas,Cardi B,American Airlines Center,1,1257676,10,93,Rock,59.5
+Atlanta,Cardi B,Central Park,1,447841,9,93,Hip-Hop/Rap,93.05
+Boston,Cardi B,TD Garden,0,645966,9,93,Rock,55
+Tulsa,Cardi B,BOK Center,0,398121,10,93,Rock,56.5
+Newark,Cardi B,Prudential Center,0,44096,10,93,Rock,79.5
+Inglewood,J Balvin,The Forum,1,111542,9,95,Hip-Hop/Rap,39.95
+Phoenix,J Balvin,Comerica Theatre ,1,1513367,9,95,Hip-Hop/Rap,49.95
+Mountain View,Savage,Shoreline Amphitheatre,1,77846,6,89,Hip-Hop/Rap,79.5
+Vancouver,Sam Hunt,BC Place,1,167405,10,76,Country,20
+Irving,J Balvin,The Pavilion at Toyota Music Factory,0,228653,10,95,Hip-Hop/Rap,59.95
+George,Dustin Lynch,Gorge Amphitheatre,0,76817,8,73,Country,215
+Miami,J Balvin,AmericanAirlines Arena,1,417650,10,95,Hip-Hop/Rap,45.95
+Inglewood,J Balvin,The Forum,1,111542,9,95,Hip-Hop/Rap,39.95
+Miami,Bad Bunny,AmericanAirlines Arena,1,417650,6,95,World,49
+Funner,Drake,Harrah‰Ûªs Resort SoCal ‰ÛÒ Dive,0,???,6,99,Country,18
+Indianapolis,P!nk,Bankers Life Fieldhouse,0,843393,4,82,Rock,59.95
+New York,P!nk,Madison Square Garden,0,52122,5,82,Rock,97.45
+Miami,Drake,AmericanAirlines Arena,1,417650,9,99,Hip-Hop/Rap,55.5
+New Orleans,P!nk,Smoothie King Center,1,378715,3,82,Rock,55
+Saint Paul,P!nk,Xcel Energy Center,1,???,5,82,Rock,69.99
+Dallas,P!nk,American Airlines Center,1,1257676,3,82,Rock,64.45
+Columbus,P!nk,Schottenstein Center,1,202824,5,82,Rock,56.45
+Detroit,P!nk,Little Caesars Arena,1,688701,4,82,Rock,59.45
+San Antonio,P!nk,AT&T Center,0,1409019,3,82,Rock,51.99
+Sunrise,P!nk,BB&T Center,0,90116,3,82,Rock,54.95
+Oklahoma City,P!nk,Chesapeake Energy Arena,1,56756,3,82,Rock,54.95
+Rosemont,J Balvin,Allstate Arena,0,???,10,95,Hip-Hop/Rap,39.95
+Hartford,Lynyrd Skynyrd,XFINITY Theatre,1,125017,7,74,Rock,29.5
+Montreal,Parkway Drive,MTELUS,1,???,9,70,Metal,34.5
+San Antonio,Maroon,AT&T Center,0,1409019,6,88,Rock,49.5
+Chicago,Maroon,United Center,0,2718782,9,88,Rock,49.5
+Tampa,Maroon,Amalie Arena,1,352957,6,88,Rock,45.75
+Nashville,Maroon,Bridgestone Arena,1,634464,9,88,Rock,45
+St Louis,Maroon,Enterprise Center,0,318416,9,88,Rock,46.5
+Charlotte,Maroon,Spectrum Center ,0,44349,10,88,Rock,49.5
+Hershey,Maroon,Hersheypark Stadium,1,???,7,88,Rock,19.5
+New Orleans,Maroon,Smoothie King Center,0,378715,6,88,Rock,46.5
+Sunrise,Maroon,BB&T Center,1,90116,6,88,Rock,45.25
+Dallas,Maroon,American Airlines Center,1,1257676,6,88,Rock,49.5
+Las Vegas,Bruno Mars,Park Theater,1,226877,7,88,Rock,91.28
+Detroit,Bruno Mars,Little Caesars Arena,1,688701,9,88,Rock,79.5
+Las Vegas,Bruno Mars,Park Theater,0,226877,7,88,Rock,91.28
+Dallas,Bruno Mars,American Airlines Center,1,1257676,10,88,Rock,59.5
+Saint Paul,Bruno Mars,Xcel Energy Center,0,???,9,88,Rock,56.5
+Nashville,Bruno Mars,Bridgestone Arena,1,634464,10,88,Rock,55
+Nashville,Bruno Mars,Bridgestone Arena,1,634464,10,88,Rock,55
+Las Vegas,Bruno Mars,Park Theater,0,226877,7,88,Rock,91.28
+Bonner Springs,Portugal. The Man,Providence Medical Center Amphitheater,0,???,7,78,Undefined,35
+Camden,Portugal. The Man,BB&T Pavilion  ,1,76903,6,78,Rock,29.5
+Brooklyn,Bruno Mars,Barclays Center,0,78373,10,88,Rock,81
+Brooklyn,Bruno Mars,Barclays Center,0,78373,10,88,Rock,81
+Indianapolis,Portugal. The Man,Farm Bureau Insurance Lawn at White River State Park,1,843393,7,78,Rock,32.5
+Charlotte,Portugal. The Man,Charlotte Metro Credit Union Amphitheatre,0,44349,9,78,Rock,27.5
+Charleston,Portugal. The Man,Volvo Car Stadium ,1,50821,9,78,Rock,26.5
+Council Bluffs,Portugal. The Man,Stir Concert Cove-Harrah's Council Bluffs Casino & Hotel,1,61969,8,78,Rock,35
+Dallas,Maren Morris,Dos Equis Pavilion,0,1257676,7,82,Rock,29.5
+Alpharetta,Maren Morris,Verizon Amphitheatre,0,62298,9,82,Rock,47
+Tampa,Maren Morris,MIDFLORIDA Credit Union Amphitheatre at the FL State Fairgrounds,1,352957,9,82,Rock,37
+Mountain View,Maren Morris,Shoreline Amphitheatre,1,77846,8,82,Rock,29.5
+Irvine,Maren Morris,FivePoint Amphitheatre,1,236716,8,82,Rock,37.5
+Chula Vista,Maren Morris,Mattress Firm Amphitheatre (Formerly Sleep Train Amphitheatre),0,256780,8,82,Rock,31.5
+Tinley Park,Maren Morris,"Hollywood Casino Amphitheatre - Chicago, IL",0,57282,7,82,Rock,29.5
+Woodlands,Maren Morris,The Cynthia Woods Mitchell Pavilion presented by Huntsman,0,???,7,82,Rock,29.5
+Wilmington,Grey,The Queen,1,112067,6,82,Rock,29.5
+Los Angeles,Grey,Teragram Ballroom,1,3884307,9,82,Rock,30
+Indianapolis,Grey,Farm Bureau Insurance Lawn at White River State Park,1,843393,8,82,Rock,27.5
+Chesterfield,Grey,Chesterfield Amphitheater,1,47749,8,82,Rock,25
+Los Angeles,Maren Morris,Greek Theatre,0,3884307,8,82,Rock,37
+Foxborough,Ed Sheeran,Gillette Stadium,0,???,9,94,Pop,39.5
+Portsmouth,Grey,Union Bank & Trust Pavilion ,0,96205,6,82,Rock,24.5
+Asheville,Grey,U.S. Cellular Center Asheville,0,87236,6,82,Rock,27
+Miami,Migos,AmericanAirlines Arena,1,417650,9,90,Hip-Hop/Rap,55.5
+Salt Lake City,Migos,Vivint Smart Home Arena,0,191180,7,90,Hip-Hop/Rap,46.5
+Brooklyn,Migos,Barclays Center,0,78373,8,90,Hip-Hop/Rap,80.5
+Cincinnati,Jason Aldean,Riverbend Music Center,0,297517,9,79,Country,24.5
+Detroit,Bazzi,Saint Andrews Hall,0,688701,8,83,Pop,25
+Silver Spring,Bazzi,The Fillmore Silver Spring presented by Cricket Wireless,0,???,7,83,Pop,25
+Seattle,Bazzi,Neptune Theatre,1,652405,7,83,Pop,25
+Chicago,Migos,United Center,0,2718782,8,90,Hip-Hop/Rap,59.5
+Orange Beach,Jason Aldean,The Wharf Amphitheater,0,???,7,79,Country,32.75
+Saratoga Springs,Jason Aldean,Saratoga Performing Arts Center,1,???,7,79,Country,20
+Chicago,Bazzi,House of Blues Chicago presented by Cricket Wireless,0,2718782,8,83,Pop,29.5
+Atlantic City,Bazzi,Atlantic City Beach,1,39551,7,83,Dance/Electronic,39.5
+Tinley Park,Niall Horan,"Hollywood Casino Amphitheatre - Chicago, IL",0,57282,7,78,Rock,29.5
+Nashville,Migos,Bridgestone Arena,0,634464,9,90,Hip-Hop/Rap,45
+Inglewood,Migos,The Forum,0,111542,10,90,Hip-Hop/Rap,59.5
+Chesterfield,Jordan Davis,Chesterfield Amphitheater,0,47749,6,69,Country,35
+West Sacramento,Jordan Davis,Raley Field,0,49891,9,69,Country,34.5
+Woodlands,Savage,The Cynthia Woods Mitchell Pavilion presented by Huntsman,0,???,6,89,Hip-Hop/Rap,89
+Los Angeles,Niall Horan,Greek Theatre,0,3884307,8,78,Rock,37
+Seattle,Sam Smith,KeyArena,1,652405,9,86,Rock,35
+Grand Rapids,Brett Young,Van Andel Arena,1,192294,10,71,Country,32.25
+Clarkston,Luke Combs,DTE Energy Music Theatre,0,???,9,79,Country,30.75
+Bethel,Luke Combs,Bethel Woods Center for the Arts,0,???,7,79,Country,46.75
+Cuyahoga Falls,Luke Combs,Blossom Music Center,0,49267,8,79,Country,38.75
+Nashville,Luke Combs,Bridgestone Arena,0,634464,9,79,Country,31.55
+Wheatland,Luke Combs,Toyota Amphitheatre,0,???,9,79,Country,39
+Cincinnati,Luke Combs,Riverbend Music Center,0,297517,9,79,Country,24.5
+San Bernardino,Luke Combs,Glen Helen Amphitheater formerly San Manuel Amphitheater,1,213708,9,79,Country,30.75
+Atlanta,Luke Combs,SunTrust Park,1,447841,7,79,Country,35.5
+Mountain View,Luke Combs,Shoreline Amphitheatre,0,77846,9,79,Country,40
+Chula Vista,Luke Combs,Mattress Firm Amphitheatre (Formerly Sleep Train Amphitheatre),0,256780,9,79,Country,39.5
+Mansfield,Bebe Rexha,Xfinity Center,1,60872,6,87,Rock,23.5
+Wantagh,Bebe Rexha,Northwell Health at Jones Beach Theater,0,???,6,87,Rock,39
+Rosemont,Bebe Rexha,Allstate Arena,1,???,6,87,Dance/Electronic,55
+Milwaukee,Bebe Rexha,American Family Insurance Amphitheater-Summerfest,1,599164,6,87,Country,60.07
+New York,Bebe Rexha,The Rooftop at Pier 17,0,52122,8,87,Rock,45
+Clarkston,Lynyrd Skynyrd,DTE Energy Music Theatre,0,???,8,74,Rock,35.5
+Stateline,Luke Bryan,Lake Tahoe Outdoor Arena at Harveys,0,???,7,79,Country,69.5
+London,Dustin Lynch,Western Fair District,1,???,7,73,Country,89.5
+Darien Center,Logic,Darien Lake Amphitheater,0,???,7,88,Hip-Hop/Rap,25
+Inglewood,P!nk,The Forum,0,111542,4,82,Rock,47.45
+Glendale,P!nk,Gila River Arena,1,196021,3,82,Rock,54.95
+Charlotte,P!nk,Spectrum Center ,1,44349,3,82,Rock,59.95
+Tampa,P!nk,Amalie Arena,1,352957,3,82,Rock,84.95
+Portland,P!nk,Moda Center,1,609456,4,82,Rock,59.95
+New York,P!nk,Madison Square Garden,0,52122,5,82,Rock,132.45
+Sacramento,P!nk,Golden 1 Center,0,49891,4,82,Rock,43.89
+Nashville,P!nk,Bridgestone Arena,1,634464,3,82,Rock,69.95
+Detroit,P!nk,Little Caesars Arena,0,688701,4,82,Rock,59.45
+San Jose,P!nk,SAP Center at San Jose,0,998537,4,82,Rock,43.45
+Sunrise,Panic! At The Disco,BB&T Center,0,90116,7,84,Rock,26.5
+Miami,Adele,James L Knight Center,1,417650,6,83,Comedy,39
+Boston,Panic! At The Disco,TD Garden,0,645966,7,84,Rock,26.25
+Portland,Panic! At The Disco,Moda Center,1,609456,8,84,Rock,28.75
+Uniondale,Panic! At The Disco,"NYCB LIVE, Home of The Nassau Veterans Memorial Coliseum",0,???,7,84,Rock,29.25
+Irving,Savage,The Pavilion at Toyota Music Factory,0,228653,6,89,Hip-Hop/Rap,89.5
+Cincinnati,Chris Stapleton,Riverbend Music Center,0,297517,10,80,Country,31.25
+Saratoga Springs,Chris Stapleton,Saratoga Performing Arts Center,0,???,8,80,Country,20
+Maryland Heights,Chris Stapleton,"Hollywood Casino Amphitheatre - St. Louis, MO",0,???,7,80,Country,34.75
+Chula Vista,Chris Stapleton,Mattress Firm Amphitheatre (Formerly Sleep Train Amphitheatre),0,256780,8,80,Country,34.75
+Camden,Chris Stapleton,BB&T Pavilion  ,0,76903,6,80,Country,34.75
+Mansfield,Chris Stapleton,Xfinity Center,1,60872,6,80,Country,34.75
+Anaheim,Chris Stapleton,Honda Center,0,345012,8,80,Country,39.75
+Darien Center,Chris Stapleton,Darien Lake Amphitheater,0,???,6,80,Country,34.75
+Cedar Rapids,Kelly Clarkson,newbo evolve,0,128429,8,76,Rock,54.5
+Inglewood,Chris Stapleton,The Forum,1,111542,8,80,Country,39.75
+Bristow,Chris Stapleton,Jiffy Lube Live,1,???,10,80,Country,34.75
+Charlotte,Rich The Kid,PNC Music Pavilion,1,44349,7,85,R&B,25
+Chula Vista,Rich The Kid,Mattress Firm Amphitheatre (Formerly Sleep Train Amphitheatre),0,256780,8,85,R&B,25
+Wheatland,Dan + Shay,Toyota Amphitheatre,0,???,9,76,Country,33.75
+Wantagh,Dan + Shay,Northwell Health at Jones Beach Theater,0,???,7,76,Country,34.5
+Anaheim,Famous Dex,House of Blues Anaheim presented by Cricket Wireless,0,345012,6,80,Hip-Hop/Rap,25
+Tinley Park,Dan + Shay,"Hollywood Casino Amphitheatre - Chicago, IL",0,57282,8,76,Country,34.75
+Maryland Heights,Dan + Shay,"Hollywood Casino Amphitheatre - St. Louis, MO",1,???,8,76,Country,33.75
+Clarkston,Dan + Shay,DTE Energy Music Theatre,1,???,8,76,Country,25.5
+Concord,Rich The Kid,Concord Pavilion,0,125880,6,85,R&B,29.99
+Auburn,Rich The Kid,White River Amphitheatre,0,74860,6,85,R&B,27.5
+Philadelphia,Rich The Kid,Made in America Venue,1,1553165,9,85,Undefined,125
+Virginia Beach,Rich The Kid,Veterans United Home Loans Amphitheater at Virginia Beach,0,448479,7,85,R&B,10
+Tampa,Rich The Kid,MIDFLORIDA Credit Union Amphitheatre at the FL State Fairgrounds,0,352957,7,85,R&B,25
+Salt Lake City,Thomas Rhett,Vivint Smart Home Arena,1,191180,10,80,Country,29.75
+Fort Wayne,Thomas Rhett,Allen County War Memorial Coliseum,0,256496,10,80,Country,29.75
+Providence,Thomas Rhett,Dunkin' Donuts Center,0,47149,9,80,Country,29.75
+Charlotte,Lynyrd Skynyrd,PNC Music Pavilion,1,44349,6,74,Rock,29.5
+Holmdel,Lynyrd Skynyrd,PNC Bank Arts Center,0,???,6,74,Rock,28
+Cincinnati,Bad Wolves,Riverbend Music Center,0,297517,8,68,Rock,15.25
+Lexington,Thomas Rhett,Rupp Arena,0,308428,10,80,Country,30.25
+Burgettstown,Lynyrd Skynyrd,KeyBank Pavilion,1,???,8,74,Rock,29.5
+Hershey,Lynyrd Skynyrd,Hersheypark Stadium,1,???,7,74,Rock,20
+Maryland Heights,Lynyrd Skynyrd,"Hollywood Casino Amphitheatre - St. Louis, MO",1,???,8,74,Rock,44.5
+Charlotte,Dan + Shay,PNC Music Pavilion,0,44349,6,76,Country,33.75
+New York,Bad Wolves,Gramercy Theatre,0,52122,6,68,Metal,20
+Anaheim,Thomas Rhett,Honda Center,0,345012,10,80,Country,33.75
+Lancaster,Bad Wolves,Chameleon Club,1,38071,6,68,Metal,20
+Columbus,Bad Wolves,The Basement,1,202824,6,68,Metal,20
+Dallas,Bad Wolves,Dos Equis Pavilion,1,1257676,8,68,Metal,30
+Mansfield,Bad Wolves,Xfinity Center,1,60872,8,68,Rock,30
+Tampa,Bad Wolves,MIDFLORIDA Credit Union Amphitheatre at the FL State Fairgrounds,1,352957,8,68,Metal,30
+Inglewood,Thomas Rhett,The Forum,0,111542,10,80,Country,34.75
+Fairfax,J Balvin,EagleBank Arena,1,???,10,95,Hip-Hop/Rap,39.95
+Sacramento,Thomas Rhett,Golden 1 Center,1,49891,10,80,Country,29.75
+Boston,J Balvin,Agganis Arena,0,645966,10,95,Hip-Hop/Rap,35.95
+Groningen,Adele,De Oosterpoort,1,???,10,83,Rock,23
+Syracuse,Thomas Rhett,The Oncenter War Memorial Arena,0,144669,9,80,Country,29.75
+El Paso,J Balvin,Don Haskins Center,1,674433,9,95,Hip-Hop/Rap,33.2
+Cuyahoga Falls,Dan + Shay,Blossom Music Center,0,49267,8,76,Country,32.5
+Fresno,J Balvin,Selland Arena at Fresno Convention & Entertainment Center,0,509924,9,95,Hip-Hop/Rap,39.5
+Greensboro,J Balvin,Greensboro Coliseum Complex,0,279639,10,95,Hip-Hop/Rap,29.95
+Providence,Brett Young,Dunkin' Donuts Center,0,47149,9,71,Country,29.75
+Reading,J Balvin,The Santander Arena ,0,87893,10,95,Hip-Hop/Rap,45
+Tampa,J Balvin,USF Sun Dome,1,352957,10,95,Hip-Hop/Rap,56.2
+Salt Lake City,J Balvin,Vivint Smart Home Arena,0,191180,9,95,Hip-Hop/Rap,36.95
+Irvine,Dan + Shay,FivePoint Amphitheatre,1,236716,9,76,Country,59.75
+Tampa,Panic! At The Disco,Amalie Arena,0,352957,8,84,Rock,27
+New York,Drake,Madison Square Garden,1,52122,8,99,Hip-Hop/Rap,79.5
+Dallas,Drake,American Airlines Center,0,1257676,9,99,Hip-Hop/Rap,74.5
+Detroit,Drake,Little Caesars Arena,0,688701,8,99,Hip-Hop/Rap,59.5
+Miami,Drake,AmericanAirlines Arena,0,417650,9,99,Hip-Hop/Rap,55.5
+Brooklyn,Drake,Barclays Center,0,78373,8,99,Hip-Hop/Rap,60.5
+Inglewood,Drake,The Forum,0,111542,10,99,Hip-Hop/Rap,59.5
+Atlanta,Drake,Philips Arena,1,447841,11,99,Hip-Hop/Rap,59.5
+Oakland,Drake,Oracle Arena,1,406253,10,99,Hip-Hop/Rap,59.5
+Bangor,Logic,Darling's Waterfront Pavilion,1,???,6,88,Hip-Hop/Rap,25
+Washington,Drake,Capital One Arena,0,54790,9,99,Hip-Hop/Rap,59.5
+New York,Drake,Madison Square Garden,0,52122,8,99,Hip-Hop/Rap,99.5
+Washington,Adele,Capital One Arena,1,54790,6,83,Comedy,39.5
+Dallas,Bazzi,House of Blues Dallas presented by Cricket Wireless,0,1257676,7,83,Pop,25
+Nashville,Charlie Puth,Ascend Amphitheater part of the Journeys Concert Series,0,634464,8,87,Rock,30
+Phoenix,Charlie Puth,Ak-Chin Pavilion,0,1513367,8,87,Rock,25
+Albuquerque,Charlie Puth,Isleta Amphitheater,1,556495,8,87,Rock,25
+Camden,Charlie Puth,BB&T Pavilion  ,0,76903,7,87,Rock,25
+Cincinnati,Charlie Puth,Riverbend Music Center,0,297517,8,87,Rock,16.5
+Clarkston,Charlie Puth,DTE Energy Music Theatre,0,???,8,87,Rock,21
+Irvine,Charlie Puth,FivePoint Amphitheatre,0,236716,8,87,Rock,32.5
+Woodlands,Charlie Puth,The Cynthia Woods Mitchell Pavilion presented by Huntsman,0,???,8,87,Rock,25
+St Augustine,Foster The People,St Augustine Amphitheatre,0,???,6,77,Rock,82.14
+Allentown,Niall Horan,Allentown Fairgrounds,1,118577,9,78,Rock,39
+Cuyahoga Falls,Niall Horan,Blossom Music Center,0,49267,8,78,Rock,37
+Atlanta,Logic,Cellairis Amphitheatre at Lakewood,0,447841,6,88,Hip-Hop/Rap,25
+Tampa,Niall Horan,MIDFLORIDA Credit Union Amphitheatre at the FL State Fairgrounds,1,352957,9,78,Rock,37
+Atlanta,Chris Stapleton,Cellairis Amphitheatre at Lakewood,1,447841,10,80,Country,34.75
+Alpharetta,Charlie Puth,Verizon Amphitheatre,0,62298,8,87,Rock,25
+Uncasville,Charlie Puth,Mohegan Sun Arena,0,???,7,87,Rock,29.5
+Irvine,Lil Uzi Vert,FivePoint Amphitheatre,0,236716,7,89,Hip-Hop/Rap,39.5
+Detroit,Bazzi,Saint Andrews Hall,0,688701,8,83,Pop,25
+Auburn,Lil Uzi Vert,White River Amphitheatre,0,74860,7,89,Hip-Hop/Rap,29.5
+Atlanta,Lil Uzi Vert,Cellairis Amphitheatre at Lakewood,0,447841,9,89,Hip-Hop/Rap,29.5
+Ridgefield,Lil Uzi Vert,Sunlight Supply Amphitheater,1,???,7,89,Hip-Hop/Rap,29.5
+Dallas,Lil Uzi Vert,Dos Equis Pavilion,0,1257676,8,89,Hip-Hop/Rap,29.5
+Noblesville,Lil Uzi Vert,Ruoff Home Mortgage Music Center,0,56540,8,89,Hip-Hop/Rap,28.5
+Holmdel,Lil Uzi Vert,PNC Bank Arts Center,0,???,8,89,Hip-Hop/Rap,29.5
+Mansfield,Lil Uzi Vert,Xfinity Center,1,60872,8,89,Hip-Hop/Rap,29.5
+Albuquerque,Lil Uzi Vert,Isleta Amphitheater,1,556495,8,89,Hip-Hop/Rap,29.5
+Amsterdam,Maluma,None,1,???,9,89,Family,13.2
+Clarkston,Foster The People,DTE Energy Music Theatre,0,???,6,77,Rock,25.5
+Atlanta,Migos,Philips Arena,0,447841,11,90,Hip-Hop/Rap,59.5
+Montclair,Bazzi,The Wellmont Theater,0,38027,7,83,Pop,20
+Lisbon,Travis Scott,None,0,???,7,91,Rock,63.5
+Toronto,Dua Lipa,RBC Echo Beach,1,???,7,92,Rock,33
+Las Vegas,Dua Lipa,Las Vegas Festival Grounds,1,226877,9,92,Undefined,49
+Wilkes-Barre,Dua Lipa,F. M. Kirby Center,0,41108,6,92,Pop,25
+Mansfield,Dua Lipa,Xfinity Center,1,60872,6,92,Rock,23.5
+New York,Bazzi,Irving Plaza presented by Cricket Wireless,1,52122,7,83,Pop,25
+Rosemont,Dua Lipa,Allstate Arena,1,???,6,92,Dance/Electronic,55
+Wallingford,Dua Lipa,Toyota Oakdale Theatre,1,???,9,92,Rock,20
+Detroit,Bruno Mars,Little Caesars Arena,1,688701,9,88,Rock,79.5
+Tulsa,Bruno Mars,BOK Center,0,398121,10,88,Rock,66.5
+Newark,Bruno Mars,Prudential Center,0,44096,10,88,Rock,79.5
+Boston,Bruno Mars,TD Garden,0,645966,9,88,Rock,55
+Boston,Bruno Mars,TD Garden,0,645966,9,88,Rock,55
+Saint Paul,Bruno Mars,Xcel Energy Center,0,???,9,88,Rock,56.5
+Newark,Bruno Mars,Prudential Center,1,44096,10,88,Rock,79.5
+Dallas,Bruno Mars,American Airlines Center,1,1257676,10,88,Rock,59.5
+Brisbane,Parkway Drive,Riverstage ,1,???,10,70,Metal,73.65
+Tulsa,Bruno Mars,BOK Center,0,398121,10,88,Rock,56.5
+Honolulu,Bruno Mars,Aloha Stadium,1,347884,11,88,Rock,49.5
+Las Vegas,Shinedown,Downtown Las Vegas Events Center,0,226877,8,76,Rock,42.45
+Hartford,Shinedown,XFINITY Theatre,0,125017,8,76,Rock,17.25
+Mansfield,Shinedown,Xfinity Center,1,60872,8,76,Rock,25
+Albuquerque,Shinedown,Isleta Amphitheater,1,556495,8,76,Rock,20
+Clarkston,Shinedown,DTE Energy Music Theatre,1,???,7,76,Rock,45
+Burgettstown,Shinedown,KeyBank Pavilion,0,???,8,76,Rock,25
+Biloxi,Shinedown,Mississippi Coast Coliseum,0,44820,8,76,Rock,32.5
+Dallas,Shinedown,Dos Equis Pavilion,1,1257676,8,76,Rock,19
+Hollywood,Parkway Drive,Hollywood Palladium,1,146526,9,70,Metal,32
+St Louis,Shawn Mendes,Enterprise Center,1,318416,6,93,Rock,26.5
+Las Vegas,Parkway Drive,House of Blues Las Vegas presented by Cricket Wireless,0,226877,8,70,Metal,32
+Dallas,Parkway Drive,South Side Ballroom,0,1257676,9,70,Metal,27.5
+Wantagh,Shinedown,Northwell Health at Jones Beach Theater,1,???,9,76,Rock,25
+North Little Rock,Shinedown,Verizon Arena,0,66075,8,76,Rock,39.5
+North Myrtle Beach,Parkway Drive,House of Blues Myrtle Beach presented by Cricket Wireless,1,???,9,70,Metal,27.5
+Dallas,Shawn Mendes,American Airlines Center,1,1257676,7,93,Rock,29.5
+Albany,Metallica,Times Union Center,1,76185,10,82,Metal,61
+El Paso,Metallica,Don Haskins Center,0,674433,2,82,Metal,58.25
+Portland,Metallica,Moda Center,0,609456,12,82,Metal,63
+Raleigh,Metallica,PNC Arena,1,431746,1,82,Metal,61
+Sacramento,Metallica,Golden 1 Center,0,49891,12,82,Metal,61.44
+Nashville,Metallica,Bridgestone Arena,0,634464,1,82,Metal,70.5
+Charlotte,Metallica,Spectrum Center ,1,44349,10,82,Metal,75
+Pittsburgh,Metallica,PPG Paints Arena,0,305841,10,82,Metal,71.5
+Anaheim,Sam Smith,Honda Center,1,345012,8,86,Rock,35.5
+Noblesville,NF,Ruoff Home Mortgage Music Center,1,56540,7,81,Hip-Hop/Rap,24
+Louisville,Metallica,KFC Yum! Center,1,609893,3,82,Metal,61
+University Park,Metallica,Bryce Jordan Center,1,???,10,82,Metal,65
+Raleigh,Dan + Shay,Coastal Credit Union Music Park at Walnut Creek,1,431746,6,76,Country,33.75
+Holmdel,Dan + Shay,PNC Bank Arts Center,0,???,6,76,Country,34.75
+Chicago,Panic! At The Disco,United Center,0,2718782,7,84,Rock,30.75
+Charleston,Thomas Rhett,Charleston Civic Center,0,50821,9,80,Country,29.75
+Cincinnati,Kenny Chesney,Riverbend Music Center,0,297517,7,76,Country,29
+Saratoga Springs,Dan + Shay,Saratoga Performing Arts Center,1,???,7,76,Country,20
+Mansfield,Dan + Shay,Xfinity Center,1,60872,6,76,Country,35.5
+Hartford,Dan + Shay,XFINITY Theatre,0,125017,6,76,Country,20
+Bangor,Thomas Rhett,Cross Insurance Center,0,???,9,80,Country,29.75
+Uncasville,Thomas Rhett,Mohegan Sun Arena,0,???,9,80,Country,59
+Bristow,Dan + Shay,Jiffy Lube Live,1,???,6,76,Country,34.75
+Charlottesville,Thomas Rhett,John Paul Jones Arena,1,44349,9,80,Country,29.75
+Dallas,Dan + Shay,Dos Equis Pavilion,1,1257676,8,76,Country,36.5
+Cincinnati,Keith Urban,Riverbend Music Center,1,297517,8,77,Country,30
+Charlottesville,MercyMe,John Paul Jones Arena,1,44349,10,65,Rock,23.5
+Portland,MercyMe,Cross Insurance Arena (Formerly Cumberland County Civic Center),1,609456,11,65,Rock,26.75
+Camden,Keith Urban,BB&T Pavilion  ,0,76903,8,77,Country,31
+Kansas City,Grey,Madrid Theatre,0,148483,6,82,Pop,35
+Atlanta,NF,Cellairis Amphitheatre at Lakewood,0,447841,6,81,Hip-Hop/Rap,25
+Greenville,MercyMe,Bon Secours Wellness Arena ,0,89130,11,65,Rock,30
+Concord,MercyMe,Concord Pavilion,1,125880,7,65,Religious,28.5
+Park City,MercyMe,Hartman Arena,1,???,10,65,Rock,20
+Albuquerque,Keith Urban,Isleta Amphitheater,1,556495,7,77,Country,37.25
+Cedar Rapids,MercyMe,McGrath Amphitheatre,0,128429,6,65,Rock,22
+Oakland,J Balvin,Oracle Arena,0,406253,9,95,Hip-Hop/Rap,39.95
+Mansfield,Keith Urban,Xfinity Center,1,60872,8,77,Country,40.5
+Las Vegas,Post Malone,Park Theater,0,226877,6,100,Hip-Hop/Rap,90
+Maryland Heights,Post Malone,"Hollywood Casino Amphitheatre - St. Louis, MO",0,???,6,100,Hip-Hop/Rap,29.5
+Hollywood,Savage,Hollywood Bowl,0,146526,6,89,Hip-Hop/Rap,29.5
+Austin,Post Malone,Austin360 Amphitheater,1,885400,6,100,Hip-Hop/Rap,102.5
+Irving,Post Malone,The Pavilion at Toyota Music Factory,0,228653,6,100,Hip-Hop/Rap,89.5
+San Diego,Post Malone,Cal Coast Credit Union Open Air Theatre at SDSU,0,1355896,6,100,Hip-Hop/Rap,108
+Mountain View,Post Malone,Shoreline Amphitheatre,1,77846,6,100,Hip-Hop/Rap,79.5
+Hollywood,Post Malone,Hollywood Bowl,0,146526,6,100,Hip-Hop/Rap,29.5
+Hollywood,Post Malone,Hollywood Bowl,0,146526,6,100,Hip-Hop/Rap,29.5
+Atlanta,Post Malone,Cellairis Amphitheatre at Lakewood,1,447841,6,100,Hip-Hop/Rap,150
+Woodlands,Post Malone,The Cynthia Woods Mitchell Pavilion presented by Huntsman,0,???,6,100,Hip-Hop/Rap,89
+Melbourne,Lil Dicky,Forum Melbourne,1,77508,7,82,Hip-Hop/Rap,78.53
+Melbourne,Lil Dicky,Forum Melbourne,1,77508,7,82,Hip-Hop/Rap,78.53
+Auckland,Lil Dicky,Logan Campbell Centre,0,???,7,82,Hip-Hop/Rap,79.9
+Cuyahoga Falls,Keith Urban,Blossom Music Center,0,49267,8,77,Country,37
+Philadelphia,Kane Brown,The Mann,1,1553165,9,77,Country,34
+Mansfield,Marshmello,Xfinity Center,1,60872,6,89,Rock,23.5
+Wantagh,Marshmello,Northwell Health at Jones Beach Theater,0,???,6,89,Rock,39
+Milwaukee,Marshmello,Henry Maier Festival Park (Summerfest Grounds),0,599164,6,89,Dance/Electronic,50
+Anaheim,Justin Timberlake,Honda Center,0,345012,11,85,Rock,55
+Dallas,Justin Timberlake,American Airlines Center,0,1257676,1,85,Rock,49.5
+Salt Lake City,Panic! At The Disco,Vivint Smart Home Arena,0,191180,8,84,Rock,27.75
+Pittsburgh,Justin Timberlake,PPG Paints Arena,0,305841,9,85,Rock,49.5
+Indianapolis,Justin Timberlake,Bankers Life Fieldhouse,0,843393,12,85,Rock,49.5
+New York,Justin Timberlake,Madison Square Garden,1,52122,10,85,Rock,61
+Memphis,Justin Timberlake,FedExForum,1,653450,1,85,Rock,49.5
+Sacramento,Justin Timberlake,Golden 1 Center,1,49891,11,85,Rock,47.14
+Raleigh,Justin Timberlake,PNC Arena,1,431746,1,85,Rock,49.5
+Charlotte,Justin Timberlake,Spectrum Center ,0,44349,1,85,Rock,53
+Portland,Justin Timberlake,Moda Center,0,609456,11,85,Rock,49.5
+Philadelphia,The Chainsmokers,The Fillmore Philadelphia presented by Cricket Wireless,0,1553165,6,88,Dance/Electronic,45
+Clarkston,NF,DTE Energy Music Theatre,1,???,6,81,Hip-Hop/Rap,26
+Nashville,Keith Urban,Bridgestone Arena,0,634464,8,77,Country,50
+Chicago,G-Eazy,Huntington Bank Pavilion at Northerly Island,0,2718782,8,88,Hip-Hop/Rap,29.5
+Los Angeles,The Chainsmokers,The Wiltern,0,3884307,6,88,Dance/Electronic,91.5
+Salt Lake City,Brett Young,Vivint Smart Home Arena,1,191180,10,71,Country,29.75
+Tampa,NF,MIDFLORIDA Credit Union Amphitheatre at the FL State Fairgrounds,0,352957,6,81,Hip-Hop/Rap,25
+Monroe,YoungBoy Never Broke Again,Monroe Civic Center Arena,0,49761,7,82,Hip-Hop/Rap,17
+New Orleans,YoungBoy Never Broke Again,House of Blues New Orleans presented by Cricket Wireless,1,378715,6,82,Hip-Hop/Rap,42.25
+New Orleans,YoungBoy Never Broke Again,House of Blues New Orleans presented by Cricket Wireless,1,378715,6,82,Hip-Hop/Rap,42.25
+Cincinnati,Lynyrd Skynyrd,Riverbend Music Center,0,297517,8,74,Rock,18.75
+San Diego,J Balvin,Viejas Arena at Aztec Bowl San Diego State University,0,1355896,9,95,Hip-Hop/Rap,39.95
+Nashville,J Balvin,Nashville Municipal Auditorium,0,634464,10,95,Hip-Hop/Rap,42
+Pittsburgh,Shawn Mendes,PPG Paints Arena,0,305841,8,93,Rock,28
+San Antonio,Shawn Mendes,AT&T Center,0,1409019,7,93,Rock,29.5
+Atlanta,Shawn Mendes,Philips Arena,0,447841,7,93,Rock,25.5
+Saint Paul,Shawn Mendes,Xcel Energy Center,0,???,6,93,Rock,26.5
+Orlando,Shawn Mendes,Amway Center,0,255483,7,93,Rock,26.5
+Miami,Shawn Mendes,AmericanAirlines Arena,1,417650,7,93,Rock,25.5
+Boston,Shawn Mendes,TD Garden,0,645966,8,93,Rock,25
+Newark,Shawn Mendes,Prudential Center,1,44096,8,93,Rock,29.5
+Washington,Shawn Mendes,Capital One Arena,0,54790,8,93,Rock,25.5
+Detroit,Shawn Mendes,Little Caesars Arena,1,688701,8,93,Rock,24.5
+Raleigh,Niall Horan,Coastal Credit Union Music Park at Walnut Creek,1,431746,9,78,Rock,29.5
+Los Angeles,Sam Hunt,Dodger Stadium,1,3884307,7,76,Country,59.75
+Mansfield,Niall Horan,Xfinity Center,1,60872,9,78,Rock,29.5
+North Little Rock,Metallica,Verizon Arena,1,66075,1,82,Metal,65
+Sacramento,Brett Young,Golden 1 Center,1,49891,10,71,Country,29.75
+Clarkston,Imagine Dragons,DTE Energy Music Theatre,0,???,6,89,Rock,50.5
+Austin,Savage,Austin360 Amphitheater,1,885400,6,89,Hip-Hop/Rap,102.5
+Foxborough,Kenny Chesney,Gillette Stadium,0,???,8,76,Country,66
+Maryland Heights,Savage,"Hollywood Casino Amphitheatre - St. Louis, MO",0,???,6,89,Hip-Hop/Rap,29.5
+Atlanta,Savage,Cellairis Amphitheatre at Lakewood,1,447841,6,89,Hip-Hop/Rap,150
+Montclair,Savage,The Wellmont Theater,0,38027,6,89,Hip-Hop/Rap,25
+Primm,Ozuna,Star Of The Desert Arena at Primm Valley Resorts,1,???,6,95,Rock,35
+Hollywood,Savage,Hollywood Bowl,0,146526,6,89,Hip-Hop/Rap,29.5
+Detroit,Ed Sheeran,Ford Field,1,688701,9,94,Pop,36
+Los Angeles,The Chainsmokers,The Wiltern,0,3884307,6,88,Dance/Electronic,47.35
+Atlantic City,The Chainsmokers,Atlantic City Beach,1,39551,7,88,Dance/Electronic,39.5
+Boston,Savage,Paradise Rock Club,0,645966,9,89,Dance/Electronic,30
+Miami,Ozuna,AmericanAirlines Arena,1,417650,6,95,World,49
+Virginia Beach,Kenny Chesney,Veterans United Home Loans Amphitheater at Virginia Beach,0,448479,6,76,Country,25
+Mountain View,Logic,Shoreline Amphitheatre,0,77846,7,88,Hip-Hop/Rap,25
+Denver,Kenny Chesney,Sports Authority Field At Mile High,1,649495,6,76,Country,27
+Pittsburgh,Ed Sheeran,PNC Park,1,305841,9,94,Pop,39.5
+Mansfield,NF,Xfinity Center,0,60872,6,81,Hip-Hop/Rap,25
+Minneapolis,Ed Sheeran,U.S. Bank Stadium,1,400070,10,94,Pop,37.5

@@ -1,0 +1,932 @@
+city,artist,weekend,pop,month,score,genre,maxprice
+Montclair,Bazzi,0,38027,7,83,Pop,45
+Montclair,Savage,0,38027,6,89,Hip-Hop/Rap,25
+Lancaster,Bad Wolves,1,38071,6,68,Metal,20
+Huber Heights,Grey,0,38142,8,82,Rock,56.5
+Atlantic City,Sam Hunt,1,39551,7,76,Other,195
+Atlantic City,Demi Lovato,1,39551,7,88,Other,195
+Atlantic City,Florida Georgia Line,0,39551,7,85,Country,149
+Atlantic City,Florida Georgia Line,1,39551,7,85,Country,149
+Atlantic City,Carrie Underwood,0,39551,6,74,Country,350
+Atlantic City,Kane Brown,1,39551,7,77,Country,149.5
+Atlantic City,Demi Lovato,0,39551,7,88,Rock,114.5
+Atlantic City,Demi Lovato,0,39551,7,88,Rock,295
+Atlantic City,Sam Hunt,1,39551,7,76,Country,149.5
+Atlantic City,Bazzi,1,39551,7,83,Dance/Electronic,99.5
+Atlantic City,The Chainsmokers,1,39551,7,88,Dance/Electronic,99.5
+Berlin,Halsey,0,39834,9,85,Rock,42.9
+Wilkes-Barre,Dua Lipa,0,41108,6,92,Pop,35
+Cleveland,Savage,1,42774,9,89,Dance/Electronic,40
+Cleveland,Camila Cabello,0,42774,7,88,Rock,495.5
+Cleveland,Drake,1,42774,7,99,Dance/Electronic,10
+Cleveland,Taylor Swift,0,42774,7,89,Rock,495.5
+Miami Beach,Janelle Monae,0,43250,7,76,R&B,75
+Newark,Bad Bunny,1,44096,8,95,Hip-Hop/Rap,165.5
+Newark,Chris Brown,1,44096,7,90,R&B,299.99
+Newark,Cardi B,1,44096,10,93,Rock,199.5
+Newark,MercyMe,0,44096,11,65,Rock,72
+Newark,Maroon,1,44096,10,88,Rock,179.5
+Newark,Cardi B,0,44096,10,93,Rock,199.5
+Newark,Bruno Mars,0,44096,10,88,Rock,199.5
+Newark,Bruno Mars,1,44096,10,88,Rock,199.5
+Newark,Shawn Mendes,1,44096,8,93,Rock,699
+Charlotte,Keith Urban,1,44349,7,77,Country,113.25
+Charlotte,Janelle Monae,0,44349,7,76,R&B,39.5
+Charlotte,Jason Aldean,0,44349,8,79,Country,109
+Charlotte,Charlie Puth,0,44349,7,87,Rock,79
+Charlotte,Luke Combs,0,44349,8,79,Country,109
+Charlotte,Chris Brown,1,44349,7,90,R&B,159.99
+Charlotte,Niall Horan,0,44349,9,78,Rock,107
+Charlotte,Maren Morris,0,44349,9,82,Rock,107
+Charlotte,Luke Bryan,0,44349,6,79,Country,128.25
+Charlotte,Sam Smith,0,44349,7,86,Rock,125
+Charlotte,Logic,0,44349,6,88,Hip-Hop/Rap,69.5
+Charlottesville,Brett Young,1,44349,9,71,Country,74.75
+Charlotte,NF,0,44349,6,81,Hip-Hop/Rap,69.5
+Charlotte,Darius Rucker,0,44349,10,71,Country,99
+Charlotte,Maroon,0,44349,10,88,Rock,149.5
+Charlotte,Portugal. The Man,0,44349,9,78,Rock,65
+Charlotte,P!nk,1,44349,3,82,Rock,352.5
+Charlotte,Rich The Kid,1,44349,7,85,R&B,159.99
+Charlotte,Lynyrd Skynyrd,1,44349,6,74,Rock,199.5
+Charlotte,Dan + Shay,0,44349,6,76,Country,98.5
+Charlotte,Metallica,1,44349,10,82,Metal,145
+Charlottesville,Thomas Rhett,1,44349,9,80,Country,74.75
+Charlottesville,MercyMe,1,44349,10,65,Rock,75
+Charlotte,Justin Timberlake,0,44349,1,85,Rock,228.5
+Biloxi,Kane Brown,0,44820,9,77,Country,79.5
+Biloxi,Shinedown,0,44820,8,76,Rock,96.5
+Lincoln,Brett Young,1,45237,10,71,Country,84.75
+Lincoln,Ozuna,1,45237,7,95,Rock,100
+Lincoln,Metallica,0,45237,9,82,Metal,132
+Lincoln,Thomas Rhett,1,45237,10,80,Country,84.75
+East Providence,Halsey,0,47149,7,85,Rock,42.75
+Providence,Thomas Rhett,0,47149,9,80,Country,74.75
+Providence,Brett Young,0,47149,9,71,Country,74.75
+Chesterfield,Grey,1,47749,8,82,Rock,69
+Chesterfield,Jordan Davis,0,47749,6,69,Country,85
+Cuyahoga Falls,Maren Morris,0,49267,8,82,Rock,107
+Cuyahoga Falls,Darius Rucker,0,49267,7,71,Country,96.75
+Cuyahoga Falls,Imagine Dragons,1,49267,6,89,Rock,179.5
+Cuyahoga Falls,NF,0,49267,7,81,Hip-Hop/Rap,89.5
+Cuyahoga Falls,Rae Sremmurd,1,49267,7,87,Hip-Hop/Rap,100.5
+Cuyahoga Falls,Jason Aldean,0,49267,8,79,Country,108.75
+Cuyahoga Falls,Logic,0,49267,7,88,Hip-Hop/Rap,89.5
+Cuyahoga Falls,Luke Combs,0,49267,8,79,Country,108.75
+Cuyahoga Falls,Dan + Shay,0,49267,8,76,Country,97.25
+Cuyahoga Falls,Niall Horan,0,49267,8,78,Rock,107
+Cuyahoga Falls,Keith Urban,0,49267,8,77,Country,116.5
+Niagara Falls,Kane Brown,0,49468,7,77,Country,73.45
+Monroe,YoungBoy Never Broke Again,0,49761,7,82,Hip-Hop/Rap,97
+Sacramento,Sam Smith,0,49891,8,86,Rock,125
+Sacramento,Shawn Mendes,0,49891,7,93,Rock,85.91
+West Sacramento,Jordan Davis,0,49891,9,69,Country,69.5
+Sacramento,P!nk,0,49891,4,82,Rock,349.94
+Sacramento,Thomas Rhett,1,49891,10,80,Country,84.75
+Sacramento,Metallica,0,49891,12,82,Metal,131.44
+Sacramento,Justin Timberlake,1,49891,11,85,Rock,238.1
+Sacramento,Brett Young,1,49891,10,71,Country,84.75
+Charleston,Kane Brown,0,50821,9,77,Country,80.5
+Charleston,MercyMe,1,50821,10,65,Rock,125
+Charleston,Portugal. The Man,1,50821,9,78,Rock,45.5
+Charleston,Thomas Rhett,0,50821,9,80,Country,74.75
+Southaven,Kenny Chesney,0,50997,7,76,Country,134.5
+New York,Savage,1,52122,9,89,Dance/Electronic,30
+New York,Imagine Dragons,0,52122,6,89,Rock,159.5
+New York,NF,1,52122,6,81,Hip-Hop/Rap,99.5
+New York,Childish Gambino,1,52122,9,87,Hip-Hop/Rap,129.5
+New York,Bazzi,0,52122,7,83,Pop,25
+New York,Janelle Monae,0,52122,7,76,R&B,99.5
+New York,Sam Smith,1,52122,6,86,Rock,125
+New York,Sam Smith,0,52122,6,86,Rock,125
+New York,Childish Gambino,0,52122,9,87,Hip-Hop/Rap,149.5
+New York,Leon Bridges,0,52122,10,76,R&B,96.5
+New York,Leon Bridges,1,52122,10,76,R&B,96.5
+New York,Chris Stapleton,0,52122,11,80,Country,94.75
+New York,Jason Aldean,1,52122,8,79,Country,100.75
+New York,Panic! At The Disco,0,52122,7,84,Rock,80.75
+New York,Maroon,1,52122,10,88,Rock,225
+New York,Migos,0,52122,8,90,Hip-Hop/Rap,269.5
+New York,P!nk,0,52122,5,82,Rock,397.45
+New York,Bebe Rexha,0,52122,8,87,Rock,45
+New York,P!nk,0,52122,5,82,Rock,397.45
+New York,Bad Wolves,0,52122,6,68,Metal,20
+New York,Drake,1,52122,8,99,Hip-Hop/Rap,249.5
+New York,Drake,0,52122,8,99,Hip-Hop/Rap,269.5
+New York,Bazzi,1,52122,7,83,Pop,25
+New York,Justin Timberlake,1,52122,10,85,Rock,281
+Washington,G-Eazy,0,54790,8,88,Hip-Hop/Rap,59.5
+Washington,Sam Smith,0,54790,7,86,Rock,125
+Washington,Childish Gambino,0,54790,9,87,Hip-Hop/Rap,129.5
+Washington,Maroon,0,54790,10,88,Rock,149.5
+Washington,Drake,0,54790,9,99,Hip-Hop/Rap,199.5
+Washington,Adele,1,54790,6,83,Comedy,125
+Washington,Shawn Mendes,0,54790,8,93,Rock,695
+Noblesville,Keith Urban,1,56540,6,77,Country,137.25
+Noblesville,Ty Dolla $ign,0,56540,8,92,Hip-Hop/Rap,78.5
+Noblesville,Foster The People,0,56540,6,77,Rock,98.5
+Noblesville,Charlie Puth,1,56540,8,87,Rock,78
+Noblesville,Rae Sremmurd,0,56540,7,87,Hip-Hop/Rap,98.5
+Noblesville,Bad Wolves,0,56540,8,68,Rock,99
+Noblesville,Chris Brown,0,56540,7,90,R&B,158.99
+Noblesville,Darius Rucker,0,56540,9,71,Country,98
+Noblesville,Niall Horan,1,56540,8,78,Rock,106
+Noblesville,G-Eazy,0,56540,8,88,Hip-Hop/Rap,78.5
+Noblesville,Maren Morris,1,56540,8,82,Rock,106
+Noblesville,Chris Stapleton,0,56540,10,80,Country,88.75
+Noblesville,Rich The Kid,0,56540,7,85,R&B,158.99
+Noblesville,Godsmack,1,56540,7,71,Rock,98.5
+Noblesville,Logic,1,56540,7,88,Hip-Hop/Rap,104
+Noblesville,Shinedown,1,56540,7,76,Rock,98.5
+Noblesville,Imagine Dragons,0,56540,6,89,Rock,148.5
+Noblesville,Lynyrd Skynyrd,1,56540,8,74,Rock,198.5
+Noblesville,Luke Bryan,0,56540,8,79,Country,128.25
+Noblesville,Dan + Shay,0,56540,8,76,Country,97.5
+Noblesville,Lil Uzi Vert,0,56540,8,89,Hip-Hop/Rap,78.5
+Noblesville,NF,1,56540,7,81,Hip-Hop/Rap,104
+Oklahoma City,Brett Young,0,56756,10,71,Country,74.75
+Oklahoma City,Thomas Rhett,0,56756,10,80,Country,74.75
+Oklahoma City,P!nk,1,56756,3,82,Rock,239.95
+Tinley Park,Keith Urban,1,57282,8,77,Country,107.25
+Tinley Park,Rae Sremmurd,1,57282,7,87,Hip-Hop/Rap,89.5
+Tinley Park,SZA,0,57282,6,86,Hip-Hop/Rap,159.5
+Tinley Park,Darius Rucker,1,57282,9,71,Country,110
+Tinley Park,Chris Brown,1,57282,7,90,R&B,210.99
+Tinley Park,Kendrick Lamar,0,57282,6,92,Hip-Hop/Rap,159.5
+Tinley Park,Chris Stapleton,1,57282,10,80,Country,89.75
+Tinley Park,Godsmack,0,57282,7,71,Rock,99.5
+Tinley Park,Shinedown,0,57282,7,76,Rock,99.5
+Tinley Park,Imagine Dragons,0,57282,7,89,Rock,146
+Tinley Park,Lynyrd Skynyrd,0,57282,8,74,Rock,199.5
+Tinley Park,Maren Morris,0,57282,7,82,Rock,138
+Tinley Park,Niall Horan,0,57282,7,78,Rock,138
+Tinley Park,Dan + Shay,0,57282,8,76,Country,99.5
+Mansfield,G-Eazy,1,60872,8,88,Hip-Hop/Rap,91.5
+Mansfield,Bazzi,1,60872,6,83,Rock,194.5
+Mansfield,Maren Morris,1,60872,9,82,Rock,149.5
+Mansfield,Lynyrd Skynyrd,0,60872,7,74,Rock,199.5
+Mansfield,Chris Brown,0,60872,7,90,R&B,150
+Mansfield,Rich The Kid,0,60872,7,85,R&B,150
+Mansfield,Rae Sremmurd,0,60872,8,87,Hip-Hop/Rap,102
+Mansfield,Ty Dolla $ign,1,60872,8,92,Hip-Hop/Rap,91.5
+Mansfield,Logic,0,60872,6,88,Hip-Hop/Rap,99.5
+Mansfield,Godsmack,1,60872,8,71,Rock,99.5
+Mansfield,Post Malone,0,60872,8,100,Hip-Hop/Rap,109.5
+Mansfield,Bebe Rexha,1,60872,6,87,Rock,194.5
+Mansfield,Chris Stapleton,1,60872,6,80,Country,89.75
+Mansfield,Bad Wolves,1,60872,8,68,Rock,100
+Mansfield,Lil Uzi Vert,1,60872,8,89,Hip-Hop/Rap,91.5
+Mansfield,Dua Lipa,1,60872,6,92,Rock,194.5
+Mansfield,Shinedown,1,60872,8,76,Rock,99.5
+Mansfield,Dan + Shay,1,60872,6,76,Country,100.25
+Mansfield,Keith Urban,1,60872,8,77,Country,121.5
+Mansfield,Marshmello,1,60872,6,89,Rock,194.5
+Mansfield,Niall Horan,1,60872,9,78,Rock,149.5
+Mansfield,NF,0,60872,6,81,Hip-Hop/Rap,99.5
+Council Bluffs,Portugal. The Man,1,61969,8,78,Rock,35
+Alpharetta,Niall Horan,0,62298,9,78,Rock,107
+Alpharetta,Keith Urban,1,62298,7,77,Country,143.75
+Alpharetta,Dan + Shay,0,62298,6,76,Country,99.5
+Alpharetta,Maren Morris,0,62298,9,82,Rock,107
+Alpharetta,Charlie Puth,0,62298,8,87,Rock,69
+Youngstown,Florida Georgia Line,1,65184,8,85,Country,125
+North Little Rock,MercyMe,1,66075,10,65,Rock,68
+North Little Rock,Godsmack,0,66075,8,71,Rock,99.5
+North Little Rock,Thomas Rhett,0,66075,10,80,Country,74.75
+North Little Rock,Shinedown,0,66075,8,76,Rock,99.5
+North Little Rock,Metallica,1,66075,1,82,Metal,135
+San Francisco,Ed Sheeran,0,66174,8,94,Pop,125
+San Francisco,Janelle Monae,1,66174,6,76,R&B,99.5
+San Francisco,Famous Dex,1,66174,6,80,Hip-Hop/Rap,25
+San Francisco,Dua Lipa,1,66174,6,92,Rock,39.5
+San Francisco,Anne-Marie,0,66174,8,88,Pop,125
+Jacksonville,NF,1,69079,6,81,Hip-Hop/Rap,69.5
+Jacksonville,Luke Bryan,0,69079,6,79,Country,123.42
+Jacksonville,Logic,1,69079,6,88,Hip-Hop/Rap,69.5
+Jacksonville,Rae Sremmurd,0,69079,8,87,Hip-Hop/Rap,125.95
+Lafayette,Migos,0,70373,6,90,Hip-Hop/Rap,249
+Gulfport,Adele,0,71012,6,83,Undefined,15
+Auburn,Bad Wolves,1,74860,7,68,Metal,100
+Auburn,Ty Dolla $ign,0,74860,7,92,Hip-Hop/Rap,79.5
+Auburn,Darius Rucker,1,74860,8,71,Country,109.75
+Auburn,NF,0,74860,7,81,Hip-Hop/Rap,89.5
+Auburn,Chris Brown,0,74860,6,90,R&B,169.99
+Auburn,G-Eazy,0,74860,7,88,Hip-Hop/Rap,79.5
+Auburn,Logic,0,74860,7,88,Hip-Hop/Rap,89.5
+Auburn,Luke Bryan,0,74860,10,79,Country,99.75
+Auburn,Rich The Kid,0,74860,6,85,R&B,169.99
+Auburn,Lil Uzi Vert,0,74860,7,89,Hip-Hop/Rap,79.5
+Scranton,Bad Wolves,0,75806,8,68,Rock,110
+Scranton,Shinedown,0,75806,8,76,Rock,99.5
+Arlington,Ed Sheeran,1,75994,10,94,Pop,125
+Arlington,Taylor Swift,0,75994,10,89,Rock,1500
+Arlington,Camila Cabello,0,75994,10,88,Rock,1500
+Arlington,Chris Stapleton,1,75994,6,80,Rock,349.5
+Arlington,Taylor Swift,1,75994,10,89,Rock,1500
+Albany,Justin Timberlake,1,76185,10,85,Rock,250
+Albany,Metallica,1,76185,10,82,Metal,131
+George,Brett Young,0,76817,8,71,Country,215
+George,Dustin Lynch,0,76817,8,73,Country,215
+Camden,Rae Sremmurd,0,76903,8,87,Hip-Hop/Rap,89.5
+Camden,Bad Wolves,0,76903,8,68,Rock,120
+Camden,SZA,0,76903,6,86,Hip-Hop/Rap,129.5
+Camden,Jason Aldean,1,76903,8,79,Country,115.75
+Camden,Kendrick Lamar,0,76903,6,92,Hip-Hop/Rap,129.5
+Camden,Portugal. The Man,1,76903,6,78,Rock,149.5
+Camden,Chris Stapleton,0,76903,6,80,Country,79.75
+Camden,Charlie Puth,0,76903,7,87,Rock,79.5
+Camden,Keith Urban,0,76903,8,77,Country,109.5
+Melbourne,Lil Dicky,1,77508,7,82,Hip-Hop/Rap,78.53
+Melbourne,Lil Dicky,1,77508,7,82,Hip-Hop/Rap,78.53
+Mountain View,G-Eazy,1,77846,7,88,Hip-Hop/Rap,99.5
+Mountain View,Keith Urban,0,77846,7,77,Country,114.25
+Mountain View,Darius Rucker,0,77846,8,71,Country,100
+Mountain View,NF,0,77846,7,81,Hip-Hop/Rap,95
+Mountain View,Charlie Puth,0,77846,8,87,Rock,80
+Mountain View,Niall Horan,1,77846,8,78,Rock,107
+Mountain View,Ty Dolla $ign,1,77846,7,92,Hip-Hop/Rap,99.5
+Mountain View,Kenny Chesney,0,77846,6,76,Country,154.25
+Mountain View,Foster The People,1,77846,7,77,Rock,89.5
+Mountain View,Lil Uzi Vert,1,77846,7,89,Hip-Hop/Rap,99.5
+Mountain View,Halsey,0,77846,7,85,Rock,65
+Mountain View,Savage,1,77846,6,89,Hip-Hop/Rap,129.5
+Mountain View,Maren Morris,1,77846,8,82,Rock,107
+Mountain View,Luke Combs,0,77846,9,79,Country,110
+Mountain View,Post Malone,1,77846,6,100,Hip-Hop/Rap,129.5
+Mountain View,Logic,0,77846,7,88,Hip-Hop/Rap,95
+Brooklyn,Bad Bunny,0,78373,6,95,Other,181
+Brooklyn,Foster The People,0,78373,6,77,Rock,89.5
+Brooklyn,Chris Brown,1,78373,7,90,R&B,316
+Brooklyn,Shawn Mendes,1,78373,8,93,Rock,89.5
+Brooklyn,Cardi B,0,78373,10,93,Rock,236
+Brooklyn,Cardi B,0,78373,10,93,Rock,236
+Brooklyn,Sam Smith,0,78373,6,86,Rock,125
+Brooklyn,Rich The Kid,1,78373,7,85,R&B,316
+Brooklyn,Drake,0,78373,8,99,Hip-Hop/Rap,250.5
+Brooklyn,J Balvin,1,78373,10,95,Hip-Hop/Rap,500
+Brooklyn,Bruno Mars,0,78373,10,88,Rock,236
+Brooklyn,Bruno Mars,0,78373,10,88,Rock,236
+Brooklyn,Migos,0,78373,8,90,Hip-Hop/Rap,250.5
+Brooklyn,Drake,0,78373,8,99,Hip-Hop/Rap,250.5
+Sugar Land,Bad Bunny,0,83860,8,95,Hip-Hop/Rap,145.5
+Sugar Land,J Balvin,0,83860,10,95,Hip-Hop/Rap,500
+Asheville,Grey,0,87236,6,82,Rock,52
+Reading,J Balvin,0,87893,10,95,Hip-Hop/Rap,350
+Greenville,Godsmack,0,89130,9,71,Rock,59.5
+Greenville,MercyMe,0,89130,11,65,Rock,60
+Sunrise,P!nk,0,90116,3,82,Rock,354.95
+Sunrise,Maroon,1,90116,6,88,Rock,145.25
+Sunrise,Panic! At The Disco,0,90116,7,84,Rock,66.5
+M̩xico,Halsey,0,91956,6,85,Rock,1180
+M̩xico,The Weeknd,1,91956,10,93,Hip-Hop/Rap,980
+M̩xico,The Weeknd,1,91956,10,93,Hip-Hop/Rap,2150
+M̩xico,The Weeknd,0,91956,10,93,Hip-Hop/Rap,988
+M̩xico,The Weeknd,0,91956,10,93,Hip-Hop/Rap,1988
+M̩xico,Khalid,1,91956,11,94,Undefined,2899
+M̩xico,Khalid,1,91956,11,94,Undefined,1999
+M̩xico,Khalid,1,91956,11,94,Undefined,2999
+M̩xico,Khalid,1,91956,11,94,Undefined,4499
+M̩xico,The Weeknd,0,91956,10,93,Hip-Hop/Rap,988
+Tuscaloosa,Jason Aldean,0,95334,7,79,Country,254
+Portsmouth,Grey,0,96205,6,82,Rock,54.5
+Las Cruces,Kane Brown,0,101324,9,77,Country,79.5
+West Palm Beach,Darius Rucker,1,102436,9,71,Country,100
+West Palm Beach,Maren Morris,1,102436,9,82,Rock,107
+West Palm Beach,Charlie Puth,1,102436,9,87,Rock,79.5
+West Palm Beach,Niall Horan,1,102436,9,78,Rock,107
+West Palm Beach,Luke Bryan,0,102436,6,79,Country,100
+West Palm Beach,Rae Sremmurd,0,102436,8,87,Hip-Hop/Rap,125.95
+West Palm Beach,Imagine Dragons,0,102436,8,89,Rock,140.5
+Manchester,Brett Young,1,110378,9,71,Country,74.75
+Manchester,Thomas Rhett,1,110378,9,80,Country,74.75
+Inglewood,Imagine Dragons,1,111542,7,89,Rock,184.5
+Inglewood,Foster The People,0,111542,7,77,Rock,154.5
+Inglewood,NF,0,111542,7,81,Hip-Hop/Rap,99.5
+Inglewood,Brett Young,0,111542,10,71,Country,89.75
+Inglewood,Logic,0,111542,7,88,Hip-Hop/Rap,99.5
+Inglewood,Childish Gambino,0,111542,9,87,Hip-Hop/Rap,149.5
+Inglewood,Childish Gambino,0,111542,10,87,Hip-Hop/Rap,129.5
+Inglewood,Imagine Dragons,1,111542,7,89,Rock,184.5
+Inglewood,J Balvin,1,111542,9,95,Hip-Hop/Rap,500
+Inglewood,J Balvin,1,111542,9,95,Hip-Hop/Rap,500
+Inglewood,Migos,0,111542,10,90,Hip-Hop/Rap,229.5
+Inglewood,P!nk,0,111542,4,82,Rock,269.95
+Inglewood,Chris Stapleton,1,111542,8,80,Country,89.75
+Inglewood,Thomas Rhett,0,111542,10,80,Country,89.75
+Inglewood,Drake,0,111542,10,99,Hip-Hop/Rap,229.5
+Wilmington,Savage,1,112067,9,89,Dance/Electronic,29.5
+Wilmington,Grey,1,112067,6,82,Rock,29.5
+Berkeley,Leon Bridges,0,116768,9,76,R&B,59.5
+Independence,Halsey,1,117240,7,85,Rock,55.5
+Independence,MercyMe,0,117240,10,65,Rock,74.75
+Allentown,Maren Morris,1,118577,9,82,Rock,59
+Allentown,Niall Horan,1,118577,9,78,Rock,59
+Hartford,Sam Hunt,0,125017,6,76,Country,125
+Hartford,G-Eazy,1,125017,8,88,Hip-Hop/Rap,164.5
+Hartford,Logic,1,125017,6,88,Hip-Hop/Rap,101
+Hartford,Darius Rucker,1,125017,7,71,Country,333.75
+Hartford,Rich The Kid,1,125017,7,85,R&B,170.99
+Hartford,Lil Uzi Vert,1,125017,8,89,Hip-Hop/Rap,164.5
+Hartford,Ty Dolla $ign,1,125017,8,92,Hip-Hop/Rap,164.5
+Hartford,Chris Brown,1,125017,7,90,R&B,170.99
+Hartford,NF,1,125017,6,81,Hip-Hop/Rap,101
+Hartford,Lynyrd Skynyrd,1,125017,7,74,Rock,199.5
+Hartford,Shinedown,0,125017,8,76,Rock,406
+Hartford,Dan + Shay,0,125017,6,76,Country,350
+Concord,Chris Brown,0,125880,6,90,R&B,199.99
+Concord,Rich The Kid,0,125880,6,85,R&B,199.99
+Concord,MercyMe,1,125880,7,65,Religious,59.5
+Cedar Rapids,Maroon,1,128429,8,88,Rock,134.5
+Cedar Rapids,Kelly Clarkson,0,128429,8,76,Rock,107.5
+Cedar Rapids,MercyMe,0,128429,6,65,Rock,87
+Hampton,Kane Brown,0,136699,8,77,Country,45
+Syracuse,Imagine Dragons,1,144669,6,89,Rock,499
+Syracuse,Brett Young,0,144669,9,71,Country,206.5
+Syracuse,Luke Bryan,0,144669,8,79,Country,329
+Syracuse,Foster The People,1,144669,6,77,Rock,119.5
+Syracuse,Kane Brown,1,144669,6,77,Country,209
+Syracuse,Lynyrd Skynyrd,0,144669,8,74,Rock,975
+Syracuse,Thomas Rhett,0,144669,9,80,Country,206.5
+Hollywood,Parkway Drive,1,146526,9,70,Metal,32
+Hollywood,Savage,0,146526,6,89,Hip-Hop/Rap,129.5
+Hollywood,Post Malone,0,146526,6,100,Hip-Hop/Rap,129.5
+Hollywood,Post Malone,0,146526,6,100,Hip-Hop/Rap,129.5
+Hollywood,Savage,0,146526,6,89,Hip-Hop/Rap,129.5
+Kansas City,Taylor Swift,1,148483,9,89,Rock,495.5
+Kansas City,Kenny Chesney,1,148483,7,76,Country,250
+Kansas City,Camila Cabello,1,148483,9,88,Rock,495.5
+Kansas City,Ed Sheeran,1,148483,10,94,Pop,115.5
+Kansas City,Grey,0,148483,6,82,Pop,55
+Pasadena,Anne-Marie,1,152735,8,88,Pop,125
+Pasadena,Ed Sheeran,1,152735,8,94,Pop,125
+Springfield,Luke Combs,0,153703,8,79,Country,32
+Eugene,Brett Young,0,159190,10,71,Country,206
+Eugene,Thomas Rhett,0,159190,10,80,Country,206
+Peoria,Godsmack,1,162592,9,71,Rock,76.5
+Sioux Falls,Luke Combs,0,164676,10,79,Country,53
+Vancouver,Childish Gambino,1,167405,9,87,Hip-Hop/Rap,731
+Vancouver,Sam Hunt,1,167405,10,76,Country,449
+Ontario,Bad Bunny,1,167500,9,95,Hip-Hop/Rap,152.5
+Jackson,MercyMe,0,172638,10,65,Rock,60
+Huntsville,Godsmack,1,186254,9,71,Rock,56.5
+Huntsville,MercyMe,0,186254,8,65,Rock,150
+Salt Lake City,Metallica,0,191180,11,82,Metal,132
+Salt Lake City,Drake,0,191180,7,99,Hip-Hop/Rap,176.5
+Salt Lake City,Migos,0,191180,7,90,Hip-Hop/Rap,176.5
+Salt Lake City,Thomas Rhett,1,191180,10,80,Country,84.75
+Salt Lake City,J Balvin,0,191180,9,95,Hip-Hop/Rap,347
+Salt Lake City,Panic! At The Disco,0,191180,8,84,Rock,67.75
+Salt Lake City,Brett Young,1,191180,10,71,Country,84.75
+Grand Rapids,Janelle Monae,1,192294,7,76,R&B,69.5
+Grand Rapids,Metallica,0,192294,3,82,Metal,135
+Grand Rapids,Thomas Rhett,1,192294,10,80,Country,87.25
+Grand Rapids,Brett Young,1,192294,10,71,Country,87.25
+Glendale,Sam Smith,0,196021,8,86,Rock,120.25
+Glendale,Shawn Mendes,0,196021,7,93,Rock,84.75
+Glendale,Childish Gambino,0,196021,10,87,Hip-Hop/Rap,124.75
+Glendale,Migos,1,196021,10,90,Hip-Hop/Rap,206.6
+Glendale,Panic! At The Disco,0,196021,8,84,Rock,66
+Glendale,P!nk,1,196021,3,82,Rock,254.5
+Columbus,Savage,1,202824,9,89,Dance/Electronic,23
+Columbus,Kenny Chesney,1,202824,6,76,Country,259.5
+Columbus,Sam Smith,1,202824,6,86,Rock,125
+Columbus,Foster The People,0,202824,6,77,Rock,59.5
+Columbus,Camila Cabello,1,202824,7,88,Rock,1500
+Columbus,Taylor Swift,1,202824,7,89,Rock,1500
+Columbus,Maroon,0,202824,9,88,Rock,149.5
+Columbus,Panic! At The Disco,1,202824,7,84,Rock,70.75
+Columbus,P!nk,1,202824,5,82,Rock,336.45
+Columbus,Bad Wolves,1,202824,6,68,Metal,20
+Tacoma,Migos,0,203446,11,90,Hip-Hop/Rap,204.5
+Rochester,Luke Bryan,0,210358,10,79,Country,89.75
+Birmingham,Lynyrd Skynyrd,0,212113,8,74,Rock,199.5
+Birmingham,Metallica,0,212113,1,82,Metal,2499
+Birmingham,Rich The Kid,1,212113,7,85,R&B,149.99
+San Bernardino,Jason Aldean,1,213708,9,79,Country,100.75
+San Bernardino,Luke Combs,1,213708,9,79,Country,100.75
+Boise,Godsmack,0,214237,10,71,Rock,557.5
+Las Vegas,Bazzi,1,226877,9,83,Undefined,49
+Las Vegas,Savage,0,226877,6,89,Hip-Hop/Rap,145
+Las Vegas,Florida Georgia Line,0,226877,12,85,Country,149
+Las Vegas,Florida Georgia Line,0,226877,12,85,Country,149
+Las Vegas,Florida Georgia Line,0,226877,12,85,Country,149
+Las Vegas,Florida Georgia Line,1,226877,12,85,Country,149
+Las Vegas,Florida Georgia Line,1,226877,12,85,Country,149
+Las Vegas,Leon Bridges,1,226877,9,76,R&B,136.7
+Las Vegas,Godsmack,0,226877,8,71,Rock,88.33
+Las Vegas,Brett Young,0,226877,8,71,Folk,87.16
+Las Vegas,Dustin Lynch,1,226877,9,73,Undefined,49
+Las Vegas,Janelle Monae,0,226877,6,76,R&B,77.94
+Las Vegas,Kane Brown,1,226877,7,77,Country,87.16
+Las Vegas,Halsey,1,226877,7,85,Rock,164.22
+Las Vegas,Bon Jovi,1,226877,6,78,Undefined,18
+Las Vegas,Dua Lipa,0,226877,9,92,Rock,59
+Las Vegas,Bruno Mars,1,226877,7,88,Rock,504.59
+Las Vegas,Bruno Mars,0,226877,7,88,Rock,504.59
+Las Vegas,Bruno Mars,0,226877,7,88,Rock,504.59
+Las Vegas,Dua Lipa,1,226877,9,92,Undefined,49
+Las Vegas,Shinedown,0,226877,8,76,Rock,88.33
+Las Vegas,Parkway Drive,0,226877,8,70,Metal,32
+Las Vegas,Post Malone,0,226877,6,100,Hip-Hop/Rap,145
+Irving,Charlie Puth,0,228653,8,87,Rock,79.5
+Irving,Leon Bridges,1,228653,6,76,R&B,96.5
+Irving,Foster The People,1,228653,7,77,Rock,94
+Irving,J Balvin,0,228653,10,95,Hip-Hop/Rap,500
+Irving,Savage,0,228653,6,89,Hip-Hop/Rap,149.5
+Irving,Post Malone,0,228653,6,100,Hip-Hop/Rap,149.5
+Irvine,Ty Dolla $ign,0,236716,7,92,Hip-Hop/Rap,104.5
+Irvine,Jason Aldean,1,236716,9,79,Country,100.75
+Irvine,Niall Horan,1,236716,8,78,Rock,107
+Irvine,Bad Wolves,0,236716,7,68,Metal,110
+Irvine,Luke Combs,1,236716,9,79,Country,100.75
+Irvine,Darius Rucker,0,236716,8,71,Country,100.25
+Irvine,G-Eazy,0,236716,7,88,Hip-Hop/Rap,104.5
+Irvine,Maren Morris,1,236716,8,82,Rock,107
+Irvine,Dan + Shay,1,236716,9,76,Country,99.75
+Irvine,Charlie Puth,0,236716,8,87,Rock,79.5
+Irvine,Lil Uzi Vert,0,236716,7,89,Hip-Hop/Rap,104.5
+Orlando,Sam Smith,0,255483,7,86,Rock,646.5
+Orlando,Parkway Drive,1,255483,9,70,Metal,72.75
+Orlando,Janelle Monae,1,255483,7,76,R&B,75
+Orlando,Dua Lipa,0,255483,6,92,Rock,119
+Orlando,Shawn Mendes,0,255483,7,93,Rock,699
+Fort Wayne,Brett Young,0,256496,10,71,Country,74.75
+Fort Wayne,Thomas Rhett,0,256496,10,80,Country,74.75
+Chula Vista,G-Eazy,0,256780,8,88,Hip-Hop/Rap,79.5
+Chula Vista,Jason Aldean,0,256780,9,79,Country,109.5
+Chula Vista,Darius Rucker,1,256780,8,71,Country,99.5
+Chula Vista,Foster The People,0,256780,7,77,Rock,89.5
+Chula Vista,Charlie Puth,1,256780,8,87,Rock,79
+Chula Vista,Lil Uzi Vert,0,256780,8,89,Hip-Hop/Rap,79.5
+Chula Vista,Bad Wolves,0,256780,7,68,Metal,100
+Chula Vista,Chris Brown,0,256780,8,90,R&B,149.99
+Chula Vista,Niall Horan,0,256780,8,78,Rock,109
+Chula Vista,Kenny Chesney,0,256780,6,76,Country,123.75
+Chula Vista,Ty Dolla $ign,0,256780,8,92,Hip-Hop/Rap,79.5
+Chula Vista,Kane Brown,0,256780,7,77,Country,88.7
+Chula Vista,Dan + Shay,0,256780,9,76,Country,99
+Chula Vista,Maren Morris,0,256780,8,82,Rock,109
+Chula Vista,Luke Combs,0,256780,9,79,Country,109.5
+Chula Vista,Chris Stapleton,0,256780,8,80,Country,79.75
+Chula Vista,Rich The Kid,0,256780,8,85,R&B,149.99
+Greensboro,Godsmack,1,279639,9,71,Rock,59.5
+Greensboro,Bad Bunny,0,279639,11,95,Hip-Hop/Rap,150.5
+Greensboro,Kane Brown,0,279639,9,77,Country,79.5
+Greensboro,MercyMe,1,279639,11,65,Rock,60
+Greensboro,J Balvin,0,279639,10,95,Hip-Hop/Rap,350
+Cincinnati,Savage,0,297517,9,89,Dance/Electronic,30
+Cincinnati,Grey,1,297517,8,82,Rock,59.5
+Cincinnati,Chris Brown,0,297517,7,90,R&B,491.5
+Cincinnati,Famous Dex,1,297517,6,80,Hip-Hop/Rap,44.88
+Cincinnati,Niall Horan,0,297517,7,78,Rock,646.5
+Cincinnati,Janelle Monae,0,297517,7,76,R&B,77
+Cincinnati,Maren Morris,0,297517,7,82,Rock,646.5
+Cincinnati,Metallica,0,297517,1,82,Metal,135
+Cincinnati,Rae Sremmurd,1,297517,7,87,Hip-Hop/Rap,394
+Cincinnati,Logic,0,297517,6,88,Hip-Hop/Rap,66
+Cincinnati,NF,0,297517,6,81,Hip-Hop/Rap,66
+Cincinnati,Jason Aldean,0,297517,9,79,Country,245.5
+Cincinnati,Luke Combs,0,297517,9,79,Country,245.5
+Cincinnati,Chris Stapleton,0,297517,10,80,Country,239
+Cincinnati,Bad Wolves,0,297517,8,68,Rock,521.5
+Cincinnati,Charlie Puth,0,297517,8,87,Rock,221.5
+Cincinnati,Kenny Chesney,0,297517,7,76,Country,345.5
+Cincinnati,Keith Urban,1,297517,8,77,Country,627
+Cincinnati,Lynyrd Skynyrd,0,297517,8,74,Rock,971.5
+Pittsburgh,Sam Hunt,1,305841,6,76,Country,142.5
+Pittsburgh,Anne-Marie,1,305841,9,88,Pop,119.5
+Pittsburgh,Parkway Drive,0,305841,9,70,Metal,28.5
+Pittsburgh,Luke Bryan,1,305841,6,79,Country,142.5
+Pittsburgh,Panic! At The Disco,0,305841,7,84,Rock,70.75
+Pittsburgh,Camila Cabello,0,305841,8,88,Rock,492.25
+Pittsburgh,Taylor Swift,0,305841,8,89,Rock,492.25
+Pittsburgh,Metallica,0,305841,10,82,Metal,138
+Pittsburgh,Justin Timberlake,0,305841,9,85,Rock,225
+Pittsburgh,Shawn Mendes,0,305841,8,93,Rock,694.25
+Pittsburgh,Ed Sheeran,1,305841,9,94,Pop,119.5
+Lexington,Brett Young,0,308428,10,71,Country,85.25
+Lexington,Bad Bunny,1,308428,11,95,Hip-Hop/Rap,144
+Lexington,Jordan Davis,0,308428,7,69,Country,104.5
+Lexington,Thomas Rhett,0,308428,10,80,Country,85.25
+Corpus Christi,Foster The People,0,316381,7,77,Rock,59.5
+St Louis,Janelle Monae,0,318416,7,76,R&B,51
+St Louis,Ed Sheeran,0,318416,9,94,Pop,119.5
+St Louis,Parkway Drive,0,318416,9,70,Metal,28.5
+St Louis,Anne-Marie,0,318416,9,88,Pop,119.5
+St Louis,Camila Cabello,0,318416,9,88,Rock,496.5
+St Louis,Taylor Swift,0,318416,9,89,Rock,496.5
+St Louis,Maroon,0,318416,9,88,Rock,146.5
+St Louis,Shawn Mendes,1,318416,6,93,Rock,86.5
+Anaheim,Brett Young,0,345012,10,71,Country,88.75
+Anaheim,Kane Brown,1,345012,7,77,Country,75
+Anaheim,Chris Stapleton,0,345012,8,80,Country,89.75
+Anaheim,Famous Dex,0,345012,6,80,Hip-Hop/Rap,25
+Anaheim,Thomas Rhett,0,345012,10,80,Country,88.75
+Anaheim,Sam Smith,1,345012,8,86,Rock,125
+Anaheim,Justin Timberlake,0,345012,11,85,Rock,275
+Honolulu,Halsey,0,347884,8,85,Rock,69.5
+Honolulu,Bruno Mars,1,347884,11,88,Rock,125
+Tampa,Sam Hunt,1,352957,6,76,Country,149.75
+Tampa,G-Eazy,0,352957,9,88,Hip-Hop/Rap,79.5
+Tampa,Meghan Trainor,0,352957,6,79,Rock,100
+Tampa,Imagine Dragons,0,352957,8,89,Rock,146
+Tampa,Lil Uzi Vert,0,352957,9,89,Hip-Hop/Rap,79.5
+Tampa,Darius Rucker,0,352957,9,71,Country,100
+Tampa,Chris Brown,0,352957,7,90,R&B,160.99
+Tampa,Shawn Mendes,1,352957,7,93,Rock,699
+Tampa,Luke Bryan,1,352957,6,79,Country,149.75
+Tampa,Rae Sremmurd,0,352957,8,87,Hip-Hop/Rap,125.95
+Tampa,Ty Dolla $ign,0,352957,9,92,Hip-Hop/Rap,79.5
+Tampa,Logic,0,352957,6,88,Hip-Hop/Rap,69.5
+Tampa,Ed Sheeran,0,352957,11,94,Pop,107
+Tampa,Dan + Shay,0,352957,7,76,Country,99.5
+Tampa,Maroon,1,352957,6,88,Rock,145.75
+Tampa,Maren Morris,1,352957,9,82,Rock,107
+Tampa,P!nk,1,352957,3,82,Rock,274.95
+Tampa,Rich The Kid,0,352957,7,85,R&B,160.99
+Tampa,Bad Wolves,1,352957,8,68,Metal,100
+Tampa,J Balvin,1,352957,10,95,Hip-Hop/Rap,346.25
+Tampa,Panic! At The Disco,0,352957,8,84,Rock,67
+Tampa,Niall Horan,1,352957,9,78,Rock,107
+Tampa,NF,0,352957,6,81,Hip-Hop/Rap,69.5
+New Orleans,Sam Smith,0,378715,7,86,Rock,122
+New Orleans,Ella Mai,1,378715,7,73,R&B,1200
+New Orleans,Migos,1,378715,9,90,Hip-Hop/Rap,176.5
+New Orleans,Foster The People,0,378715,7,77,Rock,85.5
+New Orleans,Imagine Dragons,1,378715,8,89,Rock,126.5
+New Orleans,Justin Timberlake,0,378715,1,85,Rock,225
+New Orleans,MercyMe,0,378715,10,65,Rock,65
+New Orleans,P!nk,1,378715,3,82,Rock,240.5
+New Orleans,Maroon,0,378715,6,88,Rock,165.5
+New Orleans,YoungBoy Never Broke Again,1,378715,6,82,Hip-Hop/Rap,85
+New Orleans,YoungBoy Never Broke Again,1,378715,6,82,Hip-Hop/Rap,85
+Tulsa,Panic! At The Disco,1,398121,8,84,Rock,67.75
+Tulsa,Metallica,0,398121,1,82,Metal,132
+Tulsa,Shawn Mendes,1,398121,7,93,Rock,86.5
+Tulsa,Kane Brown,1,398121,9,77,Country,79.5
+Tulsa,Cardi B,0,398121,10,93,Rock,172
+Tulsa,Cardi B,0,398121,10,93,Rock,172
+Tulsa,Bruno Mars,0,398121,10,88,Rock,172
+Tulsa,Bruno Mars,0,398121,10,88,Rock,172
+Minneapolis,Sam Hunt,1,400070,7,76,Country,329
+Minneapolis,Janelle Monae,0,400070,7,76,R&B,93.5
+Minneapolis,Luke Bryan,1,400070,7,79,Country,329
+Minneapolis,Bad Bunny,1,400070,9,95,Hip-Hop/Rap,144.5
+Minneapolis,Camila Cabello,0,400070,8,88,Rock,1498
+ Minneapolis,Foster The People,0,400070,7,77,Rock,57.5
+Minneapolis,Taylor Swift,0,400070,8,89,Rock,1498
+ Minneapolis,Dua Lipa,1,400070,6,92,Rock,37.5
+Minneapolis,Ed Sheeran,1,400070,10,94,Pop,117.5
+Oakland,Sam Smith,0,406253,9,86,Rock,131.25
+Oakland,Childish Gambino,0,406253,9,87,Hip-Hop/Rap,129.5
+Oakland,Migos,1,406253,10,90,Hip-Hop/Rap,199.5
+Oakland,Shawn Mendes,1,406253,7,93,Rock,89.5
+Oakland,Bad Bunny,1,406253,8,95,Hip-Hop/Rap,158
+Oakland,Justin Timberlake,0,406253,12,85,Rock,250
+Oakland,Migos,0,406253,10,90,Hip-Hop/Rap,199.5
+Oakland,Drake,1,406253,10,99,Hip-Hop/Rap,199.5
+Oakland,J Balvin,0,406253,9,95,Hip-Hop/Rap,500
+Miami,Taylor Swift,1,417650,8,89,Rock,499.5
+Miami,Camila Cabello,1,417650,8,88,Rock,499.5
+Miami,Sam Smith,1,417650,7,86,Rock,121
+Miami,Dua Lipa,0,417650,6,92,Rock,35
+Miami,Migos,0,417650,9,90,Hip-Hop/Rap,195.5
+Miami,J Balvin,1,417650,10,95,Hip-Hop/Rap,496
+Miami,Bad Bunny,1,417650,6,95,World,179
+Miami,Drake,1,417650,9,99,Hip-Hop/Rap,209.5
+Miami,Migos,1,417650,9,90,Hip-Hop/Rap,209.5
+Miami,Adele,1,417650,6,83,Comedy,69
+Miami,Drake,0,417650,9,99,Hip-Hop/Rap,195.5
+Miami,Shawn Mendes,1,417650,7,93,Rock,695
+Miami,Ozuna,1,417650,6,95,World,179
+Raleigh,G-Eazy,0,431746,9,88,Hip-Hop/Rap,79.5
+Raleigh,Jason Aldean,1,431746,8,79,Country,109
+Raleigh,Lynyrd Skynyrd,0,431746,6,74,Rock,224
+Raleigh,Leon Bridges,1,431746,8,76,R&B,79.5
+Raleigh,Imagine Dragons,0,431746,7,89,Rock,144
+Raleigh,Rae Sremmurd,1,431746,8,87,Hip-Hop/Rap,99.5
+Raleigh,Luke Combs,1,431746,8,79,Country,109
+Raleigh,Lil Uzi Vert,0,431746,9,89,Hip-Hop/Rap,79.5
+Raleigh,Janelle Monae,1,431746,7,76,R&B,54.5
+Raleigh,Luke Bryan,0,431746,6,79,Country,128.25
+Raleigh,Maren Morris,1,431746,9,82,Rock,118
+Raleigh,Kane Brown,0,431746,8,77,Country,87
+Raleigh,Rich The Kid,0,431746,7,85,R&B,149.99
+Raleigh,Ty Dolla $ign,0,431746,9,92,Hip-Hop/Rap,79.5
+Raleigh,Keith Urban,0,431746,7,77,Country,113.25
+Raleigh,Darius Rucker,0,431746,10,71,Country,99
+Raleigh,Panic! At The Disco,1,431746,7,84,Rock,66.75
+Raleigh,Metallica,1,431746,1,82,Metal,131
+Raleigh,Dan + Shay,1,431746,6,76,Country,98.5
+Raleigh,Justin Timberlake,1,431746,1,85,Rock,225
+Raleigh,Niall Horan,1,431746,9,78,Rock,118
+Omaha,Luke Bryan,0,434353,8,79,Country,86.75
+Atlanta,Bad Bunny,0,447841,11,95,Hip-Hop/Rap,144.5
+Atlanta,Ty Dolla $ign,0,447841,9,92,Hip-Hop/Rap,94.5
+Atlanta,Jason Aldean,1,447841,7,79,Country,249
+Atlanta,Ed Sheeran,1,447841,11,94,Pop,120
+Atlanta,Godsmack,0,447841,8,71,Rock,109.5
+Atlanta,Janelle Monae,1,447841,8,76,R&B,79.5
+Atlanta,G-Eazy,0,447841,9,88,Hip-Hop/Rap,94.5
+Atlanta,Camila Cabello,0,447841,8,88,Rock,1495
+Atlanta,Drake,0,447841,11,99,Hip-Hop/Rap,199.5
+Atlanta,Taylor Swift,0,447841,8,89,Rock,1495
+Atlanta,Janelle Monae,1,447841,8,76,R&B,79.5
+Atlanta,Shinedown,0,447841,8,76,Rock,109.5
+Atlanta,Justin Timberlake,0,447841,1,85,Rock,254
+Atlanta,Lynyrd Skynyrd,1,447841,9,74,Rock,234.5
+Atlanta,Rich The Kid,0,447841,7,85,R&B,159.99
+Atlanta,Dua Lipa,1,447841,6,92,Rock,35
+Atlanta,Chris Brown,0,447841,7,90,R&B,159.99
+Atlanta,Cardi B,1,447841,9,93,Hip-Hop/Rap,250
+Atlanta,Luke Combs,1,447841,7,79,Country,249
+Atlanta,Drake,1,447841,11,99,Hip-Hop/Rap,199.5
+Atlanta,Logic,0,447841,6,88,Hip-Hop/Rap,99.5
+Atlanta,Chris Stapleton,1,447841,10,80,Country,89.75
+Atlanta,Lil Uzi Vert,0,447841,9,89,Hip-Hop/Rap,94.5
+Atlanta,Migos,0,447841,11,90,Hip-Hop/Rap,199.5
+Atlanta,NF,0,447841,6,81,Hip-Hop/Rap,99.5
+Atlanta,Post Malone,1,447841,6,100,Hip-Hop/Rap,300
+Atlanta,Shawn Mendes,0,447841,7,93,Rock,85.5
+Atlanta,Savage,1,447841,6,89,Hip-Hop/Rap,300
+Virginia Beach,Lynyrd Skynyrd,0,448479,7,74,Rock,215
+Virginia Beach,Godsmack,1,448479,8,71,Rock,386
+Virginia Beach,Chris Brown,0,448479,7,90,R&B,541
+Virginia Beach,Rae Sremmurd,1,448479,8,87,Hip-Hop/Rap,379.5
+Virginia Beach,Dan + Shay,0,448479,6,76,Country,90.25
+Virginia Beach,Shinedown,1,448479,8,76,Rock,386
+Virginia Beach,Imagine Dragons,0,448479,7,89,Rock,120.5
+Virginia Beach,Rich The Kid,0,448479,7,85,R&B,541
+Virginia Beach,Kenny Chesney,0,448479,6,76,Country,135
+Fresno,Metallica,1,509924,12,82,Metal,132
+Fresno,Bad Bunny,0,509924,9,95,Hip-Hop/Rap,145.5
+Fresno,J Balvin,0,509924,9,95,Hip-Hop/Rap,350
+Tucson,Bad Bunny,0,526116,8,95,Hip-Hop/Rap,139
+Albuquerque,G-Eazy,1,556495,8,88,Hip-Hop/Rap,79.5
+Albuquerque,Ty Dolla $ign,1,556495,8,92,Hip-Hop/Rap,79.5
+Albuquerque,Bad Wolves,1,556495,7,68,Metal,100
+Albuquerque,Chris Stapleton,0,556495,8,80,Country,79.75
+Albuquerque,Rae Sremmurd,0,556495,8,87,Hip-Hop/Rap,98.5
+Albuquerque,Imagine Dragons,0,556495,7,89,Rock,149.5
+Albuquerque,Charlie Puth,1,556495,8,87,Rock,79
+Albuquerque,Lil Uzi Vert,1,556495,8,89,Hip-Hop/Rap,79.5
+Albuquerque,Shinedown,1,556495,8,76,Rock,89.5
+Albuquerque,Keith Urban,1,556495,7,77,Country,110.25
+Milwaukee,Ed Sheeran,0,599164,10,94,Pop,119.5
+Milwaukee,Florida Georgia Line,1,599164,6,85,Country,104.25
+Milwaukee,Darius Rucker,1,599164,9,71,Country,104.8
+Milwaukee ,Leon Bridges,1,599164,9,76,R&B,93.48
+Milwaukee,Foster The People,0,599164,7,77,Rock,50
+Milwaukee,Luke Combs,0,599164,7,79,Country,119.62
+Milwaukee,MercyMe,0,599164,10,65,Rock,62
+Milwaukee,Shawn Mendes,0,599164,7,93,Rock,99.14
+Milwaukee ,Janelle Monae,0,599164,7,76,R&B,30.47
+Milwaukee,Metallica,0,599164,10,82,Metal,135
+Milwaukee,Logic,0,599164,6,88,Rock,109.4
+Milwaukee,The Weeknd,1,599164,7,93,Hip-Hop/Rap,165.78
+Milwaukee,Halsey,0,599164,6,85,Rock,109.4
+Milwaukee,Justin Timberlake,0,599164,9,85,Rock,229
+Milwaukee,Maroon,1,599164,9,88,Rock,149.5
+Milwaukee,Bebe Rexha,1,599164,6,87,Country,104.25
+Milwaukee,Marshmello,0,599164,6,89,Dance/Electronic,50
+Portland,Logic,1,609456,7,88,Hip-Hop/Rap,79.5
+Portland,Sam Smith,0,609456,9,86,Rock,123
+Portland,Godsmack,0,609456,10,71,Rock,77.5
+Portland,NF,1,609456,7,81,Hip-Hop/Rap,79.5
+Portland,Shinedown,0,609456,10,76,Rock,77.5
+Portland,Bad Wolves,0,609456,6,68,Metal,20
+Portland,Luke Bryan,0,609456,10,79,Country,124
+Portland,P!nk,1,609456,4,82,Rock,207.45
+Portland,Panic! At The Disco,1,609456,8,84,Rock,68.75
+Portland,Metallica,0,609456,12,82,Metal,133
+Portland,MercyMe,1,609456,11,65,Rock,86.75
+Portland,Justin Timberlake,0,609456,11,85,Rock,225
+Louisville,Taylor Swift,1,609893,6,89,Rock,1494
+Louisville,Camila Cabello,1,609893,6,88,Rock,1494
+Louisville,Metallica,1,609893,3,82,Metal,130
+Baltimore,Panic! At The Disco,1,622104,7,84,Rock,67.75
+Baltimore,Chris Stapleton,1,622104,11,80,Country,86.75
+Nashville,Taylor Swift,1,634464,8,89,Rock,600
+Nashville,Camila Cabello,1,634464,8,88,Rock,600
+Nashville,Kenny Chesney,1,634464,8,76,Country,275
+Nashville,Brett Young,0,634464,10,71,Folk,39.5
+Nashville,Bad Bunny,1,634464,9,95,Hip-Hop/Rap,153.36
+Nashville,Maren Morris,1,634464,7,82,Rock,107
+Nashville,Niall Horan,1,634464,7,78,Rock,107
+Nashville,Adele,0,634464,6,83,Comedy,198
+Nashville,Cardi B,1,634464,10,93,Rock,195
+Nashville,Cardi B,1,634464,10,93,Rock,195
+Nashville,Sam Smith,1,634464,7,86,Rock,120.5
+Nashville,Childish Gambino,0,634464,10,87,Hip-Hop/Rap,125
+Nashville,Leon Bridges,0,634464,8,76,R&B,82
+Nashville,Kane Brown,1,634464,9,77,Country,65
+Nashville,Janelle Monae,0,634464,7,76,R&B,59.5
+Nashville,Halsey,0,634464,7,85,Rock,69.5
+Nashville,Ed Sheeran,1,634464,10,94,Pop,116.5
+Nashville,Maroon,1,634464,9,88,Rock,145
+Nashville,Bruno Mars,1,634464,10,88,Rock,195
+Nashville,Bruno Mars,1,634464,10,88,Rock,195
+Nashville,Migos,0,634464,9,90,Hip-Hop/Rap,175
+Nashville,Luke Combs,0,634464,9,79,Country,81
+Nashville,P!nk,1,634464,3,82,Rock,249.95
+Nashville,Charlie Puth,0,634464,8,87,Rock,79.5
+Nashville,Metallica,0,634464,1,82,Metal,140.5
+Nashville,Keith Urban,0,634464,8,77,Country,85
+Nashville,J Balvin,0,634464,10,95,Hip-Hop/Rap,347
+Boston,Bad Bunny,0,645966,8,95,Hip-Hop/Rap,140.5
+Boston,Leon Bridges,0,645966,10,76,R&B,72.5
+Boston,Drake,0,645966,9,99,Hip-Hop/Rap,195
+Boston,Charlie Puth,0,645966,7,87,Rock,69
+Boston,Childish Gambino,0,645966,9,87,Hip-Hop/Rap,125
+Boston,Janelle Monae,1,645966,7,76,R&B,105.5
+Boston,Cardi B,0,645966,9,93,Rock,170.5
+Boston,Sam Smith,0,645966,6,86,Rock,120.5
+Boston,Famous Dex,0,645966,6,80,Hip-Hop/Rap,25
+Boston,Maroon,1,645966,10,88,Rock,195
+Boston,Migos,0,645966,9,90,Hip-Hop/Rap,195
+Boston,Cardi B,0,645966,9,93,Rock,170.5
+Boston,Panic! At The Disco,0,645966,7,84,Rock,76.25
+Boston,J Balvin,0,645966,10,95,Hip-Hop/Rap,346
+Boston,Bruno Mars,0,645966,9,88,Rock,170.5
+Boston,Bruno Mars,0,645966,9,88,Rock,170.5
+Boston,Shawn Mendes,0,645966,8,93,Rock,694.5
+Boston,Savage,0,645966,9,89,Dance/Electronic,30
+Columbia,Imagine Dragons,1,646449,7,89,Rock,129.5
+Denver,Sam Hunt,1,649495,8,76,Country,149.75
+Denver,Luke Bryan,1,649495,8,79,Country,149.75
+Denver,Dua Lipa,0,649495,6,92,Rock,35
+Denver,Kenny Chesney,1,649495,6,76,Country,246
+Seattle,Savage,0,652405,10,89,Dance/Electronic,30
+Seattle,Anne-Marie,1,652405,8,88,Pop,115.5
+Seattle,Kenny Chesney,1,652405,7,76,Country,275
+Seattle,Childish Gambino,1,652405,9,87,Hip-Hop/Rap,124.5
+Seattle,Leon Bridges,0,652405,9,76,R&B,49.5
+Seattle,Ed Sheeran,1,652405,8,94,Pop,115.5
+Seattle,Dua Lipa,1,652405,7,92,Rock,32
+Seattle,Bad Bunny,0,652405,9,95,Hip-Hop/Rap,140.5
+Seattle,Panic! At The Disco,0,652405,8,84,Rock,66.75
+Seattle,Bazzi,1,652405,7,83,Pop,25
+Seattle,Sam Smith,1,652405,9,86,Rock,121
+Memphis,Adele,1,653450,6,83,Comedy,84.5
+Memphis,Justin Timberlake,1,653450,1,85,Rock,225
+El Paso,J Balvin,1,674433,9,95,Hip-Hop/Rap,343.25
+El Paso,Metallica,0,674433,2,82,Metal,128.25
+Detroit,Sam Hunt,0,688701,10,76,Country,149.75
+Detroit,Sam Smith,0,688701,6,86,Rock,125
+Detroit,Kenny Chesney,1,688701,8,76,Country,259
+Detroit,Famous Dex,1,688701,6,80,Hip-Hop/Rap,25
+Detroit,Anne-Marie,1,688701,9,88,Pop,116
+Detroit,Cardi B,1,688701,9,93,Rock,195
+Detroit,Luke Bryan,0,688701,10,79,Country,149.75
+Detroit,Leon Bridges,0,688701,9,76,R&B,86.5
+Detroit,Bad Bunny,0,688701,9,95,Hip-Hop/Rap,139
+Detroit,Maroon,1,688701,9,88,Rock,149.5
+Detroit,Migos,0,688701,8,90,Hip-Hop/Rap,179.5
+Detroit,Panic! At The Disco,1,688701,7,84,Rock,70.75
+Detroit,Cardi B,1,688701,9,93,Rock,195
+Detroit,P!nk,1,688701,4,82,Rock,349.45
+Detroit,Bruno Mars,1,688701,9,88,Rock,195
+Detroit,Bazzi,0,688701,8,83,Pop,25
+Detroit,P!nk,0,688701,4,82,Rock,499.45
+Detroit,Drake,0,688701,8,99,Hip-Hop/Rap,179.5
+Detroit,Bazzi,0,688701,8,83,Pop,25
+Detroit,Bruno Mars,1,688701,9,88,Rock,195
+Detroit,Shawn Mendes,1,688701,8,93,Rock,699
+Detroit,Ed Sheeran,1,688701,9,94,Pop,116
+Indianapolis,Bazzi,0,843393,6,83,Rock,150
+Indianapolis,Taylor Swift,1,843393,9,89,Rock,1497
+Indianapolis,Camila Cabello,1,843393,9,88,Rock,1497
+Indianapolis,Panic! At The Disco,0,843393,7,84,Rock,70.75
+Indianapolis,Metallica,1,843393,3,82,Metal,135
+Indianapolis,Janelle Monae,1,843393,7,76,R&B,75
+Indianapolis,Famous Dex,1,843393,6,80,Hip-Hop/Rap,149
+Indianapolis,Halsey,0,843393,7,85,Rock,58.5
+Indianapolis,MercyMe,0,843393,10,65,Rock,65
+Indianapolis,Maroon,0,843393,9,88,Rock,160
+Indianapolis,P!nk,0,843393,4,82,Rock,324.95
+Indianapolis,Portugal. The Man,1,843393,7,78,Rock,49.5
+Indianapolis,Grey,1,843393,8,82,Rock,75
+Indianapolis,Justin Timberlake,0,843393,12,85,Rock,225
+Austin,Bad Wolves,0,885400,8,68,Metal,100
+Austin,Chris Brown,0,885400,6,90,R&B,149.99
+Austin,Rich The Kid,0,885400,6,85,R&B,149.99
+Austin,Rae Sremmurd,1,885400,8,87,Hip-Hop/Rap,97
+Austin,Post Malone,1,885400,6,100,Hip-Hop/Rap,202
+Austin,Savage,1,885400,6,89,Hip-Hop/Rap,202
+San Jose,Panic! At The Disco,0,998537,8,84,Rock,66.75
+San Jose,Childish Gambino,0,998537,10,87,Hip-Hop/Rap,125.5
+San Jose,P!nk,0,998537,4,82,Rock,223.5
+Dallas,Jason Aldean,1,1257676,7,79,Country,111.75
+Dallas,Luke Combs,1,1257676,7,79,Country,111.75
+Dallas,Luke Bryan,1,1257676,9,79,Country,101.75
+Dallas,Chris Brown,1,1257676,7,90,R&B,187
+Dallas,Famous Dex,1,1257676,7,80,Hip-Hop/Rap,25
+Dallas,Niall Horan,0,1257676,7,78,Rock,155
+Dallas,G-Eazy,0,1257676,8,88,Hip-Hop/Rap,99.5
+Dallas,Cardi B,1,1257676,10,93,Rock,200
+Dallas,Sam Smith,0,1257676,7,86,Rock,125
+Dallas,Childish Gambino,1,1257676,9,87,Hip-Hop/Rap,129.5
+Dallas,Rae Sremmurd,1,1257676,8,87,Hip-Hop/Rap,135
+Dallas,Godsmack,1,1257676,8,71,Rock,99.5
+Dallas,Migos,0,1257676,9,90,Hip-Hop/Rap,214.5
+Dallas,Panic! At The Disco,1,1257676,8,84,Rock,70.75
+Dallas,Cardi B,1,1257676,10,93,Rock,200
+Dallas,P!nk,1,1257676,3,82,Rock,254.45
+Dallas,Maroon,1,1257676,6,88,Rock,200
+Dallas,Bruno Mars,1,1257676,10,88,Rock,200
+Dallas,Maren Morris,0,1257676,7,82,Rock,155
+Dallas,Bad Wolves,1,1257676,8,68,Metal,109.5
+Dallas,Drake,0,1257676,9,99,Hip-Hop/Rap,214.5
+Dallas,Bazzi,0,1257676,7,83,Pop,25
+Dallas,Lil Uzi Vert,0,1257676,8,89,Hip-Hop/Rap,99.5
+Dallas,Bruno Mars,1,1257676,10,88,Rock,200
+Dallas,Shinedown,1,1257676,8,76,Rock,99.5
+Dallas,Parkway Drive,0,1257676,9,70,Metal,27.5
+Dallas,Shawn Mendes,1,1257676,7,93,Rock,699
+Dallas,Dan + Shay,1,1257676,8,76,Country,101.25
+Dallas,Justin Timberlake,0,1257676,1,85,Rock,250
+San Diego,Savage,0,1355896,6,89,Hip-Hop/Rap,250
+San Diego,Janelle Monae,0,1355896,6,76,R&B,79.5
+San Diego,Leon Bridges,0,1355896,9,76,R&B,82
+San Diego,Dua Lipa,0,1355896,6,92,Rock,35
+San Diego,Anne-Marie,1,1355896,6,88,Classical,88
+San Diego,Post Malone,0,1355896,6,100,Hip-Hop/Rap,250
+San Diego,J Balvin,0,1355896,9,95,Hip-Hop/Rap,350
+San Antonio,Bad Bunny,0,1409019,9,95,Hip-Hop/Rap,139
+San Antonio,MercyMe,1,1409019,10,65,Rock,65
+San Antonio,J Balvin,1,1409019,10,95,Hip-Hop/Rap,498
+San Antonio,Justin Timberlake,1,1409019,1,85,Rock,250
+San Antonio,P!nk,0,1409019,3,82,Rock,246.99
+San Antonio,Maroon,0,1409019,6,88,Rock,149.5
+San Antonio,Shawn Mendes,0,1409019,7,93,Rock,89.5
+Phoenix,G-Eazy,0,1513367,8,88,Hip-Hop/Rap,89.5
+Phoenix,Leon Bridges,0,1513367,9,76,R&B,56.5
+Phoenix,NF,0,1513367,7,81,Hip-Hop/Rap,108.5
+Phoenix,Chris Brown,1,1513367,6,90,R&B,169.99
+Phoenix,Kenny Chesney,1,1513367,6,76,Country,200
+Phoenix,Logic,0,1513367,7,88,Hip-Hop/Rap,108.5
+Phoenix,Ty Dolla $ign,0,1513367,8,92,Hip-Hop/Rap,89.5
+Phoenix,Lil Uzi Vert,0,1513367,8,89,Hip-Hop/Rap,89.5
+Phoenix,Keith Urban,0,1513367,10,77,Country,108.25
+Phoenix,Rich The Kid,1,1513367,6,85,R&B,169.99
+Phoenix,Rae Sremmurd,0,1513367,8,87,Hip-Hop/Rap,99.5
+Phoenix,Darius Rucker,0,1513367,8,71,Country,99
+Phoenix,J Balvin,1,1513367,9,95,Hip-Hop/Rap,350
+Phoenix,Charlie Puth,0,1513367,8,87,Rock,79
+Philadelphia,BlocBoy JB,1,1553165,9,83,Undefined,750
+Philadelphia,Taylor Swift,0,1553165,7,89,Rock,1496
+Philadelphia,Ty Dolla $ign,1,1553165,9,92,Undefined,750
+Philadelphia,Camila Cabello,0,1553165,7,88,Rock,1496
+Philadelphia,Leon Bridges,1,1553165,10,76,R&B,55
+Philadelphia,Leon Bridges,1,1553165,9,76,R&B,55
+Philadelphia,Ed Sheeran,0,1553165,9,94,Pop,115.5
+Philadelphia,Foster The People,1,1553165,6,77,Rock,65
+Philadelphia,Anne-Marie,0,1553165,9,88,Pop,115.5
+Philadelphia,Kenny Chesney,1,1553165,6,76,Country,250
+Philadelphia,Nicki Minaj,1,1553165,9,91,Undefined,750
+Philadelphia,Post Malone,1,1553165,9,100,Undefined,750
+Philadelphia,Zedd,1,1553165,9,85,Undefined,750
+Philadelphia,Rich The Kid,1,1553165,9,85,Undefined,750
+Philadelphia,Kane Brown,1,1553165,9,77,Country,230
+Philadelphia,The Chainsmokers,0,1553165,6,88,Dance/Electronic,45
+Houston,Chris Stapleton,0,2195914,6,80,Rock,349.5
+Houston,Camila Cabello,1,2195914,9,88,Rock,600
+Houston,Taylor Swift,1,2195914,9,89,Rock,600
+Houston,Parkway Drive,0,2195914,9,70,Metal,49.5
+Houston,Ed Sheeran,1,2195914,11,94,Pop,125
+Chicago,Florida Georgia Line,1,2718782,6,85,Country,150.5
+Chicago,Florida Georgia Line,0,2718782,6,85,Country,599.5
+Chicago,Sam Smith,0,2718782,8,86,Rock,125
+Chicago,Foster The People,1,2718782,7,77,Rock,99.5
+Chicago,Charlie Puth,0,2718782,7,87,Rock,79.5
+Chicago,Janelle Monae,0,2718782,7,76,R&B,99.5
+Chicago,Kenny Chesney,1,2718782,7,76,Country,285
+Chicago,Childish Gambino,1,2718782,9,87,Hip-Hop/Rap,129.5
+Chicago,Leon Bridges,1,2718782,9,76,R&B,69.5
+Chicago,Drake,1,2718782,8,99,Hip-Hop/Rap,199.5
+Chicago,Drake,0,2718782,8,99,Hip-Hop/Rap,199.5
+Chicago,Ty Dolla $ign,0,2718782,8,92,Hip-Hop/Rap,79.5
+Chicago,Adele,0,2718782,6,83,Comedy,123
+Chicago,Zedd,1,2718782,6,85,Family,150
+Chicago,Zedd,1,2718782,6,85,Family,150
+Chicago,Justin Timberlake,0,2718782,10,85,Rock,275
+Chicago,Ed Sheeran,0,2718782,10,94,Pop,115.5
+Chicago,Migos,1,2718782,8,90,Hip-Hop/Rap,199.5
+Chicago,Maroon,0,2718782,9,88,Rock,165
+Chicago,Migos,0,2718782,8,90,Hip-Hop/Rap,199.5
+Chicago,Bazzi,0,2718782,8,83,Pop,29.5
+Chicago,Panic! At The Disco,0,2718782,7,84,Rock,80.75
+Chicago,G-Eazy,0,2718782,8,88,Hip-Hop/Rap,79.5
+Los Angeles,Charlie Puth,0,3884307,8,87,Rock,99.5
+Los Angeles,Janelle Monae,0,3884307,6,76,R&B,105
+Los Angeles,Famous Dex,0,3884307,6,80,Hip-Hop/Rap,27.5
+Los Angeles,Niall Horan,0,3884307,8,78,Rock,150
+Los Angeles,Maren Morris,0,3884307,8,82,Rock,150
+Los Angeles,Luke Bryan,1,3884307,7,79,Country,149.75
+Los Angeles,Leon Bridges,0,3884307,9,76,R&B,76.5
+Los Angeles,Grey,1,3884307,9,82,Rock,30
+Los Angeles,Maren Morris,0,3884307,8,82,Rock,165
+Los Angeles,Niall Horan,0,3884307,8,78,Rock,165
+Los Angeles,The Chainsmokers,0,3884307,6,88,Dance/Electronic,91.5
+Los Angeles,Sam Hunt,1,3884307,7,76,Country,149.75
+Los Angeles,The Chainsmokers,0,3884307,6,88,Dance/Electronic,59.5
